@@ -1,0 +1,12 @@
+{
+  "name": "iptv-proxy",
+  "version": "1.0.0",
+  "description": "IPTV Proxy for Cloudflare Workers",
+  "main": "src/index.js",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
