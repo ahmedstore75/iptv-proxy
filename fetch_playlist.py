@@ -8,68 +8,84 @@ OUTPUT_DIR = "Bangla-Iptv"
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
 
+def extract_channels(data):
+    """
+    JSON ডাটার ভেতরে যেখানেই ক্যাটাগরি বা চ্যানেলের লিস্ট থাকুক না কেন, 
+    তা রিকার্সিভলি (Recursively) খুঁজে বের করবে।
+    """
+    channels = []
+    
+    if isinstance(data, list):
+        for item in data:
+            channels.extend(extract_channels(item))
+    elif isinstance(data, dict):
+        # যদি অবজেক্টটির ভেতরে স্ট্রিম লিঙ্ক থাকে, তবে এটি একটি চ্যানেল
+        has_url = any(k in data for k in ["url", "stream_url", "link", "src", "stream", "m3u8"])
+        if has_url:
+            channels.append(data)
+        else:
+            # না থাকলে ভেতরের লিস্ট বা ক্যাটাগরির মধ্যে সার্চ করবে
+            for value in data.values():
+                if isinstance(value, (list, dict)):
+                    channels.extend(extract_channels(value))
+                    
+    return channels
+
 def generate_playlists():
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
     
     try:
+        # ১. API থেকে ডাটা আনা
+        print("Fetching JSON data from API...")
         response = requests.get(API_URL, headers=headers, timeout=15)
         response.raise_for_status()
         data = response.json()
 
-        # ১. JSON প্লেলিস্ট সেভ করা
+        # ২. Bangla-Iptv/playlist.json সেভ করা
         json_file_path = os.path.join(OUTPUT_DIR, "playlist.json")
         with open(json_file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print("✅ JSON playlist saved.")
+        print("✅ JSON playlist saved successfully.")
 
-        # ২. ডাটা থেকে চ্যানেলের লিস্ট বের করা
-        channels = []
-        if isinstance(data, list):
-            channels = data
-        elif isinstance(data, dict):
-            # সম্ভাব্য সকল key চেক করা হচ্ছে
-            for key in ["channels", "data", "channel", "result", "list"]:
-                if key in data and isinstance(data[key], list):
-                    channels = data[key]
-                    break
-            # যদি কোনো নির্দিষ্ট key না থাকে, তবে ডিকশনারির ভেতরের ভ্যালু সংগ্রহ করা
-            if not channels:
-                for val in data.values():
-                    if isinstance(val, list):
-                        channels.extend(val)
+        # ৩. সেভ হওয়া JSON থেকে চ্যানেলের তালিকা এক্সট্র্যাক্ট করা
+        channels = extract_channels(data)
+        print(f"Total channels extracted: {len(channels)}")
 
-        print(f"Total channels found: {len(channels)}")
-
-        # ৩. M3U ফাইল তৈরি করা
+        # ৪. M3U ফাইল তৈরি করা
         m3u_file_path = os.path.join(OUTPUT_DIR, "playlist.m3u")
         m3u_content = "#EXTM3U\n"
 
         valid_channel_count = 0
         for ch in channels:
-            if isinstance(ch, dict):
-                # চ্যানেল নাম, লোগো এবং লিঙ্ক খোঁজা
-                name = (ch.get("name") or ch.get("channel_name") or 
-                        ch.get("title") or ch.get("channel_title") or "Unknown Channel")
-                
-                logo = (ch.get("logo") or ch.get("icon") or 
-                        ch.get("image") or ch.get("channel_logo") or "")
-                
-                url = (ch.get("url") or ch.get("stream_url") or 
-                       ch.get("link") or ch.get("src") or ch.get("stream") or "")
+            # চ্যানেল নেম খোঁজা
+            name = (ch.get("name") or ch.get("channel_name") or 
+                    ch.get("title") or ch.get("channel_title") or 
+                    ch.get("tvg-name") or "Unknown Channel")
+            
+            # লোগো ইউআরএল খোঁজা
+            logo = (ch.get("logo") or ch.get("icon") or 
+                    ch.get("image") or ch.get("channel_logo") or 
+                    ch.get("tvg-logo") or "")
+            
+            # স্ট্রিম ইউআরএল খোঁজা
+            url = (ch.get("url") or ch.get("stream_url") or 
+                   ch.get("link") or ch.get("src") or 
+                   ch.get("stream") or ch.get("m3u8") or "")
 
-                if url:
-                    m3u_content += f'#EXTINF:-1 tvg-logo="{logo}",{name}\n{url}\n'
-                    valid_channel_count += 1
+            if url and isinstance(url, str) and url.startswith("http"):
+                m3u_content += f'#EXTINF:-1 tvg-logo="{logo}",{name}\n{url}\n'
+                valid_channel_count += 1
 
+        # ৫. Bangla-Iptv/playlist.m3u সেভ করা
         with open(m3u_file_path, "w", encoding="utf-8") as f:
             f.write(m3u_content)
         
-        print(f"✅ M3U playlist saved with {valid_channel_count} channels.")
+        print(f"✅ M3U playlist saved successfully with {valid_channel_count} channels.")
 
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"❌ Error generating playlists: {e}")
 
 if __name__ == "__main__":
     generate_playlists()
