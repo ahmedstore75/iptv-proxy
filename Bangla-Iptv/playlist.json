@@ -1,11 +1,4 @@
-{
-    "app_name": "Bangla Iptv",
-    "developed_by": "Ahammad Ali",
-    "telegram_channel": "https://t.me/banglatvlivefree",
-    "categories": [
-        {
-            "name": "Bangla",
-            "channels": [
+ [
                 {
                     "id": 1,
                     "name": "G-Series",
