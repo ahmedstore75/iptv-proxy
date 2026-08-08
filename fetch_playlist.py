@@ -2,7 +2,8 @@ import os
 import json
 import requests
 
-API_URL = "https://sm-monirul.top/api/app/info/channel_data.json"
+API_URL = "https://sm-monirul.top/api/app/info/channel_data.json",
+API_URL = "http://198.195.239.50/tv_channels.json"
 OUTPUT_DIR = "Bangla-Iptv"
 
 if not os.path.exists(OUTPUT_DIR):
