@@ -1,5 +1,4 @@
-{
-  "channels": [
+ [
     {
       "name": "TSPORTS HD",
       "category": "Sports",
@@ -392,5 +391,4 @@
       "logo": "img/channels/DISCOVERY KIDS.png",
       "status": "hidden"
     }
-  ]
-}
+ ]
