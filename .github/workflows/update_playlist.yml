@@ -2,10 +2,11 @@ name: Auto Fetch Channels and Update M3U
 
 on:
   schedule:
-    # প্রতি ৬ ঘণ্টা পর পর অটোমেটিক রান করবে (ক্রন ফরম্যাট)
     - cron: '0 */6 * * *'
-  # GitHub থেকে ম্যানুয়ালি রান করার অপশন
   workflow_dispatch:
+
+permissions:
+  contents: write # অটোমেটিক পুশ পারমিশন নিশ্চিত করার জন্য
 
 jobs:
   build:
@@ -14,6 +15,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,12 +32,17 @@ jobs:
         run: python script.py
 
       - name: Commit and Push Updated Files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action Bot"
-          git add tv_channels.json playlist.m3u
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # ফাইল পরিবর্তন হলে নতুন কমিট করবে
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update channels and m3u playlist" && git push)
+          # তৈরি হওয়া ফাইলগুলো যোগ করা
+          git add tv_channels.json playlist.m3u 2>/dev/null || true
+          
+          # পরিবর্তন থাকলে কমিট ও পুশ করবে
+          if git status --porcelain | grep -E 'tv_channels.json|playlist.m3u'; then
+            git commit -m "Auto update channels and m3u playlist"
+            git push
+          else
+            echo "No changes to commit"
+          fi
