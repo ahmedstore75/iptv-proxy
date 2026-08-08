@@ -1,84 +1,91 @@
 import json
-import os
 import requests
 
-# ১. টার্গেট URL এবং সেভ করার ফাইল পাথ নির্ধারণ
 URL = "http://198.195.239.50/tv_channels.json"
-JSON_OUTPUT_FILE = "tv_channels.json"
-M3U_OUTPUT_FILE = "playlist.m3u"
+JSON_OUTPUT = "tv_channels.json"
+M3U_OUTPUT = "playlist.m3u"
 
 
-def fetch_json_data(url):
-    """লিংক থেকে JSON ডেটা সংগ্রহ করে"""
+def fetch_and_convert():
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        )
+    }
+
+    print(f"Fetching data from {URL}...")
     try:
-        headers = {
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-            )
-        }
-        response = requests.get(url, headers=headers, timeout=15)
+        response = requests.get(URL, headers=headers, timeout=20)
         response.raise_for_status()
-
-        # JSON ফাইল স্থানীয়ভাবে সেভ করা
         data = response.json()
-        with open(JSON_OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
-
-        print(f"✓ JSON ডেটা সফলভাবে ডাউনলোড ও সেভ হয়েছে: {JSON_OUTPUT_FILE}")
-        return data
-
-    except requests.exceptions.RequestException as e:
-        print(f"❌ ডেটা সংগ্রহ করতে ব্যর্থ হয়েছে: {e}")
-        return None
-
-
-def convert_json_to_m3u(json_data):
-    """JSON ডেটাকে M3U প্লেলিস্ট ফরম্যাটে রূপান্তর করে"""
-    if not json_data:
-        print("M3U তৈরির জন্য কোনো JSON ডেটা পাওয়া যায়নি।")
+    except Exception as e:
+        print(f"❌ Error fetching JSON: {e}")
+        # যদি URL কাজ না করে তবে খালি ফাইল না বানিয়ে স্ক্রিপ্ট থামাবে
         return
 
-    # M3U ফাইলের হেডার
-    m3u_lines = ["#EXTM3U"]
+    # JSON ফাইল হিসেবে সেভ
+    with open(JSON_OUTPUT, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f"✓ Saved {JSON_OUTPUT}")
 
-    # JSON ফরম্যাট অনুযায়ী চ্যানেল প্রসেসিং
-    # (সাধারণত JSON ডেটা একটি লিস্ট হয় অথবা এর ভেতরে 'channels' অবজেক্ট থাকে)
-    channels = (
-        json_data if isinstance(json_data, list) else json_data.get("channels", [])
-    )
+    # ডাইনামিক ফিল্টারিং দিয়ে M3U তৈরি
+    channels = []
+    if isinstance(data, list):
+        channels = data
+    elif isinstance(data, dict):
+        # যদি ডিকশনারির ভেতরে 'channels', 'data', 'items' বা সরাসরি অবজেক্ট থাকে
+        channels = (
+            data.get("channels")
+            or data.get("data")
+            or data.get("items")
+            or list(data.values())
+        )
+
+    m3u_lines = ["#EXTM3U"]
+    count = 0
 
     for item in channels:
-        # সম্ভাব্য কি (Key) নামসমূহ চেক করা
+        if not isinstance(item, dict):
+            continue
+
+        # নাম খোঁজা
         title = (
             item.get("name")
             or item.get("title")
             or item.get("channel_name")
+            or item.get("channel")
             or "Unknown Channel"
         )
+
+        # লিঙ্ক/ইউআরএল খোঁজা
         stream_url = (
             item.get("url")
-            or item.get("stream_url")
             or item.get("link")
+            or item.get("stream_url")
             or item.get("src")
+            or item.get("file")
         )
-        logo = item.get("logo") or item.get("tvg-logo") or ""
-        group = item.get("group") or item.get("category") or "General"
 
-        if stream_url:
-            # EXTINF ট্যাগ গঠন
+        logo = (
+            item.get("logo")
+            or item.get("tvg-logo")
+            or item.get("icon")
+            or item.get("image")
+            or ""
+        )
+        group = item.get("group") or item.get("category") or "Live TV"
+
+        if stream_url and str(stream_url).startswith("http"):
             extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{title}'
             m3u_lines.append(extinf)
-            m3u_lines.append(stream_url)
+            m3u_lines.append(str(stream_url))
+            count += 1
 
-    # M3U ফাইল তৈরি/রাইট করা
-    with open(M3U_OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(M3U_OUTPUT, "w", encoding="utf-8") as f:
         f.write("\n".join(m3u_lines))
 
-    print(f"✓ M3U প্লেলিস্ট সফলভাবে তৈরি হয়েছে: {M3U_OUTPUT_FILE}")
+    print(f"✓ M3U created successfully with {count} channels!")
 
 
 if __name__ == "__main__":
-    print("ডেটা ডাউনলোড প্রক্রিয়া শুরু হচ্ছে...")
-    data = fetch_json_data(URL)
-    if data:
-        convert_json_to_m3u(data)
+    fetch_and_convert()
