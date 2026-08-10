@@ -3,7 +3,7 @@ import sys
 import requests
 
 # আপনার API EndPoint
-URL = "https://iptvlive-beta.vercel.app/api/channels"
+URL = "https://iptvlive-beta.vercel.app"
 JSON_OUTPUT = "tv_channels.json"
 M3U_OUTPUT = "playlist.m3u"
 
