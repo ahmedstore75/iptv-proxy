@@ -1,4 +1,4 @@
-name: Auto Update Bangla-IPTV Playlist
+name: Auto Update Bangla Playlist
 
 on:
   schedule:
