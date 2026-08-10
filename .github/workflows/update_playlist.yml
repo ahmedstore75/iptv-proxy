@@ -2,11 +2,11 @@ name: Auto Fetch Channels and Update M3U
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর অটো রান হবে
+  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
 
 permissions:
-  contents: write # অটোমেটিক পুশ পারমিশন নিশ্চিত করার জন্য
+  contents: write # রিমিট ও পুশের জন্য জরুরি পারমিশন
 
 jobs:
   build:
@@ -16,6 +16,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -29,20 +30,23 @@ jobs:
           pip install requests
 
       - name: Run Script
-        run: python script.py
+        run: |
+          # নিশ্চিত করুন আপনার পাইথন ফাইলের নাম সঠিকভাবে দেওয়া আছে
+          python script.py
 
       - name: Commit and Push Updated Files
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # তৈরি হওয়া ফাইলগুলো যোগ করা
-          git add tv_channels.json playlist.m3u 2>/dev/null || true
+          # তৈরি হওয়া ফাইলগুলোকে ট্র্যাক করা
+          git add tv_channels.json playlist.m3u
           
-          # পরিবর্তন থাকলে কমিট ও পুশ করবে
-          if git status --porcelain | grep -E 'tv_channels.json|playlist.m3u'; then
-            git commit -m "Auto update channels and m3u playlist"
-            git push
+          # পরিবর্তন আছে কি না তা নিরাপদভাবে চেক করা
+          if ! git diff --staged --quiet; then
+            echo "Changes detected! Committing and pushing..."
+            git commit -m "Auto update channels and m3u playlist [skip ci]"
+            git push origin HEAD:${{ github.ref }}
           else
-            echo "No changes to commit"
+            echo "No changes detected in tv_channels.json or playlist.m3u."
           fi
