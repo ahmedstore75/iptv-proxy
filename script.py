@@ -1,7 +1,7 @@
 import json
 import requests
 
-URL = "http://198.195.239.50/tv_channels.json"
+URL = "https://iptvlive-beta.vercel.app"
 JSON_OUTPUT = "tv_channels.json"
 M3U_OUTPUT = "playlist.m3u"
 
