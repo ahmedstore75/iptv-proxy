@@ -1,52 +1,36 @@
-name: Auto Fetch Channels and Update M3U
+name: Auto Update Bangla-IPTV Playlist
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর অটো রান হবে
-  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
-
-permissions:
-  contents: write # রিমিট ও পুশের জন্য জরুরি পারমিশন
+    # প্রতিদিন রাত ১২টায় (UTC) স্বয়ংক্রিয়ভাবে চলবে
+    - cron: '0 0 * * *'
+  # ম্যানুয়ালি রান করার অপশন
+  workflow_dispatch:
 
 jobs:
-  build:
+  update-playlist:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+    - name: Check out repository
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
 
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
 
-      - name: Run Script
-        run: |
-          # নিশ্চিত করুন আপনার পাইথন ফাইলের নাম সঠিকভাবে দেওয়া আছে
-          python script.py
+    - name: Run playlist script
+      run: python script.py
 
-      - name: Commit and Push Updated Files
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # তৈরি হওয়া ফাইলগুলোকে ট্র্যাক করা
-          git add tv_channels.json playlist.m3u
-          
-          # পরিবর্তন আছে কি না তা নিরাপদভাবে চেক করা
-          if ! git diff --staged --quiet; then
-            echo "Changes detected! Committing and pushing..."
-            git commit -m "Auto update channels and m3u playlist [skip ci]"
-            git push origin HEAD:${{ github.ref }}
-          else
-            echo "No changes detected in tv_channels.json or playlist.m3u."
-          fi
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add Bangla-Iptv/
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update IPTV playlist" && git push)
