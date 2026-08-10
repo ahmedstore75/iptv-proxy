@@ -20,26 +20,32 @@ def fetch_and_convert():
         data = response.json()
     except Exception as e:
         print(f"❌ Error fetching JSON: {e}")
-        # যদি URL কাজ না করে তবে খালি ফাইল না বানিয়ে স্ক্রিপ্ট থামাবে
         return
 
-    # JSON ফাইল হিসেবে সেভ
-    with open(JSON_OUTPUT, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-    print(f"✓ Saved {JSON_OUTPUT}")
+    # JSON ফাইল সেভ
+    try:
+        with open(JSON_OUTPUT, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
+        print(f"✓ Saved {JSON_OUTPUT}")
+    except Exception as e:
+        print(f"❌ Could not save JSON file: {e}")
 
     # ডাইনামিক ফিল্টারিং দিয়ে M3U তৈরি
     channels = []
     if isinstance(data, list):
         channels = data
     elif isinstance(data, dict):
-        # যদি ডিকশনারির ভেতরে 'channels', 'data', 'items' বা সরাসরি অবজেক্ট থাকে
+        # সাধারণ সম্ভাব্য কি (keys) চেক করা
         channels = (
             data.get("channels")
             or data.get("data")
             or data.get("items")
             or list(data.values())
         )
+
+    if not channels:
+        print("❌ No channel list found in response!")
+        return
 
     m3u_lines = ["#EXTM3U"]
     count = 0
@@ -48,7 +54,6 @@ def fetch_and_convert():
         if not isinstance(item, dict):
             continue
 
-        # নাম খোঁজা
         title = (
             item.get("name")
             or item.get("title")
@@ -57,7 +62,6 @@ def fetch_and_convert():
             or "Unknown Channel"
         )
 
-        # লিঙ্ক/ইউআরএল খোঁজা
         stream_url = (
             item.get("url")
             or item.get("link")
@@ -81,10 +85,13 @@ def fetch_and_convert():
             m3u_lines.append(str(stream_url))
             count += 1
 
-    with open(M3U_OUTPUT, "w", encoding="utf-8") as f:
-        f.write("\n".join(m3u_lines))
-
-    print(f"✓ M3U created successfully with {count} channels!")
+    # M3U ফাইল সেভ
+    try:
+        with open(M3U_OUTPUT, "w", encoding="utf-8") as f:
+            f.write("\n".join(m3u_lines))
+        print(f"✓ M3U created successfully with {count} channels!")
+    except Exception as e:
+        print(f"❌ Could not save M3U file: {e}")
 
 
 if __name__ == "__main__":
