@@ -14988,12 +14988,6 @@
         "url": "https://iptvlive-beta.vercel.app/independent-tv-1/index.m3u8"
     },
     {
-        "logo": "https://i.postimg.cc/MTD2w3yb/1000115340.png",
-        "group": "Bangla",
-        "name": "Bhi Channel",
-        "url": "https://iptvlive-beta.vercel.app/bhi-channel/index.m3u8"
-    },
-    {
         "logo": "https://chsuk.tv/wp-content/uploads/2025/11/CHS-Side-Text.png",
         "group": "Bangla",
         "name": "Channel S UK",
@@ -15006,16 +15000,10 @@
         "url": "https://iptvlive-beta.vercel.app/channel-europe/index.m3u8"
     },
     {
-        "logo": "https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",
-        "group": "Bangla",
-        "name": "Deshi TV",
-        "url": "https://iptvlive-beta.vercel.app/deshi-tv/index.m3u8"
-    },
-    {
         "logo": "https://assets-prod.services.toffeelive.com/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png",
         "group": "Bangla",
         "name": "Deshi TV",
-        "url": "https://iptvlive-beta.vercel.app/deshi-tv-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/deshi-tv/index.m3u8"
     },
     {
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzayWMQexbfPV-jTx3ZNoq-XOmlHKSX1SCjg&s",
@@ -15028,12 +15016,6 @@
         "group": "Bangla",
         "name": "Deshe Bideshe",
         "url": "https://iptvlive-beta.vercel.app/deshe-bideshe-1/index.m3u8"
-    },
-    {
-        "logo": "https://www.tbn24.com/logo.png",
-        "group": "Bangla",
-        "name": "TBN 24",
-        "url": "https://iptvlive-beta.vercel.app/tbn-24/index.m3u8"
     },
     {
         "logo": "https://i.postimg.cc/yNvkbdL4/1000114150.png",
@@ -15066,7 +15048,7 @@
         "url": "https://iptvlive-beta.vercel.app/g-tv-1/index.m3u8"
     },
     {
-        "logo": "https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b",
+        "logo": "https://assets-prod.services.toffeelive.com/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png",
         "group": "Bangla",
         "name": "Global TV",
         "url": "https://iptvlive-beta.vercel.app/global-tv-3/index.m3u8"
@@ -15102,7 +15084,7 @@
         "url": "https://iptvlive-beta.vercel.app/sanonda-tv/index.m3u8"
     },
     {
-        "logo": "https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg",
+        "logo": "https://assets-prod.services.toffeelive.com/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png",
         "group": "Bangla",
         "name": "Ananda TV",
         "url": "https://iptvlive-beta.vercel.app/ananda-tv-3/index.m3u8"
@@ -15138,7 +15120,7 @@
         "url": "https://iptvlive-beta.vercel.app/ekushey-tv-2/index.m3u8"
     },
     {
-        "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png",
+        "logo": "https://assets-prod.services.toffeelive.com/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png",
         "group": "Bangla",
         "name": "Ekhon TV",
         "url": "https://iptvlive-beta.vercel.app/ekhon-tv-2/index.m3u8"
@@ -15162,31 +15144,13 @@
         "url": "https://iptvlive-beta.vercel.app/me-tv-1/index.m3u8"
     },
     {
-        "logo": "https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",
-        "group": "Bangla",
-        "name": "Movie Bangla",
-        "url": "https://iptvlive-beta.vercel.app/movie-bangla-2/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/NRB.png",
-        "group": "Bangla",
-        "name": "NRB TV",
-        "url": "https://iptvlive-beta.vercel.app/nrb-tv/index.m3u8"
-    },
-    {
-        "logo": "https://probashinews24.tv/images/logo.png",
-        "group": "Bangla",
-        "name": "Probashi TV",
-        "url": "https://iptvlive-beta.vercel.app/probashi-tv/index.m3u8"
-    },
-    {
         "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png",
         "group": "Bangla",
         "name": "Bangla Plus",
         "url": "https://iptvlive-beta.vercel.app/bangla-plus/index.m3u8"
     },
     {
-        "logo": "https://i.postimg.cc/zf2GjRZ1/1000115145.jpg",
+        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
         "group": "Bangla",
         "name": "SA TV",
         "url": "https://iptvlive-beta.vercel.app/sa-tv-2/index.m3u8"
@@ -15210,25 +15174,19 @@
         "url": "https://iptvlive-beta.vercel.app/boishakhi-tv-2/index.m3u8"
     },
     {
-        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",
+        "logo": "https://assets-prod.services.toffeelive.com/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png",
         "group": "Bangla",
-        "name": "NEXUS TV",
+        "name": "Nexus TV",
         "url": "https://iptvlive-beta.vercel.app/nexus-tv-1/index.m3u8"
     },
     {
         "logo": "https://i.postimg.cc/gjyb24hM/1000115063.jpg",
         "group": "Bangla",
-        "name": "নাগরিক টিভি",
-        "url": "https://iptvlive-beta.vercel.app/channel-13/index.m3u8"
+        "name": "Nagorik TV",
+        "url": "https://iptvlive-beta.vercel.app/nagorik-tv-1/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png",
-        "group": "Bangla",
-        "name": "Ekattor TV",
-        "url": "https://iptvlive-beta.vercel.app/ekattor-tv/index.m3u8"
-    },
-    {
-        "logo": "https://sm-monirul.top/assets/images/t_sports.png",
+        "logo": "https://i.postimg.cc/26pLYgzB/1000115823.jpg",
         "group": "Sports",
         "name": "T Sports",
         "url": "https://iptvlive-beta.vercel.app/t-sports/index.m3u8"
@@ -15264,10 +15222,10 @@
         "url": "https://iptvlive-beta.vercel.app/sony-ten-cricket/index.m3u8"
     },
     {
-        "logo": "https://i.postimg.cc/NMYdkKxf/1000114839.png",
+        "logo": "https://i.postimg.cc/Bv4jbHrr/1000116232.jpg",
         "group": "Sports",
-        "name": "Star Sports Select 1 HD",
-        "url": "https://iptvlive-beta.vercel.app/star-sports-select-1-hd/index.m3u8"
+        "name": "Ten Sports",
+        "url": "https://iptvlive-beta.vercel.app/ten-sports/index.m3u8"
     },
     {
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",
