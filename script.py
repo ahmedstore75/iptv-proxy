@@ -3,7 +3,7 @@ import re
 import json
 import requests
 
-API_URL = "https://iptvlive-beta.vercel.app"
+API_URL = "https://saiptvlive.ahmed-bd-org.workers.dev"
 OUTPUT_DIR = "Bangla"
 
 if not os.path.exists(OUTPUT_DIR):
