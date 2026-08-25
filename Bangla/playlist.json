@@ -14664,6 +14664,12 @@
         "url": "https://iptvlive-beta.vercel.app/somoy-tv-2/index.m3u8"
     },
     {
+        "logo": "https://198.195.239.50/img/channels/CHANNEL%2024.png",
+        "group": "General",
+        "name": "CHANNEL 24",
+        "url": "https://iptvlive-beta.vercel.app/channel-24/index.m3u8"
+    },
+    {
         "logo": "https://198.195.239.50/img/channels/NEWS24%20HD.png",
         "group": "General",
         "name": "NEWS 24",
@@ -15045,7 +15051,7 @@
         "logo": "https://198.195.239.50/img/channels/CHANNEL%2024.png",
         "group": "News",
         "name": "CHANNEL 24",
-        "url": "https://iptvlive-beta.vercel.app/channel-24/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/channel-24-1/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/ATN%20NEWS.png",
