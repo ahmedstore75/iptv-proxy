@@ -98,14 +98,8 @@
     {
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
         "group": "News",
-        "name": "Star News",
+        "name": "Star Newshttps://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8",
         "url": "https://iptvlive-beta.vercel.app/star-news/index.m3u8"
-    },
-    {
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1781166550297.png",
-        "group": "News",
-        "name": "BTV Shangshad",
-        "url": "https://iptvlive-beta.vercel.app/btv-shangshad/index.m3u8"
     },
     {
         "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
@@ -14288,12 +14282,6 @@
     {
         "logo": " ",
         "group": "Bangladeshi 🇧🇩",
-        "name": "Desh TV",
-        "url": "https://iptvlive-beta.vercel.app/desh-tv-2/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "Bangladeshi 🇧🇩",
         "name": "pcv",
         "url": "https://iptvlive-beta.vercel.app/pcv/index.m3u8"
     },
@@ -14577,7 +14565,7 @@
         "logo": "https://assets-prod.services.toffeelive.com/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png",
         "group": "General",
         "name": "DESH TV",
-        "url": "https://iptvlive-beta.vercel.app/desh-tv-3/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/desh-tv-2/index.m3u8"
     },
     {
         "logo": "https://i.postimg.cc/HxGF4V2b/20250529_103226.png",
