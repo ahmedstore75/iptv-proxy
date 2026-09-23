@@ -882,12 +882,6 @@
         "url": "https://iptvlive-beta.vercel.app/t-sports-hd/index.m3u8"
     },
     {
-        "logo": "https://i.postimg.cc/rFKBNjwP/Ptvsportslogo2023.webp",
-        "group": "Sports",
-        "name": "PTV Sports",
-        "url": "https://iptvlive-beta.vercel.app/ptv-sports/index.m3u8"
-    },
-    {
         "logo": "https://i.postimg.cc/0yzwt46Q/20241126-220214.png",
         "group": "Sports",
         "name": "Ten Cricket",
@@ -1053,7 +1047,7 @@
         "logo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
         "group": "Sports",
         "name": "PTV Sports",
-        "url": "https://iptvlive-beta.vercel.app/ptv-sports-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/ptv-sports/index.m3u8"
     },
     {
         "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",
@@ -4545,7 +4539,7 @@
         "logo": "https://198.195.239.50/img/channels/PTV%20SPORTS%20HD.png",
         "group": "General",
         "name": "PTV SPORTS",
-        "url": "https://iptvlive-beta.vercel.app/ptv-sports-2/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/ptv-sports-1/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/EUROSPORTS%20HD.png",
@@ -5744,8 +5738,8 @@
     {
         "logo": "https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/7817f96d-50b5-4618-8a8b-41cba7a62fb9.png",
         "group": "Toffee",
-        "name": "BFL | Live 1",
-        "url": "https://iptvlive-beta.vercel.app/bfl-live-1/index.m3u8"
+        "name": "FC | Live 1",
+        "url": "https://iptvlive-beta.vercel.app/fc-live-1/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",
