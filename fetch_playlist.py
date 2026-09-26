@@ -78,17 +78,15 @@ def fix_logo_url(logo_path):
 
 def clean_channel_name(name):
     """
-    নামের ভেতরের ডট (.), হাইফেন (-), অতিরিক্ত স্পেস এবং স্পেশাল ক্যারেক্টার বাদ দিয়ে 
-    তুলনা করার জন্য একটি কমন ফরম্যাটে আনবে।
-    উদাহরণ: "COLORS.BANGLA.HD" -> "COLORS BANGLA HD"
+    চ্যানেলের নাম এবং ইউআরএল তুলনার জন্য নরম্যালাইজ করে সব ক্যারেক্টার ও কেস সমান করবে।
+    যেমন: 'ENTER10.BANGLA' এবং 'enter10Bangla' উভয়ই 'ENTER10BANGLA' হয়ে যাবে।
     """
-    clean = re.sub(r'[\.\_\-]+', ' ', name)
-    clean = re.sub(r'\s+', ' ', clean).strip().upper()
-    return clean
+    clean = re.sub(r'[\.\_\-\s]+', '', name)
+    return clean.upper().strip()
 
 def remove_duplicates(channels):
     """
-    একই নামের বা একই ইউআরএল-এর চ্যানেল ফিল্টার করে বাদ দেবে
+    ইউআরএল (Case-insensitive) এবং নামের বৈষম্য রিমুভ করে ডুপ্লিকেট বাদ দেবে।
     """
     seen_names = set()
     seen_urls = set()
@@ -96,15 +94,16 @@ def remove_duplicates(channels):
 
     for ch in channels:
         raw_name = ch.get("name", "")
-        url = ch.get("url", "") or ch.get("stream_url", "")
+        raw_url = ch.get("url", "") or ch.get("stream_url", "")
         
         normalized_name = clean_channel_name(raw_name)
+        # ইউআরএল কেস ইনসেনসিটিভ করার জন্য lower() করা হলো
+        normalized_url = raw_url.lower().strip()
 
-        # যদি এই নামের বা এই স্ট্রিম ইউআরএল-এর চ্যানেল আগে না এসে থাকে, তবেই সেভ করবে
-        if normalized_name not in seen_names and url not in seen_urls:
+        if normalized_name not in seen_names and normalized_url not in seen_urls:
             seen_names.add(normalized_name)
-            if url:
-                seen_urls.add(url)
+            if normalized_url:
+                seen_urls.add(normalized_url)
             unique_channels.append(ch)
 
     return unique_channels
@@ -121,16 +120,16 @@ def generate_playlists():
 
         raw_channels = data.get("channels", [])
 
-        # ২. ডুপ্লিকেট চ্যানেল রিমুভ করা
+        # ২. ডুপ্লিকেট চ্যানেল ফিল্টার করা
         channels = remove_duplicates(raw_channels)
         print(f"🧹 Removed duplicates: {len(raw_channels)} -> {len(channels)} unique channels.")
 
-        # ৩. লোগো লিংক ঠিক করা
+        # ৩. লোগো লিংক সম্পূর্ণ ইউআরএল করা
         for ch in channels:
             raw_logo = ch.get("logo", "")
             ch["logo"] = fix_logo_url(raw_logo)
 
-        # ৪. ক্যাটাগরি অনুযায়ী সাজানো
+        # ৪. ক্যাটাগরি সাজানোর সিরিয়াল (Priority Order)
         category_order = {
             "Bangla": 1,
             "Indian Bangla": 2,
@@ -155,8 +154,15 @@ def generate_playlists():
 
         def sort_key(ch):
             cat = ch.get("category", "General").strip()
-            order = category_order.get(cat, 999)
-            return (order, cat, ch.get("name", ""))
+            cat_rank = category_order.get(cat, 999)
+            
+            name = ch.get("name", "")
+            
+            # সনি স্পোর্টস ও অন্যান্য স্পোর্টস চ্যানেল ১, ২, ৩, ৪ ক্রমানুসারে সাজানোর নিয়ম
+            # নামের মধ্যে থাকা সংখ্যাগুলোকে প্রপার ইনটিজার হিসেবে সর্ট করবে
+            name_parts = [int(text) if text.isdigit() else text.lower() for text in re.split(r'(\d+)', name)]
+            
+            return (cat_rank, cat, name_parts)
 
         sorted_channels = sorted(channels, key=sort_key)
         data["channels"] = sorted_channels
@@ -165,7 +171,7 @@ def generate_playlists():
         json_file_path = os.path.join(OUTPUT_DIR, "playlist.json")
         with open(json_file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print("✅ JSON playlist saved (No Duplicates).")
+        print("✅ JSON playlist saved successfully (No Duplicates & Alphabetically Sorted).")
 
         # ৬. M3U সেভ করা
         m3u_file_path = os.path.join(OUTPUT_DIR, "playlist.m3u")
@@ -190,7 +196,7 @@ def generate_playlists():
         with open(m3u_file_path, "w", encoding="utf-8") as f:
             f.write(m3u_content)
             
-        print(f"✅ M3U playlist saved ({valid_channel_count} unique channels).")
+        print(f"✅ M3U playlist saved successfully ({valid_channel_count} unique channels).")
 
     except Exception as e:
         print(f"❌ Error generating playlists: {e}")
