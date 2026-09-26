@@ -134,13 +134,6 @@
             "status": "visible"
         },
         {
-            "name": "JALSHA.MOVIES.HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png",
-            "status": "visible"
-        },
-        {
             "name": "SONY AATH",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/sonyAath/index.m3u8",
@@ -158,13 +151,6 @@
             "name": "STAR JALSHA HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/starJalsha/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/STAR%20JALSHA%20HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.JALSHA.HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/STAR.JALSHA.HD/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/STAR%20JALSHA%20HD.png",
             "status": "visible"
         },
@@ -187,13 +173,6 @@
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/ZEE%20BANGLA%20CINEMA.png",
-            "status": "visible"
-        },
-        {
-            "name": "ZEE.BANGLA.HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/ZEE.BANGLA.HD/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/ZEE%20BANGLA%20HD.png",
             "status": "visible"
         },
         {
@@ -526,13 +505,6 @@
             "status": "visible"
         },
         {
-            "name": "SONY.MAX.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/SONY%20MAX%20HD.png",
-            "status": "visible"
-        },
-        {
             "name": "SONY.PIX.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8",
@@ -568,31 +540,10 @@
             "status": "visible"
         },
         {
-            "name": "STAR.GOLD.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/STAR%20GOLD%20HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.MOVIES.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/STAR%20MOVIES%20HD.png",
-            "status": "visible"
-        },
-        {
             "name": "STAR.MOVIES.SEL.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/images__3_.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.PLUS.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/STAR.PLUS.HD/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/STAR%20PLUS%20HD.png",
             "status": "visible"
         },
         {
@@ -631,23 +582,9 @@
             "status": "visible"
         },
         {
-            "name": "ZEE.TV.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/ZEE.TV.HD/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/ZEE%20TV%20HD.png",
-            "status": "visible"
-        },
-        {
             "name": "ANIMAL PLANET HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/animalPlanet/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ANIMAL.PLANET.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png",
             "status": "visible"
         },
@@ -662,13 +599,6 @@
             "name": "DISCOVERY HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/discovery/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/DISCOVERY%20HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "DISCOVERY.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/DISCOVERY%20HD.png",
             "status": "visible"
         },
@@ -799,23 +729,9 @@
             "status": "visible"
         },
         {
-            "name": "NICK",
-            "category": "Kids",
-            "url": "http://198.195.239.50:8095/NICK/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/NICK.png",
-            "status": "visible"
-        },
-        {
             "name": "NICK JR",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/nickJr/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/NICK%20JR.png",
-            "status": "visible"
-        },
-        {
-            "name": "NICK.JR",
-            "category": "Kids",
-            "url": "http://198.195.239.50:8095/NICK.JR/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/NICK%20JR.png",
             "status": "visible"
         },
@@ -827,13 +743,6 @@
             "status": "visible"
         },
         {
-            "name": "POGO",
-            "category": "Kids",
-            "url": "http://198.195.239.50:8095/POGO/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/POGO.png",
-            "status": "visible"
-        },
-        {
             "name": "SONIC",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/sonic/index.m3u8",
@@ -841,23 +750,9 @@
             "status": "visible"
         },
         {
-            "name": "SONIC",
-            "category": "Kids",
-            "url": "http://198.195.239.50:8095/SONIC/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/SONIC.png",
-            "status": "visible"
-        },
-        {
             "name": "SONY YAY",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/sonyYay/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/SONY%20YAY.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY.YAY",
-            "category": "Kids",
-            "url": "http://198.195.239.50:8095/SONY.YAY/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/SONY%20YAY.png",
             "status": "visible"
         },
@@ -874,13 +769,6 @@
             "url": "http://198.195.239.50:8095/9xm/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/9XM%20MUSIC.png",
             "status": "hidden"
-        },
-        {
-            "name": "9XM.MUSIC",
-            "category": "Music",
-            "url": "http://198.195.239.50:8095/9XM.MUSIC/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/9XM%20MUSIC.png",
-            "status": "visible"
         },
         {
             "name": "MTV.INDIA",
@@ -900,13 +788,6 @@
             "name": "SANGEET BANGLA",
             "category": "Music",
             "url": "http://198.195.239.50:8095/sangeetBangla/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/SANGEET%20BANGLA.png",
-            "status": "visible"
-        },
-        {
-            "name": "SANGEET.BANGLA",
-            "category": "Music",
-            "url": "http://198.195.239.50:8095/SANGEET.BANGLA/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/SANGEET%20BANGLA.png",
             "status": "visible"
         },
