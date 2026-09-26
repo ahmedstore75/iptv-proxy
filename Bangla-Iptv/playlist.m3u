@@ -33,8 +33,6 @@ http://198.195.239.50:8095/COLORS.BANGLA.CINEMA/index.m3u8
 http://198.195.239.50:8095/COLORS.BANGLA.HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ENTERR%2010%20BANGLA.png" group-title="Indian Bangla",ENTER 10 BANGLA
 http://198.195.239.50:8095/enter10Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images__8_.jpg" group-title="Indian Bangla",ENTER10.BANGLA
-http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png" group-title="Indian Bangla",JALSHA MOVIES HD
 http://198.195.239.50:8095/jalshaMovies/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20AATH.png" group-title="Indian Bangla",SONY AATH
@@ -63,26 +61,26 @@ http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8
 http://198.195.239.50:8095/somoyTv/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20SPORTS1%20HD.png" group-title="Sports",SONY-SPORTS.5HD
 http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20SPORTS2%20HD.png" group-title="Sports",SONY.SPORTS2.HD
+http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images__6_.jpg" group-title="Sports",SONY.SPORTS.1HD
 http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20SPORTS3%20HD.png" group-title="Sports",SONY.SPORTS.3
 http://198.195.239.50:8095/SONY.SPORTS.3/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20SPORTS4%20HD.png" group-title="Sports",SONY.SPORTS.4
 http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20SPORTS2%20HD.png" group-title="Sports",SONY.SPORTS2.HD
-http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/STAR%20SPORTS3.png" group-title="Sports",STAR-SPORTS.3
 http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/STAR%20SPORTS1%20HD.png" group-title="Sports",STAR.SPORTS1.HD
+http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/STAR%20SPORTS2%20HD.png" group-title="Sports",STAR.SPORTS2.HD
+http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images__2_.jpg" group-title="Sports",STAR.SPORTS-SEL1.HD
 http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/STAR%204K.png" group-title="Sports",STAR.SPORTS.4K
 http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images__1_.jpg" group-title="Sports",STAR.SPORTS.SEL.2.HD
 http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/STAR%20SPORTS1%20HD.png" group-title="Sports",STAR.SPORTS1.HD
-http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/STAR%20SPORTS2%20HD.png" group-title="Sports",STAR.SPORTS2.HD
-http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/T%20SPORTS.png" group-title="Sports",T-SPORTS-HD
 http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images__7_.png" group-title="News",ALJAZEERA.HD

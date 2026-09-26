@@ -120,13 +120,6 @@
             "status": "visible"
         },
         {
-            "name": "ENTER10.BANGLA",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/images__8_.jpg",
-            "status": "visible"
-        },
-        {
             "name": "JALSHA MOVIES HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/jalshaMovies/index.m3u8",
@@ -225,6 +218,13 @@
             "status": "visible"
         },
         {
+            "name": "SONY.SPORTS2.HD",
+            "category": "Sports",
+            "url": "http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8",
+            "logo": "http://198.195.239.50/img/channels/SONY%20SPORTS2%20HD.png",
+            "status": "visible"
+        },
+        {
             "name": "SONY.SPORTS.1HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8",
@@ -246,17 +246,24 @@
             "status": "visible"
         },
         {
-            "name": "SONY.SPORTS2.HD",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/SONY%20SPORTS2%20HD.png",
-            "status": "visible"
-        },
-        {
             "name": "STAR-SPORTS.3",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/STAR%20SPORTS3.png",
+            "status": "visible"
+        },
+        {
+            "name": "STAR.SPORTS1.HD",
+            "category": "Sports",
+            "url": "http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8",
+            "logo": "http://198.195.239.50/img/channels/STAR%20SPORTS1%20HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "STAR.SPORTS2.HD",
+            "category": "Sports",
+            "url": "http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8",
+            "logo": "http://198.195.239.50/img/channels/STAR%20SPORTS2%20HD.png",
             "status": "visible"
         },
         {
@@ -278,20 +285,6 @@
             "category": "Sports",
             "url": "http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/index.m3u8",
             "logo": "http://198.195.239.50/img/channels/images__1_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.SPORTS1.HD",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/STAR%20SPORTS1%20HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.SPORTS2.HD",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8",
-            "logo": "http://198.195.239.50/img/channels/STAR%20SPORTS2%20HD.png",
             "status": "visible"
         },
         {
