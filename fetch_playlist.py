@@ -1,8 +1,10 @@
 import os
 import json
 import requests
+from urllib.parse import quote
 
 API_URL = "http://198.195.239.50/tv_channels.json"
+BASE_URL = "http://198.195.239.50/"
 OUTPUT_DIR = "Bangla-Iptv"
 
 if not os.path.exists(OUTPUT_DIR):
@@ -68,6 +70,21 @@ def fetch_data():
 
     raise Exception("Could not fetch data via direct or proxy connection.")
 
+def fix_logo_url(logo_path):
+    """
+    লোগো লিংক ফরম্যাট ঠিক করে স্পেসের জায়গায় %20 বসাবে
+    উদাহরণ: img/channels/MADANI TV HD.png -> http://198.195.239.50/img/channels/MADANI%20TV%20HD.png
+    """
+    if not logo_path:
+        return ""
+    if logo_path.startswith("http://") or logo_path.startswith("https://"):
+        return logo_path
+    
+    # শুরুর স্ল্যাশ সরিয়ে দিয়ে স্পেসগুলো %20 ফরম্যাটে রূপান্তর
+    clean_path = logo_path.lstrip("/")
+    encoded_path = quote(clean_path, safe="/")
+    return f"{BASE_URL}{encoded_path}"
+
 def generate_playlists():
     try:
         print("Fetching JSON data from API...")
@@ -78,30 +95,30 @@ def generate_playlists():
         data["developed_by"] = "Ahammad Ali"
         data["telegram_channel"] = "https://t.me/banglatvlivefree"
 
-        # ২. JSON ফাইল সেভ করা
+        # ২. লোগো লিংকগুলো সম্পূর্ণ ডোমেইনসহ এনকোড করা
+        channels = data.get("channels", [])
+        for ch in channels:
+            raw_logo = ch.get("logo", "")
+            ch["logo"] = fix_logo_url(raw_logo)
+
+        # ৩. আপডেট করা JSON ফাইল সেভ করা
         json_file_path = os.path.join(OUTPUT_DIR, "playlist.json")
         with open(json_file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print("✅ JSON playlist saved successfully.")
+        print("✅ JSON playlist saved successfully with full logo URLs.")
 
-        # ৩. M3U ফাইল তৈরি করা (স্ক্রিনশটের সঠিক JSON অবজেক্ট অনুযায়ী)
+        # ৪. M3U ফাইল তৈরি করা
         m3u_file_path = os.path.join(OUTPUT_DIR, "playlist.m3u")
         m3u_content = "#EXTM3U\n"
         
         valid_channel_count = 0
-        channels = data.get("channels", []) # স্ক্রিনশট অনুযায়ী "channels" তালিকা নেওয়া হলো
         
         for ch in channels:
-            # যদি স্ট্যাটাস "hidden" থাকে তবে বাদ দিতে পারেন, সাধারণ অবস্থায় সব প্রসেস হবে
             name = ch.get("name", "Unknown Channel")
             cat_name = ch.get("category", "General")
-            logo = ch.get("logo", "")
+            logo = ch.get("logo", "") # ইতোমধ্যে ফুল URL করা আছে
             url = ch.get("url", "") or ch.get("stream_url", "")
             cookie = ch.get("cookie", "")
-
-            # লোগো যদি রিলেটিভ পাথ থাকে তবে ফুল URL বানানো (যেমন: img/channels/...)
-            if logo and not logo.startswith("http"):
-                logo = f"http://198.195.239.50/{logo}"
 
             if url:
                 m3u_content += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{cat_name}",{name}\n'
@@ -110,7 +127,7 @@ def generate_playlists():
                 m3u_content += f'{url}\n'
                 valid_channel_count += 1
 
-        # ৪. M3U ফাইল সেভ করা
+        # ৫. M3U ফাইল সেভ করা
         with open(m3u_file_path, "w", encoding="utf-8") as f:
             f.write(m3u_content)
             
