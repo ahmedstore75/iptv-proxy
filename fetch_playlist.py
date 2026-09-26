@@ -11,6 +11,75 @@ OUTPUT_DIR = "Bangla-Iptv"
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
 
+# স্ক্রিনশট ও এপিআই-এর সমস্ত ভিন্ন বানানের চ্যানেলকে ১টি স্ট্যান্ডার্ড নামে ম্যাপ করার লিস্ট
+CHANNEL_NAME_MAP = {
+    # Sports Channels
+    "SONY.SPORTS.1": "Sony Sports Ten 1 HD",
+    "SONY.SPORTS.1.HD": "Sony Sports Ten 1 HD",
+    "SONY.SPORTS.2": "Sony Sports Ten 2 HD",
+    "SONY.SPORTS2.HD": "Sony Sports Ten 2 HD",
+    "SONY.SPORTS.3": "Sony Sports Ten 3 HD",
+    "SONY.SPORTS.4": "Sony Sports Ten 4 HD",
+    "SONY-SPORTS.5HD": "Sony Sports Ten 5 HD",
+    "SONY.SPORTS.5": "Sony Sports Ten 5 HD",
+    "STAR-SPORTS.1": "Star Sports 1 HD",
+    "STAR.SPORTS1.HD": "Star Sports 1 HD",
+    "STAR-SPORTS.2": "Star Sports 2 HD",
+    "STAR.SPORTS2.HD": "Star Sports 2 HD",
+    "STAR-SPORTS.3": "Star Sports 3 HD",
+    "A.SPORTS.HD": "A Sports HD",
+    "EUROSPORTS.HD": "Eurosport HD",
+    "FAST.SPORTS.HD": "Fast Sports HD",
+    "GOLF.SPORTS": "Golf Channel",
+    "PTV-SPORTS-HD": "PTV Sports HD",
+    "SHOMOY TV HD": "Somoy TV HD",
+    
+    # Bangla Channels
+    "COLOR BANGLA CHIN...": "Colors Bangla Cinema",
+    "COLORS.BANGLA.CINEMA": "Colors Bangla Cinema",
+    "COLOR BANGLA HD": "Colors Bangla HD",
+    "COLORS.BANGLA.HD": "Colors Bangla HD",
+    "ENTER 10 BANGLA": "Enter10 Bangla",
+    "ENTER10.BANGLA": "Enter10 Bangla",
+    "JALSHA MOVIES HD": "Jalsha Movies HD",
+    "SONY AATH": "Sony Aath",
+    "SONY.AAT": "Sony Aath",
+    "STAR JALSHA HD": "Star Jalsha HD",
+    "SUN.BANGLA.HD": "Sun Bangla HD",
+    "ZEE BANGLA HD": "Zee Bangla HD",
+    "ZEE.BANGLA.CINEMA": "Zee Bangla Cinema",
+}
+
+# সনি স্পোর্টস ও স্টার স্পোর্টস ১, ২, ৩, ৪ অনুযায়ী সাজানোর কাস্টম অর্ডারিং
+EXACT_CHANNEL_ORDER = [
+    # Sports Ordering
+    "Sony Sports Ten 1 HD",
+    "Sony Sports Ten 2 HD",
+    "Sony Sports Ten 3 HD",
+    "Sony Sports Ten 4 HD",
+    "Sony Sports Ten 5 HD",
+    "Star Sports 1 HD",
+    "Star Sports 2 HD",
+    "Star Sports 3 HD",
+    "A Sports HD",
+    "Eurosport HD",
+    "Fast Sports HD",
+    "Golf Channel",
+    "PTV Sports HD",
+    "Somoy TV HD",
+    
+    # Bangla Ordering
+    "Star Jalsha HD",
+    "Zee Bangla HD",
+    "Colors Bangla HD",
+    "Colors Bangla Cinema",
+    "Jalsha Movies HD",
+    "Zee Bangla Cinema",
+    "Sony Aath",
+    "Enter10 Bangla",
+    "Sun Bangla HD"
+]
+
 def get_fresh_bd_proxies():
     bd_proxies = []
     try:
@@ -76,62 +145,36 @@ def fix_logo_url(logo_path):
     encoded_path = quote(clean_path, safe="/")
     return f"{BASE_URL}{encoded_path}"
 
-def get_base_channel_identity(name, url):
+def standardize_channel_name(raw_name):
     """
-    চ্যানেলটি ডুপ্লিকেট কি না তা যাচাই করার মূল লজিক।
-    নাম থেকে ডট, ড্যাশ, স্পেস, HD/SD লেখা সব কেটে একদম মূল নামটি বের করবে।
-    যেমন: 'COLOR BANGLA HD' এবং 'COLORS.BANGLA.A.HD' দুটোই 'COLORBANGLA' তে পরিণত হবে।
+    যেকোনো এলেমেলো নামকে ম্যানুয়াল ম্যাপের সাহায্যে সুন্দর এবং স্ট্যান্ডার্ড নামে রূপান্তর করবে।
     """
-    text = f"{name}"
-    # ১. ডট, ড্যাশ, আন্ডারস্কোর রিমুভ
-    clean = re.sub(r'[\.\_\-\s]+', '', text).upper()
-    # ২. এইচডি, এসডি শব্দ বা অতিরিক্ত ক্যারেক্টার ছেঁটে ফেলা
-    clean = re.sub(r'(HD|SD|CINEMA|CHANNEL)$', '', clean)
-    clean = re.sub(r'COLORS', 'COLOR', clean) # COLORS -> COLOR
-    clean = re.sub(r'JALSNA', 'JALSHA', clean) # বানানের ভুল ঠিক করা
-    
-    # ৩. স্ট্রিম ইউআরএল থেকে মূল ফাইল নেম বের করা
-    url_clean = ""
-    if url:
-        match = re.search(r'/([^/]+)/index\.m3u8', url, re.IGNORECASE)
-        if match:
-            url_clean = re.sub(r'[\.\_\-\s]+', '', match.group(1)).upper()
-
-    return clean, url_clean
+    clean_key = raw_name.strip().upper()
+    for key, std_name in CHANNEL_NAME_MAP.items():
+        if key.upper() == clean_key:
+            return std_name
+        
+    # ম্যানুয়াল তালিকায় না থাকলে সাধারণ ক্লিন করা নাম রিটার্ন করবে
+    clean = re.sub(r'[\.\_\-]+', ' ', raw_name)
+    clean = re.sub(r'\s+', ' ', clean).strip()
+    return clean
 
 def remove_duplicates_strictly(channels):
-    seen_identities = set()
+    seen_names = set()
     unique_channels = []
 
     for ch in channels:
         raw_name = ch.get("name", "")
-        raw_url = ch.get("url", "") or ch.get("stream_url", "")
-        
-        name_id, url_id = get_base_channel_identity(raw_name, raw_url)
+        # প্রথমে নামটিকে স্ট্যান্ডার্ড করে নেওয়া
+        std_name = standardize_channel_name(raw_name)
+        ch["name"] = std_name  # আপডেট নাম সেভ হলো
 
-        # যদি নাম আইডি অথবা ইউআরএল আইডির যেকোনো একটি পূর্বে পেয়ে থাকি তবে তা বাদ যাবে
-        if name_id and name_id in seen_identities:
-            continue
-        if url_id and url_id in seen_identities:
-            continue
-
-        if name_id:
-            seen_identities.add(name_id)
-        if url_id:
-            seen_identities.add(url_id)
-
-        unique_channels.append(ch)
+        # একই স্ট্যান্ডার্ড নামের চ্যানেল একবারের বেশি থাকবে না
+        if std_name not in seen_names:
+            seen_names.add(std_name)
+            unique_channels.append(ch)
 
     return unique_channels
-
-def get_sort_number(name):
-    """
-    নামের ভেতরে ১, ২, ৩, ৪ সংখ্যা থাকলে তা বের করে নিয়ে আসবে সর্টিং করার জন্য।
-    """
-    numbers = re.findall(r'\d+', name)
-    if numbers:
-        return int(numbers[0])
-    return 0
 
 def generate_playlists():
     try:
@@ -145,16 +188,16 @@ def generate_playlists():
 
         raw_channels = data.get("channels", [])
 
-        # ২. ডুপ্লিকেট চ্যানেল পুরোপুরি ফিল্টার করা
+        # ২. ম্যানুয়াল ম্যাপিং এবং ডুপ্লিকেট ছাঁটাই
         channels = remove_duplicates_strictly(raw_channels)
-        print(f"🧹 Duplicates Removed: {len(raw_channels)} total -> {len(channels)} clean unique channels.")
+        print(f"🧹 Duplicates Removed: {len(raw_channels)} -> {len(channels)} unique channels.")
 
-        # ৩. লোগো লিংক ফুল ইউআরএল এ রূপান্তর
+        # ৩. লোগো লিংক ঠিক করা
         for ch in channels:
             raw_logo = ch.get("logo", "")
             ch["logo"] = fix_logo_url(raw_logo)
 
-        # ৪. ক্যাটাগরি অর্ডারিং (Bangla -> Indian Bangla -> Sports...)
+        # ৪. ক্যাটাগরি এবং ক্রমানুসারে সাজানো
         category_order = {
             "Bangla": 1,
             "Indian Bangla": 2,
@@ -163,29 +206,24 @@ def generate_playlists():
             "Entertainment": 5,
             "Movies": 6,
             "Hindi": 7,
-            "Hindi Movies": 8,
-            "Infotainment": 9,
-            "Documentary": 10,
-            "Kids": 11,
-            "Music": 12,
-            "Religious": 13,
-            "Islamic": 14,
-            "English": 15,
-            "General": 16
+            "Kids": 8,
+            "Music": 9,
+            "General": 10
         }
 
         def master_sort_key(ch):
             cat = ch.get("category", "General").strip()
             cat_rank = category_order.get(cat, 999)
             
-            raw_name = ch.get("name", "")
+            name = ch.get("name", "")
             
-            # স্পোর্টস বা একই ব্র্যান্ডের চ্যানেল ১, ২, ৩, ৪ ক্রমানুসারে সাজানোর জন্য
-            # মূল ব্রান্ড নেম (যেমন: SONY SPORTS বা STAR SPORTS) এবং তার নাম্বার বের করা
-            brand_name = re.sub(r'[\.\_\-\d]+', '', raw_name).strip().upper()
-            channel_num = get_sort_number(raw_name)
+            # EXACT_CHANNEL_ORDER লিস্ট অনুযায়ী সিকোয়েন্স ঠিক করা
+            if name in EXACT_CHANNEL_ORDER:
+                name_rank = EXACT_CHANNEL_ORDER.index(name)
+            else:
+                name_rank = 999
 
-            return (cat_rank, cat, brand_name, channel_num, raw_name)
+            return (cat_rank, cat, name_rank, name)
 
         sorted_channels = sorted(channels, key=master_sort_key)
         data["channels"] = sorted_channels
@@ -194,7 +232,7 @@ def generate_playlists():
         json_file_path = os.path.join(OUTPUT_DIR, "playlist.json")
         with open(json_file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print("✅ JSON playlist saved successfully (Strictly Sorted & Cleaned).")
+        print("✅ JSON playlist saved successfully.")
 
         # ৬. M3U ফাইল সেভ করা
         m3u_file_path = os.path.join(OUTPUT_DIR, "playlist.m3u")
@@ -219,7 +257,7 @@ def generate_playlists():
         with open(m3u_file_path, "w", encoding="utf-8") as f:
             f.write(m3u_content)
             
-        print(f"✅ M3U playlist saved successfully ({valid_channel_count} unique channels).")
+        print(f"✅ M3U playlist saved successfully ({valid_channel_count} channels).")
 
     except Exception as e:
         print(f"❌ Error generating playlists: {e}")
