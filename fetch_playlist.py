@@ -76,40 +76,62 @@ def fix_logo_url(logo_path):
     encoded_path = quote(clean_path, safe="/")
     return f"{BASE_URL}{encoded_path}"
 
-def clean_text_for_comparison(text):
+def get_base_channel_identity(name, url):
     """
-    যেকোনো টেক্সট বা ইউআরএল থেকে ডট, স্পেস, ড্যাশ সরিয়ে 
-    একদম কমন ক্যাপিটাল লেটারে রূপান্তর করে যেন হুবহু তুলনা করা যায়।
+    চ্যানেলটি ডুপ্লিকেট কি না তা যাচাই করার মূল লজিক।
+    নাম থেকে ডট, ড্যাশ, স্পেস, HD/SD লেখা সব কেটে একদম মূল নামটি বের করবে।
+    যেমন: 'COLOR BANGLA HD' এবং 'COLORS.BANGLA.A.HD' দুটোই 'COLORBANGLA' তে পরিণত হবে।
     """
-    if not text:
-        return ""
-    clean = re.sub(r'[\.\_\-\s\/]+', '', str(text))
-    return clean.upper().strip()
+    text = f"{name}"
+    # ১. ডট, ড্যাশ, আন্ডারস্কোর রিমুভ
+    clean = re.sub(r'[\.\_\-\s]+', '', text).upper()
+    # ২. এইচডি, এসডি শব্দ বা অতিরিক্ত ক্যারেক্টার ছেঁটে ফেলা
+    clean = re.sub(r'(HD|SD|CINEMA|CHANNEL)$', '', clean)
+    clean = re.sub(r'COLORS', 'COLOR', clean) # COLORS -> COLOR
+    clean = re.sub(r'JALSNA', 'JALSHA', clean) # বানানের ভুল ঠিক করা
+    
+    # ৩. স্ট্রিম ইউআরএল থেকে মূল ফাইল নেম বের করা
+    url_clean = ""
+    if url:
+        match = re.search(r'/([^/]+)/index\.m3u8', url, re.IGNORECASE)
+        if match:
+            url_clean = re.sub(r'[\.\_\-\s]+', '', match.group(1)).upper()
 
-def remove_all_duplicates(channels):
-    """
-    সমস্ত চ্যানেলের নাম ও স্ট্রিম ইউআরএল চেকের মাধ্যমে যেকোনো ডুপ্লিকেট বাদ দেবে।
-    """
-    seen_normalized_names = set()
-    seen_normalized_urls = set()
+    return clean, url_clean
+
+def remove_duplicates_strictly(channels):
+    seen_identities = set()
     unique_channels = []
 
     for ch in channels:
         raw_name = ch.get("name", "")
         raw_url = ch.get("url", "") or ch.get("stream_url", "")
         
-        norm_name = clean_text_for_comparison(raw_name)
-        norm_url = clean_text_for_comparison(raw_url)
+        name_id, url_id = get_base_channel_identity(raw_name, raw_url)
 
-        # নাম অথবা স্ট্রিম লিঙ্ক যেকোনো একটি মিলে গেলেই সেটাকে ডুপ্লিকেট ধরা হবে
-        if norm_name not in seen_normalized_names and norm_url not in seen_normalized_urls:
-            if norm_name:
-                seen_normalized_names.add(norm_name)
-            if norm_url:
-                seen_normalized_urls.add(norm_url)
-            unique_channels.append(ch)
+        # যদি নাম আইডি অথবা ইউআরএল আইডির যেকোনো একটি পূর্বে পেয়ে থাকি তবে তা বাদ যাবে
+        if name_id and name_id in seen_identities:
+            continue
+        if url_id and url_id in seen_identities:
+            continue
+
+        if name_id:
+            seen_identities.add(name_id)
+        if url_id:
+            seen_identities.add(url_id)
+
+        unique_channels.append(ch)
 
     return unique_channels
+
+def get_sort_number(name):
+    """
+    নামের ভেতরে ১, ২, ৩, ৪ সংখ্যা থাকলে তা বের করে নিয়ে আসবে সর্টিং করার জন্য।
+    """
+    numbers = re.findall(r'\d+', name)
+    if numbers:
+        return int(numbers[0])
+    return 0
 
 def generate_playlists():
     try:
@@ -123,16 +145,16 @@ def generate_playlists():
 
         raw_channels = data.get("channels", [])
 
-        # ২. সব ডুপ্লিকেট চ্যানেল একবারে বাদ দেওয়া
-        channels = remove_all_duplicates(raw_channels)
-        print(f"🧹 Successfully cleaned duplicates: {len(raw_channels)} total -> {len(channels)} unique channels remaining.")
+        # ২. ডুপ্লিকেট চ্যানেল পুরোপুরি ফিল্টার করা
+        channels = remove_duplicates_strictly(raw_channels)
+        print(f"🧹 Duplicates Removed: {len(raw_channels)} total -> {len(channels)} clean unique channels.")
 
-        # ৩. লোগো লিংক সম্পূর্ণ ইউআরএল করা
+        # ৩. লোগো লিংক ফুল ইউআরএল এ রূপান্তর
         for ch in channels:
             raw_logo = ch.get("logo", "")
             ch["logo"] = fix_logo_url(raw_logo)
 
-        # ৪. ক্যাটাগরি সাজানোর সিকোয়েন্স
+        # ৪. ক্যাটাগরি অর্ডারিং (Bangla -> Indian Bangla -> Sports...)
         category_order = {
             "Bangla": 1,
             "Indian Bangla": 2,
@@ -149,31 +171,30 @@ def generate_playlists():
             "Religious": 13,
             "Islamic": 14,
             "English": 15,
-            "English Movies": 16,
-            "English News": 17,
-            "International": 18,
-            "General": 19
+            "General": 16
         }
 
-        def sort_key(ch):
+        def master_sort_key(ch):
             cat = ch.get("category", "General").strip()
             cat_rank = category_order.get(cat, 999)
             
-            name = ch.get("name", "")
+            raw_name = ch.get("name", "")
             
-            # Sony Sports 1, Sony Sports 2, Sony Sports 3 ক্রমানুসারে সাজানোর লজিক
-            name_parts = [int(text) if text.isdigit() else text.lower() for text in re.split(r'(\d+)', name)]
-            
-            return (cat_rank, cat, name_parts)
+            # স্পোর্টস বা একই ব্র্যান্ডের চ্যানেল ১, ২, ৩, ৪ ক্রমানুসারে সাজানোর জন্য
+            # মূল ব্রান্ড নেম (যেমন: SONY SPORTS বা STAR SPORTS) এবং তার নাম্বার বের করা
+            brand_name = re.sub(r'[\.\_\-\d]+', '', raw_name).strip().upper()
+            channel_num = get_sort_number(raw_name)
 
-        sorted_channels = sorted(channels, key=sort_key)
+            return (cat_rank, cat, brand_name, channel_num, raw_name)
+
+        sorted_channels = sorted(channels, key=master_sort_key)
         data["channels"] = sorted_channels
 
         # ৫. JSON ফাইল সেভ করা
         json_file_path = os.path.join(OUTPUT_DIR, "playlist.json")
         with open(json_file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print("✅ JSON playlist saved successfully (No Duplicates across all channels).")
+        print("✅ JSON playlist saved successfully (Strictly Sorted & Cleaned).")
 
         # ৬. M3U ফাইল সেভ করা
         m3u_file_path = os.path.join(OUTPUT_DIR, "playlist.m3u")
