@@ -76,34 +76,37 @@ def fix_logo_url(logo_path):
     encoded_path = quote(clean_path, safe="/")
     return f"{BASE_URL}{encoded_path}"
 
-def clean_channel_name(name):
+def clean_text_for_comparison(text):
     """
-    চ্যানেলের নাম এবং ইউআরএল তুলনার জন্য নরম্যালাইজ করে সব ক্যারেক্টার ও কেস সমান করবে।
-    যেমন: 'ENTER10.BANGLA' এবং 'enter10Bangla' উভয়ই 'ENTER10BANGLA' হয়ে যাবে।
+    যেকোনো টেক্সট বা ইউআরএল থেকে ডট, স্পেস, ড্যাশ সরিয়ে 
+    একদম কমন ক্যাপিটাল লেটারে রূপান্তর করে যেন হুবহু তুলনা করা যায়।
     """
-    clean = re.sub(r'[\.\_\-\s]+', '', name)
+    if not text:
+        return ""
+    clean = re.sub(r'[\.\_\-\s\/]+', '', str(text))
     return clean.upper().strip()
 
-def remove_duplicates(channels):
+def remove_all_duplicates(channels):
     """
-    ইউআরএল (Case-insensitive) এবং নামের বৈষম্য রিমুভ করে ডুপ্লিকেট বাদ দেবে।
+    সমস্ত চ্যানেলের নাম ও স্ট্রিম ইউআরএল চেকের মাধ্যমে যেকোনো ডুপ্লিকেট বাদ দেবে।
     """
-    seen_names = set()
-    seen_urls = set()
+    seen_normalized_names = set()
+    seen_normalized_urls = set()
     unique_channels = []
 
     for ch in channels:
         raw_name = ch.get("name", "")
         raw_url = ch.get("url", "") or ch.get("stream_url", "")
         
-        normalized_name = clean_channel_name(raw_name)
-        # ইউআরএল কেস ইনসেনসিটিভ করার জন্য lower() করা হলো
-        normalized_url = raw_url.lower().strip()
+        norm_name = clean_text_for_comparison(raw_name)
+        norm_url = clean_text_for_comparison(raw_url)
 
-        if normalized_name not in seen_names and normalized_url not in seen_urls:
-            seen_names.add(normalized_name)
-            if normalized_url:
-                seen_urls.add(normalized_url)
+        # নাম অথবা স্ট্রিম লিঙ্ক যেকোনো একটি মিলে গেলেই সেটাকে ডুপ্লিকেট ধরা হবে
+        if norm_name not in seen_normalized_names and norm_url not in seen_normalized_urls:
+            if norm_name:
+                seen_normalized_names.add(norm_name)
+            if norm_url:
+                seen_normalized_urls.add(norm_url)
             unique_channels.append(ch)
 
     return unique_channels
@@ -120,16 +123,16 @@ def generate_playlists():
 
         raw_channels = data.get("channels", [])
 
-        # ২. ডুপ্লিকেট চ্যানেল ফিল্টার করা
-        channels = remove_duplicates(raw_channels)
-        print(f"🧹 Removed duplicates: {len(raw_channels)} -> {len(channels)} unique channels.")
+        # ২. সব ডুপ্লিকেট চ্যানেল একবারে বাদ দেওয়া
+        channels = remove_all_duplicates(raw_channels)
+        print(f"🧹 Successfully cleaned duplicates: {len(raw_channels)} total -> {len(channels)} unique channels remaining.")
 
         # ৩. লোগো লিংক সম্পূর্ণ ইউআরএল করা
         for ch in channels:
             raw_logo = ch.get("logo", "")
             ch["logo"] = fix_logo_url(raw_logo)
 
-        # ৪. ক্যাটাগরি সাজানোর সিরিয়াল (Priority Order)
+        # ৪. ক্যাটাগরি সাজানোর সিকোয়েন্স
         category_order = {
             "Bangla": 1,
             "Indian Bangla": 2,
@@ -158,8 +161,7 @@ def generate_playlists():
             
             name = ch.get("name", "")
             
-            # সনি স্পোর্টস ও অন্যান্য স্পোর্টস চ্যানেল ১, ২, ৩, ৪ ক্রমানুসারে সাজানোর নিয়ম
-            # নামের মধ্যে থাকা সংখ্যাগুলোকে প্রপার ইনটিজার হিসেবে সর্ট করবে
+            # Sony Sports 1, Sony Sports 2, Sony Sports 3 ক্রমানুসারে সাজানোর লজিক
             name_parts = [int(text) if text.isdigit() else text.lower() for text in re.split(r'(\d+)', name)]
             
             return (cat_rank, cat, name_parts)
@@ -167,13 +169,13 @@ def generate_playlists():
         sorted_channels = sorted(channels, key=sort_key)
         data["channels"] = sorted_channels
 
-        # ৫. JSON সেভ করা
+        # ৫. JSON ফাইল সেভ করা
         json_file_path = os.path.join(OUTPUT_DIR, "playlist.json")
         with open(json_file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print("✅ JSON playlist saved successfully (No Duplicates & Alphabetically Sorted).")
+        print("✅ JSON playlist saved successfully (No Duplicates across all channels).")
 
-        # ৬. M3U সেভ করা
+        # ৬. M3U ফাইল সেভ করা
         m3u_file_path = os.path.join(OUTPUT_DIR, "playlist.m3u")
         m3u_content = "#EXTM3U\n"
         
