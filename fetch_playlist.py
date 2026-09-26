@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import requests
 from urllib.parse import quote
 
@@ -75,34 +76,66 @@ def fix_logo_url(logo_path):
     encoded_path = quote(clean_path, safe="/")
     return f"{BASE_URL}{encoded_path}"
 
+def clean_channel_name(name):
+    """
+    নামের ভেতরের ডট (.), হাইফেন (-), অতিরিক্ত স্পেস এবং স্পেশাল ক্যারেক্টার বাদ দিয়ে 
+    তুলনা করার জন্য একটি কমন ফরম্যাটে আনবে।
+    উদাহরণ: "COLORS.BANGLA.HD" -> "COLORS BANGLA HD"
+    """
+    clean = re.sub(r'[\.\_\-]+', ' ', name)
+    clean = re.sub(r'\s+', ' ', clean).strip().upper()
+    return clean
+
+def remove_duplicates(channels):
+    """
+    একই নামের বা একই ইউআরএল-এর চ্যানেল ফিল্টার করে বাদ দেবে
+    """
+    seen_names = set()
+    seen_urls = set()
+    unique_channels = []
+
+    for ch in channels:
+        raw_name = ch.get("name", "")
+        url = ch.get("url", "") or ch.get("stream_url", "")
+        
+        normalized_name = clean_channel_name(raw_name)
+
+        # যদি এই নামের বা এই স্ট্রিম ইউআরএল-এর চ্যানেল আগে না এসে থাকে, তবেই সেভ করবে
+        if normalized_name not in seen_names and url not in seen_urls:
+            seen_names.add(normalized_name)
+            if url:
+                seen_urls.add(url)
+            unique_channels.append(ch)
+
+    return unique_channels
+
 def generate_playlists():
     try:
         print("Fetching JSON data from API...")
         data = fetch_data()
 
-        # ১. অ্যাপ ইনফো আপডেট করা
+        # ১. অ্যাপ ইনফো আপডেট
         data["app_name"] = "Bangla Iptv"
         data["developed_by"] = "Ahammad Ali"
         data["telegram_channel"] = "https://t.me/banglatvlivefree"
 
-        channels = data.get("channels", [])
+        raw_channels = data.get("channels", [])
 
-        # ২. লোগো লিংকগুলো ঠিক করা
+        # ২. ডুপ্লিকেট চ্যানেল রিমুভ করা
+        channels = remove_duplicates(raw_channels)
+        print(f"🧹 Removed duplicates: {len(raw_channels)} -> {len(channels)} unique channels.")
+
+        # ৩. লোগো লিংক ঠিক করা
         for ch in channels:
             raw_logo = ch.get("logo", "")
             ch["logo"] = fix_logo_url(raw_logo)
 
-        # ৩. IPTV-র সমস্ত ক্যাটাগরির ধারাবাহিক অর্ডার (Priority Order)
+        # ৪. ক্যাটাগরি অনুযায়ী সাজানো
         category_order = {
-            # স্থানীয় ও আঞ্চলিক
             "Bangla": 1,
             "Indian Bangla": 2,
-            
-            # খেলাধুলা ও খবর
             "Sports": 3,
             "News": 4,
-            
-            # বিনোদন ও নাটক
             "Entertainment": 5,
             "Movies": 6,
             "Hindi": 7,
@@ -113,36 +146,28 @@ def generate_playlists():
             "Music": 12,
             "Religious": 13,
             "Islamic": 14,
-            
-            # অন্যান্য আন্তর্জাতিক ভাষার ক্যাটাগরি
             "English": 15,
             "English Movies": 16,
             "English News": 17,
             "International": 18,
-            "Lifestyle": 19,
-            "Fashion": 20,
-            "Cooking": 21,
-            "Travel": 22,
-            "General": 23
+            "General": 19
         }
 
         def sort_key(ch):
             cat = ch.get("category", "General").strip()
-            # ডিকশনারিতে মিললে ওই পজিশনে বসবে, না মিললে ৯৯৯ (লিস্টের শেষে থাকবে)
             order = category_order.get(cat, 999)
             return (order, cat, ch.get("name", ""))
 
-        # চ্যানেলগুলো সর্ট করা
         sorted_channels = sorted(channels, key=sort_key)
         data["channels"] = sorted_channels
 
-        # ৪. JSON ফাইল সেভ করা
+        # ৫. JSON সেভ করা
         json_file_path = os.path.join(OUTPUT_DIR, "playlist.json")
         with open(json_file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print("✅ JSON playlist saved successfully (Sorted All Categories).")
+        print("✅ JSON playlist saved (No Duplicates).")
 
-        # ৫. M3U ফাইল তৈরি করা
+        # ৬. M3U সেভ করা
         m3u_file_path = os.path.join(OUTPUT_DIR, "playlist.m3u")
         m3u_content = "#EXTM3U\n"
         
@@ -162,11 +187,10 @@ def generate_playlists():
                 m3u_content += f'{url}\n'
                 valid_channel_count += 1
 
-        # ৬. M3U ফাইল সেভ করা
         with open(m3u_file_path, "w", encoding="utf-8") as f:
             f.write(m3u_content)
             
-        print(f"✅ M3U playlist saved successfully ({valid_channel_count} channels).")
+        print(f"✅ M3U playlist saved ({valid_channel_count} unique channels).")
 
     except Exception as e:
         print(f"❌ Error generating playlists: {e}")
