@@ -4,924 +4,924 @@
             "name": "SHOMOY TV HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/somoyTv/index.m3u8",
-            "logo": "img/channels/SOMOY TV.png",
+            "logo": "http://198.195.239.50/img/channels/SOMOY%20TV.png",
             "status": "visible"
         },
         {
             "name": "BTV",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/btv/index.m3u8",
-            "logo": "img/channels/BTV.HD.png",
+            "logo": "http://198.195.239.50/img/channels/BTV.HD.png",
             "status": "visible"
         },
         {
             "name": "STAR JALSHA HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/starJalsha/index.m3u8",
-            "logo": "img/channels/STAR JALSHA HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20JALSHA%20HD.png",
             "status": "visible"
         },
         {
             "name": "JALSHA MOVIES HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/jalshaMovies/index.m3u8",
-            "logo": "img/channels/JALSHA MOVIES HD.png",
+            "logo": "http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png",
             "status": "visible"
         },
         {
             "name": "ZEE BANGLA  HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/zeeBangla/index.m3u8",
-            "logo": "img/channels/ZEE BANGLA HD.png",
+            "logo": "http://198.195.239.50/img/channels/ZEE%20BANGLA%20HD.png",
             "status": "visible"
         },
         {
             "name": "COLOR BANGLA HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/colorsBangla/index.m3u8",
-            "logo": "img/channels/COLORS BANGLA HD.png",
+            "logo": "http://198.195.239.50/img/channels/COLORS%20BANGLA%20HD.png",
             "status": "visible"
         },
         {
             "name": "COLOR BANGLA CHINEMA HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8",
-            "logo": "img/channels/COLORS BANGLA CINEMA.png",
+            "logo": "http://198.195.239.50/img/channels/COLORS%20BANGLA%20CINEMA.png",
             "status": "visible"
         },
         {
             "name": "SONY AATH",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/sonyAath/index.m3u8",
-            "logo": "img/channels/SONY AATH.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20AATH.png",
             "status": "visible"
         },
         {
             "name": "SANGEET BANGLA",
             "category": "Music",
             "url": "http://198.195.239.50:8095/sangeetBangla/index.m3u8",
-            "logo": "img/channels/SANGEET BANGLA.png",
+            "logo": "http://198.195.239.50/img/channels/SANGEET%20BANGLA.png",
             "status": "visible"
         },
         {
             "name": "ENTER 10 BANGLA",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/enter10Bangla/index.m3u8",
-            "logo": "img/channels/ENTERR 10 BANGLA.png",
+            "logo": "http://198.195.239.50/img/channels/ENTERR%2010%20BANGLA.png",
             "status": "visible"
         },
         {
             "name": "SONY MAX HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/sonyMax/index.m3u8",
-            "logo": "img/channels/SONY MAX HD.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20MAX%20HD.png",
             "status": "hidden"
         },
         {
             "name": "SONY ENTERTAINMENT HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/sonyEntertainment/index.m3u8",
-            "logo": "img/channels/SONY ENTERTAINMENT HD.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20ENTERTAINMENT%20HD.png",
             "status": "hidden"
         },
         {
             "name": "STAR GOLD HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/STARGOLD/video.m3u8",
-            "logo": "img/channels/STAR GOLD HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20GOLD%20HD.png",
             "status": "hidden"
         },
         {
             "name": "STAR PLUS HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/starPlus/video.m3u8",
-            "logo": "img/channels/STAR PLUS HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20PLUS%20HD.png",
             "status": "hidden"
         },
         {
             "name": "STAR MOVIES HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/STAR_PLUS/video.m3u8",
-            "logo": "img/channels/STAR MOVIES HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20MOVIES%20HD.png",
             "status": "hidden"
         },
         {
             "name": "ZEE TV HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/zeeTV/index.m3u8",
-            "logo": "img/channels/ZEE TV HD.png",
+            "logo": "http://198.195.239.50/img/channels/ZEE%20TV%20HD.png",
             "status": "hidden"
         },
         {
             "name": "ZEE CHINEMA HD",
             "category": "Hindi",
             "url": "http://103.151.61.12/Zee_Cinema_HD/video.m3u8",
-            "logo": "img/channels/ZEE CINEMA HD.png",
+            "logo": "http://198.195.239.50/img/channels/ZEE%20CINEMA%20HD.png",
             "status": "hidden"
         },
         {
             "name": "COLOR HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/colors/index.m3u8",
-            "logo": "img/channels/COLORS HD.png",
+            "logo": "http://198.195.239.50/img/channels/COLORS%20HD.png",
             "status": "hidden"
         },
         {
             "name": "COLOR CINEPLEX HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/colorsCineplex/index.m3u8",
-            "logo": "img/channels/COLORS CINEPLEX HD.png",
+            "logo": "http://198.195.239.50/img/channels/COLORS%20CINEPLEX%20HD.png",
             "status": "hidden"
         },
         {
             "name": "9XM MUSIC",
             "category": "Music",
             "url": "http://198.195.239.50:8095/9xm/index.m3u8",
-            "logo": "img/channels/9XM MUSIC.png",
+            "logo": "http://198.195.239.50/img/channels/9XM%20MUSIC.png",
             "status": "hidden"
         },
         {
             "name": "DISCOVERY HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/discovery/index.m3u8",
-            "logo": "img/channels/DISCOVERY HD.png",
+            "logo": "http://198.195.239.50/img/channels/DISCOVERY%20HD.png",
             "status": "visible"
         },
         {
             "name": "NATIONAL GEOGRAPHIC HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/nationalGeographic/index.m3u8",
-            "logo": "img/channels/NATGEO HD.png",
+            "logo": "http://198.195.239.50/img/channels/NATGEO%20HD.png",
             "status": "visible"
         },
         {
             "name": "ANIMAL PLANET HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/animalPlanet/index.m3u8",
-            "logo": "img/channels/ANIMAL PLANET HD.png",
+            "logo": "http://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png",
             "status": "visible"
         },
         {
             "name": "TRAVEL XP",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/travelXp/index.m3u8",
-            "logo": "img/channels/TRAVEL XP.png",
+            "logo": "http://198.195.239.50/img/channels/TRAVEL%20XP.png",
             "status": "visible"
         },
         {
             "name": "CARTOON NETWORK HD",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/cartoonNetwork/index.m3u8",
-            "logo": "img/channels/CARTOON NETWORK.png",
+            "logo": "http://198.195.239.50/img/channels/CARTOON%20NETWORK.png",
             "status": "visible"
         },
         {
             "name": "POGO",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/pogo/index.m3u8",
-            "logo": "img/channels/POGO.png",
+            "logo": "http://198.195.239.50/img/channels/POGO.png",
             "status": "visible"
         },
         {
             "name": "DURANTA",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/duranta/index.m3u8",
-            "logo": "img/channels/DURANTA TV.png",
+            "logo": "http://198.195.239.50/img/channels/DURANTA%20TV.png",
             "status": "visible"
         },
         {
             "name": "NICK",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/nick/index.m3u8",
-            "logo": "img/channels/NICK.png",
+            "logo": "http://198.195.239.50/img/channels/NICK.png",
             "status": "visible"
         },
         {
             "name": "NICK JR",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/nickJr/index.m3u8",
-            "logo": "img/channels/NICK JR.png",
+            "logo": "http://198.195.239.50/img/channels/NICK%20JR.png",
             "status": "visible"
         },
         {
             "name": "SONIC",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/sonic/index.m3u8",
-            "logo": "img/channels/SONIC.png",
+            "logo": "http://198.195.239.50/img/channels/SONIC.png",
             "status": "visible"
         },
         {
             "name": "SONY YAY",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/sonyYay/index.m3u8",
-            "logo": "img/channels/SONY YAY.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20YAY.png",
             "status": "visible"
         },
         {
             "name": "DISCOVERY KIDS HD",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/disnepKids/index.m3u8",
-            "logo": "img/channels/DISCOVERY KIDS.png",
+            "logo": "http://198.195.239.50/img/channels/DISCOVERY%20KIDS.png",
             "status": "hidden"
         },
         {
             "name": "SONY-SPORTS.5HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8",
-            "logo": "img/channels/SONY SPORTS1 HD.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20SPORTS1%20HD.png",
             "status": "visible"
         },
         {
             "name": "BTV.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/BTV.HD/index.m3u8",
-            "logo": "img/channels/BTV.HD.png",
+            "logo": "http://198.195.239.50/img/channels/BTV.HD.png",
             "status": "visible"
         },
         {
             "name": "ETV.BANGLA.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/ETV.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/images.jpeg",
+            "logo": "http://198.195.239.50/img/channels/images.jpeg",
             "status": "visible"
         },
         {
             "name": "DEEPTOTV.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/DEEPTOTV.HD/index.m3u8",
-            "logo": "img/channels/DEEPTO.png",
+            "logo": "http://198.195.239.50/img/channels/DEEPTO.png",
             "status": "visible"
         },
         {
             "name": "DBC.NEWS.HD",
             "category": "News",
             "url": "http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8",
-            "logo": "img/channels/DBC NEWS.png",
+            "logo": "http://198.195.239.50/img/channels/DBC%20NEWS.png",
             "status": "visible"
         },
         {
             "name": "BOISAKHI.TV.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8",
-            "logo": "img/channels/boishakhi-tv.jpg",
+            "logo": "http://198.195.239.50/img/channels/boishakhi-tv.jpg",
             "status": "visible"
         },
         {
             "name": "EAKHON.TV.HD",
             "category": "News",
             "url": "http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8",
-            "logo": "img/channels/images.png",
+            "logo": "http://198.195.239.50/img/channels/images.png",
             "status": "visible"
         },
         {
             "name": "EKATTOR.TV.HD",
             "category": "News",
             "url": "http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8",
-            "logo": "img/channels/EKATTOR_TV.png",
+            "logo": "http://198.195.239.50/img/channels/EKATTOR_TV.png",
             "status": "visible"
         },
         {
             "name": "COLORS.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/COLORS.HD/index.m3u8",
-            "logo": "img/channels/COLORS HD.png",
+            "logo": "http://198.195.239.50/img/channels/COLORS%20HD.png",
             "status": "visible"
         },
         {
             "name": "ANT.PICTURS.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8",
-            "logo": "img/channels/images__1_.png",
+            "logo": "http://198.195.239.50/img/channels/images__1_.png",
             "status": "visible"
         },
         {
             "name": "SONY.BBC.EARTH.HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8",
-            "logo": "img/channels/SONY BBC EARTH HD.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20BBC%20EARTH%20HD.png",
             "status": "visible"
         },
         {
             "name": "ZEE.TV.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/ZEE.TV.HD/index.m3u8",
-            "logo": "img/channels/ZEE TV HD.png",
+            "logo": "http://198.195.239.50/img/channels/ZEE%20TV%20HD.png",
             "status": "visible"
         },
         {
             "name": "CARTON.NETWORK.HD",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/CARTON.NETWORK.HD/index.m3u8",
-            "logo": "img/channels/images__2_.png",
+            "logo": "http://198.195.239.50/img/channels/images__2_.png",
             "status": "visible"
         },
         {
             "name": "TLC.HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/TLC.HD/index.m3u8",
-            "logo": "img/channels/TLC HD.png",
+            "logo": "http://198.195.239.50/img/channels/TLC%20HD.png",
             "status": "visible"
         },
         {
             "name": "COLORS.CINEPLEX.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/COLORS.CINEPLEX.HD/index.m3u8",
-            "logo": "img/channels/COLORS CINEPLEX HD.png",
+            "logo": "http://198.195.239.50/img/channels/COLORS%20CINEPLEX%20HD.png",
             "status": "visible"
         },
         {
             "name": "SONY.ENT.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/SONY.ENT.HD/index.m3u8",
-            "logo": "img/channels/images.jpg",
+            "logo": "http://198.195.239.50/img/channels/images.jpg",
             "status": "visible"
         },
         {
             "name": "COLORS.BANGLA.HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/COLORS.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/COLORS BANGLA HD.png",
+            "logo": "http://198.195.239.50/img/channels/COLORS%20BANGLA%20HD.png",
             "status": "visible"
         },
         {
             "name": "ZEE.CINEMA.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/ZEE.CINEMA.HD/index.m3u8",
-            "logo": "img/channels/ZEE CINEMA HD.png",
+            "logo": "http://198.195.239.50/img/channels/ZEE%20CINEMA%20HD.png",
             "status": "visible"
         },
         {
             "name": "ZEE.BANGLA.HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/ZEE.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/ZEE BANGLA HD.png",
+            "logo": "http://198.195.239.50/img/channels/ZEE%20BANGLA%20HD.png",
             "status": "visible"
         },
         {
             "name": "HISTORY.TV.18.HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/HISTORY.TV.18.HD/index.m3u8",
-            "logo": "img/channels/HISTORY TV HD.png",
+            "logo": "http://198.195.239.50/img/channels/HISTORY%20TV%20HD.png",
             "status": "visible"
         },
         {
             "name": "STAR.SPORTS.SEL.2.HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/index.m3u8",
-            "logo": "img/channels/images__1_.jpg",
+            "logo": "http://198.195.239.50/img/channels/images__1_.jpg",
             "status": "visible"
         },
         {
             "name": "SUN.BANGLA.HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/SUN.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/SUN BANGLA HD.png",
+            "logo": "http://198.195.239.50/img/channels/SUN%20BANGLA%20HD.png",
             "status": "visible"
         },
         {
             "name": "JALSHA.MOVIES.HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8",
-            "logo": "img/channels/JALSHA MOVIES HD.png",
+            "logo": "http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png",
             "status": "visible"
         },
         {
             "name": "STAR.GOLD.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8",
-            "logo": "img/channels/STAR GOLD HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20GOLD%20HD.png",
             "status": "visible"
         },
         {
             "name": "SONY.MAX.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8",
-            "logo": "img/channels/SONY MAX HD.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20MAX%20HD.png",
             "status": "visible"
         },
         {
             "name": "DISCOVERY.HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8",
-            "logo": "img/channels/DISCOVERY HD.png",
+            "logo": "http://198.195.239.50/img/channels/DISCOVERY%20HD.png",
             "status": "visible"
         },
         {
             "name": "NATGEO.WILD.HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8",
-            "logo": "img/channels/NATGEO WILD HD.png",
+            "logo": "http://198.195.239.50/img/channels/NATGEO%20WILD%20HD.png",
             "status": "visible"
         },
         {
             "name": "STAR.PLUS.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/STAR.PLUS.HD/index.m3u8",
-            "logo": "img/channels/STAR PLUS HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20PLUS%20HD.png",
             "status": "visible"
         },
         {
             "name": "NATGEO.HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/NATGEO.HD/index.m3u8",
-            "logo": "img/channels/NATGEO HD.png",
+            "logo": "http://198.195.239.50/img/channels/NATGEO%20HD.png",
             "status": "visible"
         },
         {
             "name": "ANIMAL.PLANET.HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8",
-            "logo": "img/channels/ANIMAL PLANET HD.png",
+            "logo": "http://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png",
             "status": "visible"
         },
         {
             "name": "STAR.MOVIES.SEL.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/index.m3u8",
-            "logo": "img/channels/images__3_.png",
+            "logo": "http://198.195.239.50/img/channels/images__3_.png",
             "status": "visible"
         },
         {
             "name": "STAR.SPORTS-SEL1.HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/index.m3u8",
-            "logo": "img/channels/images__2_.jpg",
+            "logo": "http://198.195.239.50/img/channels/images__2_.jpg",
             "status": "visible"
         },
         {
             "name": "STAR.SPORTS2.HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8",
-            "logo": "img/channels/STAR SPORTS2 HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20SPORTS2%20HD.png",
             "status": "visible"
         },
         {
             "name": "SONY.SPORTS2.HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8",
-            "logo": "img/channels/SONY SPORTS2 HD.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20SPORTS2%20HD.png",
             "status": "visible"
         },
         {
             "name": "SONY.SPORTS.3",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/SONY.SPORTS.3/index.m3u8",
-            "logo": "img/channels/SONY SPORTS3 HD.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20SPORTS3%20HD.png",
             "status": "visible"
         },
         {
             "name": "STAR.SPORTS1.HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20SPORTS1%20HD.png",
             "status": "visible"
         },
         {
             "name": "STAR-SPORTS.3",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8",
-            "logo": "img/channels/STAR SPORTS3.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20SPORTS3.png",
             "status": "visible"
         },
         {
             "name": "SONY.PIX.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8",
-            "logo": "img/channels/SONY PIX HD.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20PIX%20HD.png",
             "status": "visible"
         },
         {
             "name": "STAR.JALSHA.HD",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/STAR.JALSHA.HD/index.m3u8",
-            "logo": "img/channels/STAR JALSHA HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20JALSHA%20HD.png",
             "status": "visible"
         },
         {
             "name": "MNX.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/MNX.HD/index.m3u8",
-            "logo": "img/channels/MNX HD.png",
+            "logo": "http://198.195.239.50/img/channels/MNX%20HD.png",
             "status": "visible"
         },
         {
             "name": "ROMEDY.NOW",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/ROMEDY.NOW/index.m3u8",
-            "logo": "img/channels/ROMEDY NOW.png",
+            "logo": "http://198.195.239.50/img/channels/ROMEDY%20NOW.png",
             "status": "visible"
         },
         {
             "name": "MN.PLUS.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/MN.PLUS.HD/index.m3u8",
-            "logo": "img/channels/MN PLUS.png",
+            "logo": "http://198.195.239.50/img/channels/MN%20PLUS.png",
             "status": "visible"
         },
         {
             "name": "STAR.MOVIES.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8",
-            "logo": "img/channels/STAR MOVIES HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20MOVIES%20HD.png",
             "status": "visible"
         },
         {
             "name": "MOVIES.NOW.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8",
-            "logo": "img/channels/MOVIES NOW HD.png",
+            "logo": "http://198.195.239.50/img/channels/MOVIES%20NOW%20HD.png",
             "status": "visible"
         },
         {
             "name": "EUROSPORTS.HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/EUROSPORTS.HD/index.m3u8",
-            "logo": "img/channels/EUROSPORTS HD.png",
+            "logo": "http://198.195.239.50/img/channels/EUROSPORTS%20HD.png",
             "status": "visible"
         },
         {
             "name": "AND.PRIVE.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/AND.PRIVE.HD/index.m3u8",
-            "logo": "img/channels/images__3_.jpg",
+            "logo": "http://198.195.239.50/img/channels/images__3_.jpg",
             "status": "visible"
         },
         {
             "name": "ZOOM.MUSIC",
             "category": "Music",
             "url": "http://198.195.239.50:8095/ZOOM.MUSIC/index.m3u8",
-            "logo": "img/channels/ZOOM.png",
+            "logo": "http://198.195.239.50/img/channels/ZOOM.png",
             "status": "visible"
         },
         {
             "name": "ZEE.BANGLA.CINEMA",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8",
-            "logo": "img/channels/ZEE BANGLA CINEMA.png",
+            "logo": "http://198.195.239.50/img/channels/ZEE%20BANGLA%20CINEMA.png",
             "status": "visible"
         },
         {
             "name": "SONY.AAT",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/SONY.AAT/index.m3u8",
-            "logo": "img/channels/SONY AATH.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20AATH.png",
             "status": "visible"
         },
         {
             "name": "SONIC",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/SONIC/index.m3u8",
-            "logo": "img/channels/SONIC.png",
+            "logo": "http://198.195.239.50/img/channels/SONIC.png",
             "status": "visible"
         },
         {
             "name": "NICK",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/NICK/index.m3u8",
-            "logo": "img/channels/NICK.png",
+            "logo": "http://198.195.239.50/img/channels/NICK.png",
             "status": "visible"
         },
         {
             "name": "COLORS.BANGLA.CINEMA",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/COLORS.BANGLA.CINEMA/index.m3u8",
-            "logo": "img/channels/COLORS BANGLA CINEMA.png",
+            "logo": "http://198.195.239.50/img/channels/COLORS%20BANGLA%20CINEMA.png",
             "status": "visible"
         },
         {
             "name": "POGO",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/POGO/index.m3u8",
-            "logo": "img/channels/POGO.png",
+            "logo": "http://198.195.239.50/img/channels/POGO.png",
             "status": "visible"
         },
         {
             "name": "HUNGAMA",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/HUNGAMA/index.m3u8",
-            "logo": "img/channels/HUNGAMA.png",
+            "logo": "http://198.195.239.50/img/channels/HUNGAMA.png",
             "status": "visible"
         },
         {
             "name": "ETV.BAL.BHARAT",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8",
-            "logo": "img/channels/BAL BHARAT.png",
+            "logo": "http://198.195.239.50/img/channels/BAL%20BHARAT.png",
             "status": "visible"
         },
         {
             "name": "NICK.JR",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/NICK.JR/index.m3u8",
-            "logo": "img/channels/NICK JR.png",
+            "logo": "http://198.195.239.50/img/channels/NICK%20JR.png",
             "status": "visible"
         },
         {
             "name": "ZING.MUSIC",
             "category": "Music",
             "url": "http://198.195.239.50:8095/ZING.MUSIC/index.m3u8",
-            "logo": "img/channels/ZING.png",
+            "logo": "http://198.195.239.50/img/channels/ZING.png",
             "status": "visible"
         },
         {
             "name": "NAGORIK.TV.HD",
             "category": "News",
             "url": "http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8",
-            "logo": "img/channels/NAGORIK.png",
+            "logo": "http://198.195.239.50/img/channels/NAGORIK.png",
             "status": "visible"
         },
         {
             "name": "GAZI.TV.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8",
-            "logo": "img/channels/images__4_.png",
+            "logo": "http://198.195.239.50/img/channels/images__4_.png",
             "status": "visible"
         },
         {
             "name": "T-SPORTS-HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8",
-            "logo": "img/channels/T SPORTS.png",
+            "logo": "http://198.195.239.50/img/channels/T%20SPORTS.png",
             "status": "visible"
         },
         {
             "name": "XPLOR.HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/XPLOR.HD/index.m3u8",
-            "logo": "img/channels/images__5_.jpg",
+            "logo": "http://198.195.239.50/img/channels/images__5_.jpg",
             "status": "visible"
         },
         {
             "name": "TRAVELXP.HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/TRAVELXP.HD/index.m3u8",
-            "logo": "img/channels/images__6_.png",
+            "logo": "http://198.195.239.50/img/channels/images__6_.png",
             "status": "visible"
         },
         {
             "name": "BBC.Earth.HD",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8",
-            "logo": "img/channels/BBC EARTH HD.png",
+            "logo": "http://198.195.239.50/img/channels/BBC%20EARTH%20HD.png",
             "status": "visible"
         },
         {
             "name": "DURANTA.TV.HD",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/DURANTA.TV.HD/index.m3u8",
-            "logo": "img/channels/DURANTA TV.png",
+            "logo": "http://198.195.239.50/img/channels/DURANTA%20TV.png",
             "status": "visible"
         },
         {
             "name": "SONY.SPORTS.4",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8",
-            "logo": "img/channels/SONY SPORTS4 HD.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20SPORTS4%20HD.png",
             "status": "visible"
         },
         {
             "name": "SONY.SPORTS.1HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8",
-            "logo": "img/channels/images__6_.jpg",
+            "logo": "http://198.195.239.50/img/channels/images__6_.jpg",
             "status": "visible"
         },
         {
             "name": "SUPER.HUNGAMA",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8",
-            "logo": "img/channels/SUPER HUNGAMA.png",
+            "logo": "http://198.195.239.50/img/channels/SUPER%20HUNGAMA.png",
             "status": "visible"
         },
         {
             "name": "JAMUNA.TV",
             "category": "News",
             "url": "http://198.195.239.50:8095/JAMUNA.TV/index.m3u8",
-            "logo": "img/channels/JAMUNA TV.png",
+            "logo": "http://198.195.239.50/img/channels/JAMUNA%20TV.png",
             "status": "visible"
         },
         {
             "name": "INDEPENDENT.TV",
             "category": "News",
             "url": "http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8",
-            "logo": "img/channels/INDEPENDENT TV.png",
+            "logo": "http://198.195.239.50/img/channels/INDEPENDENT%20TV.png",
             "status": "visible"
         },
         {
             "name": "MASRANGA.TV.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/MASRANGA.TV.HD/index.m3u8",
-            "logo": "img/channels/images__7_.jpg",
+            "logo": "http://198.195.239.50/img/channels/images__7_.jpg",
             "status": "visible"
         },
         {
             "name": "SOMOY.TV.HD",
             "category": "News",
             "url": "http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8",
-            "logo": "img/channels/SOMOY TV.png",
+            "logo": "http://198.195.239.50/img/channels/SOMOY%20TV.png",
             "status": "visible"
         },
         {
             "name": "ATN.BANGLA.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/ATN BANGLA.png",
+            "logo": "http://198.195.239.50/img/channels/ATN%20BANGLA.png",
             "status": "visible"
         },
         {
             "name": "CHANNEL.I.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8",
-            "logo": "img/channels/CHANNEL I.png",
+            "logo": "http://198.195.239.50/img/channels/CHANNEL%20I.png",
             "status": "visible"
         },
         {
             "name": "CHANNEL.24.HD",
             "category": "News",
             "url": "http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8",
-            "logo": "img/channels/CHANNEL 24.png",
+            "logo": "http://198.195.239.50/img/channels/CHANNEL%2024.png",
             "status": "visible"
         },
         {
             "name": "MADANI.TV.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8",
-            "logo": "img/channels/MADANI TV HD.png",
+            "logo": "http://198.195.239.50/img/channels/MADANI%20TV%20HD.png",
             "status": "visible"
         },
         {
             "name": "ENTER10.BANGLA",
             "category": "Indian Bangla",
             "url": "http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8",
-            "logo": "img/channels/images__8_.jpg",
+            "logo": "http://198.195.239.50/img/channels/images__8_.jpg",
             "status": "visible"
         },
         {
             "name": "ALJAZEERA.HD",
             "category": "News",
             "url": "http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8",
-            "logo": "img/channels/images__7_.png",
+            "logo": "http://198.195.239.50/img/channels/images__7_.png",
             "status": "visible"
         },
         {
             "name": "PEACE.TV.BANGLA.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/PEACE TV BANGLA.png",
+            "logo": "http://198.195.239.50/img/channels/PEACE%20TV%20BANGLA.png",
             "status": "visible"
         },
         {
             "name": "FAST.SPORTS.HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/FAST.SPORTS.HD/index.m3u8",
-            "logo": "img/channels/FAST SPORTS HD.png",
+            "logo": "http://198.195.239.50/img/channels/FAST%20SPORTS%20HD.png",
             "status": "visible"
         },
         {
             "name": "A.SPORTS.HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8",
-            "logo": "img/channels/A SPORTS HD.png",
+            "logo": "http://198.195.239.50/img/channels/A%20SPORTS%20HD.png",
             "status": "visible"
         },
         {
             "name": "HUM.MASALA.TV",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/HUM.MASALA.TV/index.m3u8",
-            "logo": "img/channels/images__9_.jpg",
+            "logo": "http://198.195.239.50/img/channels/images__9_.jpg",
             "status": "visible"
         },
         {
             "name": "GEO.NEWS.HD",
             "category": "News",
             "url": "http://198.195.239.50:8095/GEO.NEWS.HD/index.m3u8",
-            "logo": "img/channels/GEO NEWS HD.png",
+            "logo": "http://198.195.239.50/img/channels/GEO%20NEWS%20HD.png",
             "status": "visible"
         },
         {
             "name": "Lotus.TV.HD",
             "category": "Bangla",
             "url": "http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8",
-            "logo": "img/channels/LOTUS TV.png",
+            "logo": "http://198.195.239.50/img/channels/LOTUS%20TV.png",
             "status": "visible"
         },
         {
             "name": "PTV-SPORTS-HD",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8",
-            "logo": "img/channels/PTV SPORTS HD.png",
+            "logo": "http://198.195.239.50/img/channels/PTV%20SPORTS%20HD.png",
             "status": "visible"
         },
         {
             "name": "SONY.YAY",
             "category": "Kids",
             "url": "http://198.195.239.50:8095/SONY.YAY/index.m3u8",
-            "logo": "img/channels/SONY YAY.png",
+            "logo": "http://198.195.239.50/img/channels/SONY%20YAY.png",
             "status": "visible"
         },
         {
             "name": "ATN.NEWS.HD",
             "category": "News",
             "url": "http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8",
-            "logo": "img/channels/ATN NEWS.png",
+            "logo": "http://198.195.239.50/img/channels/ATN%20NEWS.png",
             "status": "visible"
         },
         {
             "name": "AXN.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/AXN.HD/index.m3u8",
-            "logo": "img/channels/AXN HD.png",
+            "logo": "http://198.195.239.50/img/channels/AXN%20HD.png",
             "status": "visible"
         },
         {
             "name": "STAR.BHARAT.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/STAR.BHARAT.HD/index.m3u8",
-            "logo": "img/channels/STAR BHARAT HD.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%20BHARAT%20HD.png",
             "status": "visible"
         },
         {
             "name": "DW.NEWS.HD",
             "category": "News",
             "url": "http://198.195.239.50:8095/DW.NEWS.HD/index.m3u8",
-            "logo": "img/channels/images__8_.png",
+            "logo": "http://198.195.239.50/img/channels/images__8_.png",
             "status": "visible"
         },
         {
             "name": "NEWS.24",
             "category": "News",
             "url": "http://198.195.239.50:8095/NEWS.24/index.m3u8",
-            "logo": "img/channels/images__10_.jpg",
+            "logo": "http://198.195.239.50/img/channels/images__10_.jpg",
             "status": "visible"
         },
         {
             "name": "UNITE8.2.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8",
-            "logo": "img/channels/images__9_.png",
+            "logo": "http://198.195.239.50/img/channels/images__9_.png",
             "status": "visible"
         },
         {
             "name": "UNITE8.1.HD",
             "category": "Hindi",
             "url": "http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8",
-            "logo": "img/channels/images__11_.jpg",
+            "logo": "http://198.195.239.50/img/channels/images__11_.jpg",
             "status": "visible"
         },
         {
             "name": "STAR.SPORTS.4K",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8",
-            "logo": "img/channels/STAR 4K.png",
+            "logo": "http://198.195.239.50/img/channels/STAR%204K.png",
             "status": "visible"
         },
         {
             "name": "9XM.MUSIC",
             "category": "Music",
             "url": "http://198.195.239.50:8095/9XM.MUSIC/index.m3u8",
-            "logo": "img/channels/9XM MUSIC.png",
+            "logo": "http://198.195.239.50/img/channels/9XM%20MUSIC.png",
             "status": "visible"
         },
         {
             "name": "SANGEET.BANGLA",
             "category": "Music",
             "url": "http://198.195.239.50:8095/SANGEET.BANGLA/index.m3u8",
-            "logo": "img/channels/SANGEET BANGLA.png",
+            "logo": "http://198.195.239.50/img/channels/SANGEET%20BANGLA.png",
             "status": "visible"
         },
         {
             "name": "BBC.NEWS",
             "category": "News",
             "url": "http://198.195.239.50:8095/BBC.NEWS/index.m3u8",
-            "logo": "img/channels/BBC NEWS.png",
+            "logo": "http://198.195.239.50/img/channels/BBC%20NEWS.png",
             "status": "visible"
         },
         {
             "name": "MTV.INDIA",
             "category": "Music",
             "url": "http://198.195.239.50:8095/MTV.INDIA/index.m3u8",
-            "logo": "img/channels/MTV India.png",
+            "logo": "http://198.195.239.50/img/channels/MTV%20India.png",
             "status": "visible"
         },
         {
             "name": "MUSIC.INDIA",
             "category": "Music",
             "url": "http://198.195.239.50:8095/MUSIC.INDIA/index.m3u8",
-            "logo": "img/channels/Music India.png",
+            "logo": "http://198.195.239.50/img/channels/Music%20India.png",
             "status": "visible"
         },
         {
             "name": "LOVE.NATURE",
             "category": "Documentary",
             "url": "http://198.195.239.50:8095/LOVE.NATURE/index.m3u8",
-            "logo": "img/channels/LOVE NATURE.png",
+            "logo": "http://198.195.239.50/img/channels/LOVE%20NATURE.png",
             "status": "visible"
         },
         {
             "name": "GOLF.SPORTS",
             "category": "Sports",
             "url": "http://198.195.239.50:8095/GOLF.SPORTS/index.m3u8",
-            "logo": "img/channels/GOLF SPORTS.png",
+            "logo": "http://198.195.239.50/img/channels/GOLF%20SPORTS.png",
             "status": "visible"
         }
     ],
