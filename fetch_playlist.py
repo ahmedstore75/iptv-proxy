@@ -11,9 +11,6 @@ if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
 
 def get_fresh_bd_proxies():
-    """
-    লাইভ প্রক্সি সোর্স থেকে বাংলাদেশ প্রক্সি সংগ্রহ করবে
-    """
     bd_proxies = []
     try:
         url = "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=BD&ssl=all&anonymity=all"
@@ -45,7 +42,6 @@ def fetch_data():
         "Connection": "keep-alive"
     }
     
-    # ১. প্রথমে সরাসরি চেষ্টা
     try:
         print("⚡ Trying direct connection...")
         res = requests.get(API_URL, headers=headers, timeout=10)
@@ -55,7 +51,6 @@ def fetch_data():
     except Exception:
         print("⚠️ Direct connection failed. Trying BD Proxies...\n")
 
-    # ২. প্রক্সি দিয়ে চেষ্টা
     proxies_list = get_fresh_bd_proxies()
     for proxy in proxies_list:
         proxies = {"http": proxy, "https": proxy}
@@ -71,16 +66,11 @@ def fetch_data():
     raise Exception("Could not fetch data via direct or proxy connection.")
 
 def fix_logo_url(logo_path):
-    """
-    লোগো লিংক ফরম্যাট ঠিক করে স্পেসের জায়গায় %20 বসাবে
-    উদাহরণ: img/channels/MADANI TV HD.png -> http://198.195.239.50/img/channels/MADANI%20TV%20HD.png
-    """
     if not logo_path:
         return ""
     if logo_path.startswith("http://") or logo_path.startswith("https://"):
         return logo_path
     
-    # শুরুর স্ল্যাশ সরিয়ে দিয়ে স্পেসগুলো %20 ফরম্যাটে রূপান্তর
     clean_path = logo_path.lstrip("/")
     encoded_path = quote(clean_path, safe="/")
     return f"{BASE_URL}{encoded_path}"
@@ -95,28 +85,73 @@ def generate_playlists():
         data["developed_by"] = "Ahammad Ali"
         data["telegram_channel"] = "https://t.me/banglatvlivefree"
 
-        # ২. লোগো লিংকগুলো সম্পূর্ণ ডোমেইনসহ এনকোড করা
         channels = data.get("channels", [])
+
+        # ২. লোগো লিংকগুলো ঠিক করা
         for ch in channels:
             raw_logo = ch.get("logo", "")
             ch["logo"] = fix_logo_url(raw_logo)
 
-        # ৩. আপডেট করা JSON ফাইল সেভ করা
+        # ৩. IPTV-র সমস্ত ক্যাটাগরির ধারাবাহিক অর্ডার (Priority Order)
+        category_order = {
+            # স্থানীয় ও আঞ্চলিক
+            "Bangla": 1,
+            "Indian Bangla": 2,
+            
+            # খেলাধুলা ও খবর
+            "Sports": 3,
+            "News": 4,
+            
+            # বিনোদন ও নাটক
+            "Entertainment": 5,
+            "Movies": 6,
+            "Hindi": 7,
+            "Hindi Movies": 8,
+            "Infotainment": 9,
+            "Documentary": 10,
+            "Kids": 11,
+            "Music": 12,
+            "Religious": 13,
+            "Islamic": 14,
+            
+            # অন্যান্য আন্তর্জাতিক ভাষার ক্যাটাগরি
+            "English": 15,
+            "English Movies": 16,
+            "English News": 17,
+            "International": 18,
+            "Lifestyle": 19,
+            "Fashion": 20,
+            "Cooking": 21,
+            "Travel": 22,
+            "General": 23
+        }
+
+        def sort_key(ch):
+            cat = ch.get("category", "General").strip()
+            # ডিকশনারিতে মিললে ওই পজিশনে বসবে, না মিললে ৯৯৯ (লিস্টের শেষে থাকবে)
+            order = category_order.get(cat, 999)
+            return (order, cat, ch.get("name", ""))
+
+        # চ্যানেলগুলো সর্ট করা
+        sorted_channels = sorted(channels, key=sort_key)
+        data["channels"] = sorted_channels
+
+        # ৪. JSON ফাইল সেভ করা
         json_file_path = os.path.join(OUTPUT_DIR, "playlist.json")
         with open(json_file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print("✅ JSON playlist saved successfully with full logo URLs.")
+        print("✅ JSON playlist saved successfully (Sorted All Categories).")
 
-        # ৪. M3U ফাইল তৈরি করা
+        # ৫. M3U ফাইল তৈরি করা
         m3u_file_path = os.path.join(OUTPUT_DIR, "playlist.m3u")
         m3u_content = "#EXTM3U\n"
         
         valid_channel_count = 0
         
-        for ch in channels:
+        for ch in sorted_channels:
             name = ch.get("name", "Unknown Channel")
             cat_name = ch.get("category", "General")
-            logo = ch.get("logo", "") # ইতোমধ্যে ফুল URL করা আছে
+            logo = ch.get("logo", "")
             url = ch.get("url", "") or ch.get("stream_url", "")
             cookie = ch.get("cookie", "")
 
@@ -127,7 +162,7 @@ def generate_playlists():
                 m3u_content += f'{url}\n'
                 valid_channel_count += 1
 
-        # ৫. M3U ফাইল সেভ করা
+        # ৬. M3U ফাইল সেভ করা
         with open(m3u_file_path, "w", encoding="utf-8") as f:
             f.write(m3u_content)
             
