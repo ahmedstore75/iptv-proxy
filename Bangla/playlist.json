@@ -882,16 +882,34 @@
         "url": "https://iptvlive-beta.vercel.app/t-sports-hd/index.m3u8"
     },
     {
-        "logo": "https://i.postimg.cc/0yzwt46Q/20241126-220214.png",
+        "logo": "https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",
         "group": "Sports",
-        "name": "Ten Cricket",
-        "url": "https://iptvlive-beta.vercel.app/ten-cricket/index.m3u8"
+        "name": "Tapmad 5",
+        "url": "https://iptvlive-beta.vercel.app/tapmad-5/index.m3u8"
     },
     {
-        "logo": "https://i.postimg.cc/HntSg3xw/20240823_024624.png",
+        "logo": "https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",
         "group": "Sports",
-        "name": "Willow Sports 2",
-        "url": "https://iptvlive-beta.vercel.app/willow-sports-2/index.m3u8"
+        "name": "Tapmad 6",
+        "url": "https://iptvlive-beta.vercel.app/tapmad-6/index.m3u8"
+    },
+    {
+        "logo": "https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",
+        "group": "Sports",
+        "name": "Tapmad 7",
+        "url": "https://iptvlive-beta.vercel.app/tapmad-7/index.m3u8"
+    },
+    {
+        "logo": "https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",
+        "group": "Sports",
+        "name": "Tapmad 8",
+        "url": "https://iptvlive-beta.vercel.app/tapmad-8/index.m3u8"
+    },
+    {
+        "logo": "https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",
+        "group": "Sports",
+        "name": "Tapmad 9",
+        "url": "https://iptvlive-beta.vercel.app/tapmad-9/index.m3u8"
     },
     {
         "logo": "https://i.postimg.cc/DzDHjCJm/20240823_024249.png",
@@ -904,6 +922,18 @@
         "group": "Sports",
         "name": "Star Sports 2",
         "url": "https://iptvlive-beta.vercel.app/star-sports-2/index.m3u8"
+    },
+    {
+        "logo": "https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",
+        "group": "Sports",
+        "name": "Star Sports SL 1",
+        "url": "https://iptvlive-beta.vercel.app/star-sports-sl-1/index.m3u8"
+    },
+    {
+        "logo": "https://i.postimg.cc/rmczbb8g/20240825_060019.png",
+        "group": "Sports",
+        "name": "Star Sports SL 2",
+        "url": "https://iptvlive-beta.vercel.app/star-sports-sl-2/index.m3u8"
     },
     {
         "logo": "https://i.postimg.cc/65fsWLS1/20240823_024136.png",
@@ -934,12 +964,6 @@
         "group": "Sports",
         "name": "Bein Sports 1",
         "url": "https://iptvlive-beta.vercel.app/bein-sports-1/index.m3u8"
-    },
-    {
-        "logo": "https://i.imgur.com/jVBfQNj.png",
-        "group": "Sports",
-        "name": "Mundial",
-        "url": "https://iptvlive-beta.vercel.app/mundial/index.m3u8"
     },
     {
         "logo": "https://i.postimg.cc/43NXkFx5/20240823_023458.png",
@@ -1018,12 +1042,6 @@
         "group": "News",
         "name": "Iran Press",
         "url": "https://iptvlive-beta.vercel.app/iran-press/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
-        "group": "Sports",
-        "name": "PTV Sports",
-        "url": "https://iptvlive-beta.vercel.app/ptv-sports/index.m3u8"
     },
     {
         "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",
@@ -4515,7 +4533,7 @@
         "logo": "https://198.195.239.50/img/channels/PTV%20SPORTS%20HD.png",
         "group": "General",
         "name": "PTV SPORTS",
-        "url": "https://iptvlive-beta.vercel.app/ptv-sports-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/ptv-sports/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/EUROSPORTS%20HD.png",
