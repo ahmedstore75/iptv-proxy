@@ -477,12 +477,6 @@ https://iptvlive-beta.vercel.app/sony-ten-2/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Ten 5
 https://iptvlive-beta.vercel.app/sony-ten-5/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png",Bein Sports
-https://iptvlive-beta.vercel.app/bein-sports/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",Bein Sports 1
-https://iptvlive-beta.vercel.app/bein-sports-1/index.m3u8
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png",Animal Planet HD
 https://iptvlive-beta.vercel.app/animal-planet-hd/index.m3u8
 
@@ -535,7 +529,7 @@ https://iptvlive-beta.vercel.app/tsn-3/index.m3u8
 https://iptvlive-beta.vercel.app/willow-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="bein_sports_1" tvg-name="Bein Sports 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",Bein Sports 1
-https://iptvlive-beta.vercel.app/bein-sports-1-1/index.m3u8
+https://iptvlive-beta.vercel.app/bein-sports-1/index.m3u8
 
 #EXTINF:-1 tvg-name="Bleav Football" tvg-logo="https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928" group-title="Sports",Bleav Football
 https://iptvlive-beta.vercel.app/bleav-football/index.m3u8
@@ -2014,7 +2008,7 @@ https://iptvlive-beta.vercel.app/muxip-sportsfirst-tv/index.m3u8
 https://iptvlive-beta.vercel.app/a-spor/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1🎯
-https://iptvlive-beta.vercel.app/bein-sports-1-2/index.m3u8
+https://iptvlive-beta.vercel.app/bein-sports-1-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Football", Real Madrid tv Football
 https://iptvlive-beta.vercel.app/real-madrid-tv-football/index.m3u8
@@ -2416,7 +2410,7 @@ https://iptvlive-beta.vercel.app/w-300-q-85-ra2x-pqbrjbfs2-rwg9l-posters-795170c
 https://iptvlive-beta.vercel.app/willow-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png" group-title="SM All TV",Bein Sports
-https://iptvlive-beta.vercel.app/bein-sports-2/index.m3u8
+https://iptvlive-beta.vercel.app/bein-sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="SM All TV",PTV Sports HD
 https://iptvlive-beta.vercel.app/ptv-sports-hd/index.m3u8
@@ -2862,12 +2856,6 @@ https://iptvlive-beta.vercel.app/nick-hindi/index.m3u8
 #EXTINF:-1 tvg-name="Toffee Movies" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
 https://iptvlive-beta.vercel.app/toffee-movies/index.m3u8
 
-#EXTINF:-1 tvg-name="EPL channel 1" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/f030066c-0649-4d82-836f-c85321381d67.png" group-title="Toffee",EPL channel 1
-https://iptvlive-beta.vercel.app/epl-channel-1/index.m3u8
-
-#EXTINF:-1 tvg-name="BFL | Live 1" tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/50265e00-adc4-4415-ba56-b05ab757d71d.png" group-title="Toffee",BFL | Live 1
-https://iptvlive-beta.vercel.app/bfl-live-1/index.m3u8
-
 #EXTINF:-1 tvg-name="WC Match Recap" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Toffee",WC Match Recap
 https://iptvlive-beta.vercel.app/wc-match-recap/index.m3u8
 
@@ -3080,9 +3068,6 @@ https://iptvlive-beta.vercel.app/investigation-discovery-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="&TV HD" tvg-logo="https://assets-prod.services.toffeelive.com/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png" group-title="Toffee",&TV HD
 https://iptvlive-beta.vercel.app/tv-hd/index.m3u8
-
-#EXTINF:-1 tvg-name="& Pictures HD" tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png" group-title="Toffee",& Pictures HD
-https://iptvlive-beta.vercel.app/pictures-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
 https://iptvlive-beta.vercel.app/btv-2/index.m3u8
