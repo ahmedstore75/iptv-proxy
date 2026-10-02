@@ -5712,6 +5712,18 @@
         "url": "https://iptvlive-beta.vercel.app/toffee-movies/index.m3u8"
     },
     {
+        "logo": "https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/f030066c-0649-4d82-836f-c85321381d67.png",
+        "group": "Toffee",
+        "name": "EPL channel 1",
+        "url": "https://iptvlive-beta.vercel.app/epl-channel-1/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/abc2957d-e9a0-4fa8-be08-ffc3c2fabb61.png",
+        "group": "Toffee",
+        "name": "BFL | Live 1",
+        "url": "https://iptvlive-beta.vercel.app/bfl-live-1/index.m3u8"
+    },
+    {
         "logo": "https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",
         "group": "Toffee",
         "name": "WC Match Recap",
@@ -6136,6 +6148,12 @@
         "group": "Toffee",
         "name": "&TV HD",
         "url": "https://iptvlive-beta.vercel.app/tv-hd/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png",
+        "group": "Toffee",
+        "name": "& Pictures HD",
+        "url": "https://iptvlive-beta.vercel.app/pictures-hd/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/BTV.HD.png",
