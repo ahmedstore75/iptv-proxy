@@ -5718,10 +5718,10 @@
         "url": "https://iptvlive-beta.vercel.app/epl-channel-1/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/22e4f386-9180-4fa7-bd27-16d412e8b494.png",
+        "logo": "https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/26ad6992-9fc5-4254-8374-a99673582577.png",
         "group": "Toffee",
-        "name": "BFL | Live 1",
-        "url": "https://iptvlive-beta.vercel.app/bfl-live-1/index.m3u8"
+        "name": "FC | Live 1",
+        "url": "https://iptvlive-beta.vercel.app/fc-live-1/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",
@@ -5878,6 +5878,24 @@
         "group": "Toffee",
         "name": "CGTN",
         "url": "https://iptvlive-beta.vercel.app/cgtn-3/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp",
+        "group": "Toffee",
+        "name": "Eurosport HD",
+        "url": "https://iptvlive-beta.vercel.app/eurosport-hd/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png",
+        "group": "Toffee",
+        "name": "Saudi Sunnah",
+        "url": "https://iptvlive-beta.vercel.app/saudi-sunnah/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png",
+        "group": "Toffee",
+        "name": "Saudi Quran",
+        "url": "https://iptvlive-beta.vercel.app/saudi-quran-1/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",
