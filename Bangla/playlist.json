@@ -5718,12 +5718,6 @@
         "url": "https://iptvlive-beta.vercel.app/toffee-movies/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/f030066c-0649-4d82-836f-c85321381d67.png",
-        "group": "Toffee",
-        "name": "EPL channel 1",
-        "url": "https://iptvlive-beta.vercel.app/epl-channel-1/index.m3u8"
-    },
-    {
         "logo": "https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/967dd1fe-c2af-442e-a0b1-22320ed82c88.png",
         "group": "Toffee",
         "name": "BFL | Live 1",
@@ -6052,6 +6046,36 @@
         "group": "Toffee",
         "name": "Zee Action",
         "url": "https://iptvlive-beta.vercel.app/zee-action-2/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",
+        "group": "Toffee",
+        "name": "Sony MAX",
+        "url": "https://iptvlive-beta.vercel.app/sony-max-1/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
+        "group": "Toffee",
+        "name": "Sony PIX HD",
+        "url": "https://iptvlive-beta.vercel.app/sony-pix-hd/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png",
+        "group": "Toffee",
+        "name": "Zee Cafe",
+        "url": "https://iptvlive-beta.vercel.app/zee-cafe/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp",
+        "group": "Toffee",
+        "name": "B4U Movies APAC",
+        "url": "https://iptvlive-beta.vercel.app/b4u-movies-apac/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp",
+        "group": "Toffee",
+        "name": "Sony MAX 2",
+        "url": "https://iptvlive-beta.vercel.app/sony-max-2-2/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png",
