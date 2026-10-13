@@ -5730,18 +5730,6 @@
         "url": "https://iptvlive-beta.vercel.app/awsn-tv/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/S9bzFaEBalKyvLQIrh3b/posters/f400a8bc-d83c-40f8-93e8-206314ad332d.png",
-        "group": "Toffee",
-        "name": "Al Jazeera",
-        "url": "https://iptvlive-beta.vercel.app/al-jazeera-2/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/967dd1fe-c2af-442e-a0b1-22320ed82c88.png",
-        "group": "Toffee",
-        "name": "BFL | Live 1",
-        "url": "https://iptvlive-beta.vercel.app/bfl-live-1/index.m3u8"
-    },
-    {
         "logo": "https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",
         "group": "Toffee",
         "name": "WC Match Recap",
@@ -5880,6 +5868,12 @@
         "url": "https://iptvlive-beta.vercel.app/dw-1/index.m3u8"
     },
     {
+        "logo": "https://assets-prod.services.toffeelive.com/S9bzFaEBalKyvLQIrh3b/posters/f400a8bc-d83c-40f8-93e8-206314ad332d.png",
+        "group": "Toffee",
+        "name": "Al Jazeera",
+        "url": "https://iptvlive-beta.vercel.app/al-jazeera-2/index.m3u8"
+    },
+    {
         "logo": "https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png",
         "group": "Toffee",
         "name": "Russia Today",
@@ -5956,6 +5950,36 @@
         "group": "Toffee",
         "name": "POGO",
         "url": "https://iptvlive-beta.vercel.app/pogo-2/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",
+        "group": "Toffee",
+        "name": "Discovery Kids",
+        "url": "https://iptvlive-beta.vercel.app/discovery-kids-4/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",
+        "group": "Toffee",
+        "name": "Sony YAY",
+        "url": "https://iptvlive-beta.vercel.app/sony-yay-2/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",
+        "group": "Toffee",
+        "name": "Zee Bangla",
+        "url": "https://iptvlive-beta.vercel.app/zee-bangla-2/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png",
+        "group": "Toffee",
+        "name": "Zee Anmol",
+        "url": "https://iptvlive-beta.vercel.app/zee-anmol/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png",
+        "group": "Toffee",
+        "name": "Zing",
+        "url": "https://iptvlive-beta.vercel.app/zing/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png",
@@ -6471,7 +6495,7 @@
         "logo": "https://198.195.239.50/img/channels/SONY%20YAY.png",
         "group": "Kids",
         "name": "SONY YAY",
-        "url": "https://iptvlive-beta.vercel.app/sony-yay-2/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/sony-yay-3/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/DISCOVERY%20KIDS.png",
