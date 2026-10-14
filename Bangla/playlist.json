@@ -1,7 +1,7 @@
 [
     {
         "logo": "https://i.ibb.co.com/rMBV1xX/images.jpg",
-        "group": "General",
+        "group": "Sports",
         "name": "Live Cricket",
         "url": "https://iptvlive-beta.vercel.app/live-cricket/index.m3u8"
     },
@@ -5724,10 +5724,22 @@
         "url": "https://iptvlive-beta.vercel.app/toffee-movies/index.m3u8"
     },
     {
+        "logo": "https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/691d9600-effb-46b4-8a62-4cbefb15650a.png",
+        "group": "Toffee",
+        "name": "EPL channel 1",
+        "url": "https://iptvlive-beta.vercel.app/epl-channel-1/index.m3u8"
+    },
+    {
         "logo": "https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg",
         "group": "Toffee",
         "name": "AWSN TV",
         "url": "https://iptvlive-beta.vercel.app/awsn-tv/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/38d1534d-830f-4395-a2cf-2d72d037c9aa.png",
+        "group": "Toffee",
+        "name": "FC | Live 1",
+        "url": "https://iptvlive-beta.vercel.app/fc-live-1/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",
@@ -5914,24 +5926,6 @@
         "group": "Toffee",
         "name": "Sony Ten Sports 1 HD",
         "url": "https://iptvlive-beta.vercel.app/sony-ten-sports-1-hd/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",
-        "group": "Toffee",
-        "name": "Sony Ten Sports 2 HD",
-        "url": "https://iptvlive-beta.vercel.app/sony-ten-sports-2-hd/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",
-        "group": "Toffee",
-        "name": "Sony Ten Sports 5 HD",
-        "url": "https://iptvlive-beta.vercel.app/sony-ten-sports-5-hd/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
-        "group": "Toffee",
-        "name": "Sony Ten Cricket",
-        "url": "https://iptvlive-beta.vercel.app/sony-ten-cricket/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",
