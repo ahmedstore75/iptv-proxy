@@ -5928,6 +5928,24 @@
         "url": "https://iptvlive-beta.vercel.app/sony-ten-sports-1-hd/index.m3u8"
     },
     {
+        "logo": "https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",
+        "group": "Toffee",
+        "name": "Sony Ten Sports 2 HD",
+        "url": "https://iptvlive-beta.vercel.app/sony-ten-sports-2-hd/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",
+        "group": "Toffee",
+        "name": "Sony Ten Sports 5 HD",
+        "url": "https://iptvlive-beta.vercel.app/sony-ten-sports-5-hd/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
+        "group": "Toffee",
+        "name": "Sony Ten Cricket",
+        "url": "https://iptvlive-beta.vercel.app/sony-ten-cricket/index.m3u8"
+    },
+    {
         "logo": "https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",
         "group": "Toffee",
         "name": "Cartoon Network HD +",
@@ -6154,12 +6172,6 @@
         "group": "Toffee",
         "name": "&TV HD",
         "url": "https://iptvlive-beta.vercel.app/tv-hd/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png",
-        "group": "Toffee",
-        "name": "& Pictures HD",
-        "url": "https://iptvlive-beta.vercel.app/pictures-hd/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/BTV.HD.png",
