@@ -3522,804 +3522,6 @@
         "url": "https://iptvlive-beta.vercel.app/rtve-24h/index.m3u8"
     },
     {
-        "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg",
-        "group": "Football World Cup 2026",
-        "name": "Football World Cup 2026",
-        "url": "https://iptvlive-beta.vercel.app/football-world-cup-2026/index.m3u8"
-    },
-    {
-        "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg",
-        "group": "Football World Cup 2026",
-        "name": "Football World Cup 2026",
-        "url": "https://iptvlive-beta.vercel.app/football-world-cup-2026-1/index.m3u8"
-    },
-    {
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10",
-        "group": "Live Sports",
-        "name": "Live Sports",
-        "url": "https://iptvlive-beta.vercel.app/live-sports/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",
-        "group": "Bangla",
-        "name": "ATN Bangla UK",
-        "url": "https://iptvlive-beta.vercel.app/atn-bangla-uk/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png",
-        "group": "Bangla",
-        "name": "NTV UK",
-        "url": "https://iptvlive-beta.vercel.app/ntv-uk/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",
-        "group": "Bangla",
-        "name": "Bangla TV Europe",
-        "url": "https://iptvlive-beta.vercel.app/bangla-tv-europe/index.m3u8"
-    },
-    {
-        "logo": "://tplay.live/originals/bengali-beats/bengali-beats.png",
-        "group": "Bangla Music",
-        "name": "Bengla Beats",
-        "url": "https://iptvlive-beta.vercel.app/bengla-beats/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/Gfw89mC/20240804-033102.png",
-        "group": "Relagion Channel",
-        "name": "Peace TV Bangla",
-        "url": "https://iptvlive-beta.vercel.app/peace-tv-bangla-1/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
-        "group": "Relagion Channel",
-        "name": "Peace TV English",
-        "url": "https://iptvlive-beta.vercel.app/peace-tv-english/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
-        "group": "Relagion Channel",
-        "name": "Peace TV Urdu",
-        "url": "https://iptvlive-beta.vercel.app/peace-tv-urdu/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/7jrjkW1/20240813-112630.png",
-        "group": "Relagion Channel",
-        "name": "Madani TV",
-        "url": "https://iptvlive-beta.vercel.app/madani-tv/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
-        "group": "Relagion Channel",
-        "name": "Makkah TV",
-        "url": "https://iptvlive-beta.vercel.app/makkah-tv/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Relagion Channel",
-        "name": "EWTN TV",
-        "url": "https://iptvlive-beta.vercel.app/ewtn-tv-1/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Relagion Channel",
-        "name": "God TV",
-        "url": "https://iptvlive-beta.vercel.app/god-tv/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Relagion Channel",
-        "name": "Arihant TV",
-        "url": "https://iptvlive-beta.vercel.app/arihant-tv/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/CPmLfGs/Amar-Bangla.png",
-        "group": "Bangla Movies",
-        "name": "Amar Bangla",
-        "url": "https://iptvlive-beta.vercel.app/amar-bangla/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Kolkata Bangla",
-        "name": "R Plus Gold",
-        "url": "https://iptvlive-beta.vercel.app/r-plus-gold-1/index.m3u8"
-    },
-    {
-        "logo": "https://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQmW5aAA-8mIeuB88P0SUdrjBBSFEHQ2ZXiddKtVfnJCQ.png",
-        "group": "Kolkata Bangla",
-        "name": "AAKASH AATH",
-        "url": "https://iptvlive-beta.vercel.app/aakash-aath/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png",
-        "group": "Kolkata Bangla Movies",
-        "name": "Zee Bangla Cinema",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-cinema-2/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Kolkata Bangla Music",
-        "name": "Dhoom Music",
-        "url": "https://iptvlive-beta.vercel.app/dhoom-music/index.m3u8"
-    },
-    {
-        "logo": "https://i.postimg.cc/t7Gn9VtZ/abpananda.png",
-        "group": "Indian Bangla News",
-        "name": "ABP Ananda",
-        "url": "https://iptvlive-beta.vercel.app/abp-ananda/index.m3u8"
-    },
-    {
-        "logo": "https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png",
-        "group": "Indian Bangla News",
-        "name": "Zee 24 Ghanta",
-        "url": "https://iptvlive-beta.vercel.app/zee-24-ghanta-1/index.m3u8"
-    },
-    {
-        "logo": "https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png",
-        "group": "Indian Bangla News",
-        "name": "News18 Bangla News",
-        "url": "https://iptvlive-beta.vercel.app/news18-bangla-news/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Indian Bangla News",
-        "name": "R Plus News",
-        "url": "https://iptvlive-beta.vercel.app/r-plus-news-1/index.m3u8"
-    },
-    {
-        "logo": "https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png",
-        "group": "Indian Bangla News",
-        "name": "Kolkata TV",
-        "url": "https://iptvlive-beta.vercel.app/kolkata-tv/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Indian Bangla News",
-        "name": "NK",
-        "url": "https://iptvlive-beta.vercel.app/nk/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "CARTOON Drama",
-        "name": "Mr Bean Animated",
-        "url": "https://iptvlive-beta.vercel.app/mr-bean-animated/index.m3u8"
-    },
-    {
-        "logo": "https://i.imgur.com/ubZMeQv.jpg",
-        "group": "CARTOON Drama",
-        "name": "Jungle Book",
-        "url": "https://iptvlive-beta.vercel.app/jungle-book/index.m3u8"
-    },
-    {
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",
-        "group": "Hindi Movies",
-        "name": "Zee Anmol TV",
-        "url": "https://iptvlive-beta.vercel.app/zee-anmol-tv/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Hindi",
-        "name": "Big Magic",
-        "url": "https://iptvlive-beta.vercel.app/big-magic/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Hindi Movies",
-        "name": "The Movie Club",
-        "url": "https://iptvlive-beta.vercel.app/the-movie-club/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png",
-        "group": "Hindi Movies",
-        "name": "Zee Action",
-        "url": "https://iptvlive-beta.vercel.app/zee-action/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png",
-        "group": "Hindi Movies",
-        "name": "B4U Kadak",
-        "url": "https://iptvlive-beta.vercel.app/b4u-kadak/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",
-        "group": "Hindi Movies",
-        "name": "Sheemaroo Bollywood",
-        "url": "https://iptvlive-beta.vercel.app/sheemaroo-bollywood/index.m3u8"
-    },
-    {
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10",
-        "group": "Hindi Movies",
-        "name": "Joo Music",
-        "url": "https://iptvlive-beta.vercel.app/joo-music/index.m3u8"
-    },
-    {
-        "logo": "https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630",
-        "group": "Hindi Movies",
-        "name": "Goldmines",
-        "url": "https://iptvlive-beta.vercel.app/goldmines/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Hindi Movies",
-        "name": "Goldmines Bollywood",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-bollywood/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Hindi Movies",
-        "name": "Goldmines Movies",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-movies/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Hindi Movies",
-        "name": "Goldmines Movies 2",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-movies-2/index.m3u8"
-    },
-    {
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s",
-        "group": "Hindi Movies",
-        "name": "Manoranjan Prime",
-        "url": "https://iptvlive-beta.vercel.app/manoranjan-prime/index.m3u8"
-    },
-    {
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s",
-        "group": "Hindi Movies",
-        "name": "Manoranjan Grend",
-        "url": "https://iptvlive-beta.vercel.app/manoranjan-grend/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
-        "group": "Sports",
-        "name": "Star Sports 1 HD",
-        "url": "https://iptvlive-beta.vercel.app/star-sports-1-hd/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Sports",
-        "name": "DD Sports 2.0",
-        "url": "https://iptvlive-beta.vercel.app/dd-sports-2-0/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png",
-        "group": "Information",
-        "name": "Nat Geo HD",
-        "url": "https://iptvlive-beta.vercel.app/nat-geo-hd/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Information",
-        "name": "BBC Earth",
-        "url": "https://iptvlive-beta.vercel.app/bbc-earth/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Information",
-        "name": "BBC Earth",
-        "url": "https://iptvlive-beta.vercel.app/bbc-earth-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",
-        "group": "Information",
-        "name": "Travel XP English NZ",
-        "url": "https://iptvlive-beta.vercel.app/travel-xp-english-nz/index.m3u8"
-    },
-    {
-        "logo": "https://i.postimg.cc/sfZsrWst/20240823_023726.png",
-        "group": "Documentary",
-        "name": "Wild Earth",
-        "url": "https://iptvlive-beta.vercel.app/wild-earth/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Information",
-        "name": "Food Food",
-        "url": "https://iptvlive-beta.vercel.app/food-food/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Information",
-        "name": "CGTN Docment",
-        "url": "https://iptvlive-beta.vercel.app/cgtn-docment/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Information",
-        "name": "Discover Pakistan TV",
-        "url": "https://iptvlive-beta.vercel.app/discover-pakistan-tv/index.m3u8"
-    },
-    {
-        "logo": "https://i.postimg.cc/3RxSzVbd/image.jpg",
-        "group": "KIDS",
-        "name": "Zoo Moo",
-        "url": "https://iptvlive-beta.vercel.app/zoo-moo/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "English Movies",
-        "name": "Lotus",
-        "url": "https://iptvlive-beta.vercel.app/lotus/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",
-        "group": "English Movies",
-        "name": "Action Hollywood Movies",
-        "url": "https://iptvlive-beta.vercel.app/action-hollywood-movies-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png",
-        "group": "Hindi Music",
-        "name": "9XM",
-        "url": "https://iptvlive-beta.vercel.app/9xm-1/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/dbjnG3X/20240803-105403.png",
-        "group": "Hindi Music",
-        "name": "E24",
-        "url": "https://iptvlive-beta.vercel.app/e24/index.m3u8"
-    },
-    {
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU",
-        "group": "Hindi Music",
-        "name": "Music India",
-        "url": "https://iptvlive-beta.vercel.app/music-india-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png",
-        "group": "English News",
-        "name": "BBC World",
-        "url": "https://iptvlive-beta.vercel.app/bbc-world/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "English News",
-        "name": "CNN",
-        "url": "https://iptvlive-beta.vercel.app/cnn/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "English News",
-        "name": "CGTN News",
-        "url": "https://iptvlive-beta.vercel.app/cgtn-news/index.m3u8"
-    },
-    {
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",
-        "group": "English News",
-        "name": "France 24",
-        "url": "https://iptvlive-beta.vercel.app/france-24/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "English News",
-        "name": "Sky News",
-        "url": "https://iptvlive-beta.vercel.app/sky-news/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "English News",
-        "name": "CNA News",
-        "url": "https://iptvlive-beta.vercel.app/cna-news/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "English News",
-        "name": "NHK World",
-        "url": "https://iptvlive-beta.vercel.app/nhk-world/index.m3u8"
-    },
-    {
-        "logo": "https://i.postimg.cc/pdPNPz8J/images.png",
-        "group": "Islamic",
-        "name": "AL SUNNAH AL NABAWIYAH TV",
-        "url": "https://iptvlive-beta.vercel.app/al-sunnah-al-nabawiyah-tv/index.m3u8"
-    },
-    {
-        "logo": "https://i.imgur.com/afhANph.jpg",
-        "group": "Islamic",
-        "name": "Makka live",
-        "url": "https://iptvlive-beta.vercel.app/makka-live/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Live Tv",
-        "name": "FIFA WORLD CUP LIVE-1",
-        "url": "https://iptvlive-beta.vercel.app/fifa-world-cup-live-1/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Live Tv",
-        "name": "SRK TV",
-        "url": "https://iptvlive-beta.vercel.app/srk-tv/index.m3u8"
-    },
-    {
-        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-        "group": "FIFA World Cup 2026",
-        "name": "TPV Sport",
-        "url": "https://iptvlive-beta.vercel.app/tpv-sport/index.m3u8"
-    },
-    {
-        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-        "group": "FIFA World Cup 2026",
-        "name": "NEXT TV",
-        "url": "https://iptvlive-beta.vercel.app/next-tv/index.m3u8"
-    },
-    {
-        "logo": "https://shorturl.at/NPoFh",
-        "group": "FIFA World Cup 2026",
-        "name": "DAZN Spanish Commentators",
-        "url": "https://iptvlive-beta.vercel.app/dazn-spanish-commentators/index.m3u8"
-    },
-    {
-        "logo": "https://shorturl.at/NPoFh",
-        "group": "FIFA World Cup 2026",
-        "name": "🇦🇺 🇹🇷",
-        "url": "https://iptvlive-beta.vercel.app/channel-12/index.m3u8"
-    },
-    {
-        "logo": "https://shorturl.at/NPoFh",
-        "group": "FIFA World Cup 2026",
-        "name": "FIFA Live 🇦🇺 🇹🇷",
-        "url": "https://iptvlive-beta.vercel.app/fifa-live/index.m3u8"
-    },
-    {
-        "logo": "https://shorturl.at/NPoFh",
-        "group": "FIFA World Cup 2026",
-        "name": "Fifa World cup",
-        "url": "https://iptvlive-beta.vercel.app/fifa-world-cup/index.m3u8"
-    },
-    {
-        "logo": "ttps://shorturl.at/NPoFh",
-        "group": "FIFA World Cup 2026",
-        "name": "🇮🇳 UNITEB Sports 2 HD",
-        "url": "https://iptvlive-beta.vercel.app/uniteb-sports-2-hd/index.m3u8"
-    },
-    {
-        "logo": "https://shorturl.at/NPoFh",
-        "group": "FIFA World Cup 2026",
-        "name": "Somoy TV 🇧🇩",
-        "url": "https://iptvlive-beta.vercel.app/somoy-tv-1/index.m3u8"
-    },
-    {
-        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-        "group": "FIFA World Cup 2026",
-        "name": "D Sports",
-        "url": "https://iptvlive-beta.vercel.app/d-sports/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "Cricket 🏏",
-        "name": "Discovery_Asia HD",
-        "url": "https://iptvlive-beta.vercel.app/discovery-asia-hd/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "Cricket 🏏",
-        "name": "Live Quran TV 🎯 📡",
-        "url": "https://iptvlive-beta.vercel.app/live-quran-tv/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "Cricket 🏏",
-        "name": "WAZ TV 🎯 📡",
-        "url": "https://iptvlive-beta.vercel.app/waz-tv/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "Cricket 🏏",
-        "name": "India A vs Afghanistan A Shamshad TV",
-        "url": "https://iptvlive-beta.vercel.app/india-a-vs-afghanistan-a-shamshad-tv/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "Cricket 🏏",
-        "name": "DD SPORTS",
-        "url": "https://iptvlive-beta.vercel.app/dd-sports-1/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Cricket 🏏",
-        "name": "Redbull TV",
-        "url": "https://iptvlive-beta.vercel.app/redbull-tv/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Cricket 🏏",
-        "name": "Motor Vision",
-        "url": "https://iptvlive-beta.vercel.app/motor-vision/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Football",
-        "name": "MuxIP-SportsFirst TV🎯",
-        "url": "https://iptvlive-beta.vercel.app/muxip-sportsfirst-tv/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/xSjB51j/aspor.png",
-        "group": "Football",
-        "name": "A SPOR",
-        "url": "https://iptvlive-beta.vercel.app/a-spor/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Football",
-        "name": "Bein Sports 1🎯",
-        "url": "https://iptvlive-beta.vercel.app/bein-sports-1-1/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Football",
-        "name": "Real Madrid tv Football",
-        "url": "https://iptvlive-beta.vercel.app/real-madrid-tv-football/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Football",
-        "name": "FIFA+",
-        "url": "https://iptvlive-beta.vercel.app/fifa/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Movies",
-        "name": "ТНТ4 International",
-        "url": "https://iptvlive-beta.vercel.app/4-international/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Movies",
-        "name": "ТНТ International",
-        "url": "https://iptvlive-beta.vercel.app/international/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "Bangladeshi 🇧🇩",
-        "name": "Arabica TV",
-        "url": "https://iptvlive-beta.vercel.app/arabica-tv/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "Bangladeshi 🇧🇩",
-        "name": "pcv",
-        "url": "https://iptvlive-beta.vercel.app/pcv/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "Bangladeshi 🇧🇩",
-        "name": "9XM TV",
-        "url": "https://iptvlive-beta.vercel.app/9xm-tv/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "Bangladeshi 🇧🇩",
-        "name": "Deepto TV",
-        "url": "https://iptvlive-beta.vercel.app/deepto-tv/index.m3u8"
-    },
-    {
-        "logo": "https://i.imgur.com/ubZMeQv.jpg",
-        "group": "Kids",
-        "name": "PBS Kids",
-        "url": "https://iptvlive-beta.vercel.app/pbs-kids/index.m3u8"
-    },
-    {
-        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-        "group": "Kids",
-        "name": "Unknown Channel",
-        "url": "https://iptvlive-beta.vercel.app/unknown-channel/index.m3u8"
-    },
-    {
-        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-        "group": "Kids",
-        "name": "ZB Cartoon",
-        "url": "https://iptvlive-beta.vercel.app/zb-cartoon/index.m3u8"
-    },
-    {
-        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-        "group": "Kids",
-        "name": "Zoo Moo",
-        "url": "https://iptvlive-beta.vercel.app/zoo-moo-1/index.m3u8"
-    },
-    {
-        "logo": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
-        "group": "ISLAMIC CHANNELS",
-        "name": "Peace tv Bangla",
-        "url": "https://iptvlive-beta.vercel.app/peace-tv-bangla-2/index.m3u8"
-    },
-    {
-        "logo": " ",
-        "group": "ISLAMIC CHANNELS",
-        "name": "Noor Tv",
-        "url": "https://iptvlive-beta.vercel.app/noor-tv/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/cygNtwH/bahrain-quaran.png",
-        "group": "ISLAMIC CHANNELS",
-        "name": "BAHRAIN QURAN",
-        "url": "https://iptvlive-beta.vercel.app/bahrain-quran/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/dQtMFVT/qamar.jpg",
-        "group": "ISLAMIC CHANNELS",
-        "name": "AL QAMAR",
-        "url": "https://iptvlive-beta.vercel.app/al-qamar/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/ypj95gJ/almasirah.png",
-        "group": "ISLAMIC CHANNELS",
-        "name": "ALMASIRA MUBASHER",
-        "url": "https://iptvlive-beta.vercel.app/almasira-mubasher/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/ypj95gJ/almasirah.png",
-        "group": "ISLAMIC CHANNELS",
-        "name": "ALMASIRA MUBASHER",
-        "url": "https://iptvlive-beta.vercel.app/almasira-mubasher-1/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/TkVK043/ekbariya.png",
-        "group": "ISLAMIC CHANNELS",
-        "name": "AL EKHBARIA",
-        "url": "https://iptvlive-beta.vercel.app/al-ekhbaria/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/TkVK043/ekbariya.png",
-        "group": "ISLAMIC CHANNELS",
-        "name": "AL EKHBARIA",
-        "url": "https://iptvlive-beta.vercel.app/al-ekhbaria-1/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/MctgDQ8/sunnah.png",
-        "group": "ISLAMIC CHANNELS",
-        "name": "AL SUNNAH TV",
-        "url": "https://iptvlive-beta.vercel.app/al-sunnah-tv/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/HPzRmd3/alistiqama.png",
-        "group": "ISLAMIC CHANNELS",
-        "name": "AL ISTIQAMA",
-        "url": "https://iptvlive-beta.vercel.app/al-istiqama/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Infotainment Channels",
-        "name": "Discovery HD",
-        "url": "https://iptvlive-beta.vercel.app/discovery-hd-1/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Infotainment Channels",
-        "name": "Sochi 24 HD 🇷🇺",
-        "url": "https://iptvlive-beta.vercel.app/sochi-24-hd/index.m3u8"
-    },
-    {
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg",
-        "group": "Infotainment Channels",
-        "name": "ACCU WEATHER",
-        "url": "https://iptvlive-beta.vercel.app/accu-weather/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Infotainment Channels",
-        "name": "Amazon SAT",
-        "url": "https://iptvlive-beta.vercel.app/amazon-sat/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/jZ2NVqN/outdoorch.png",
-        "group": "Documentary",
-        "name": "OUTDOOR CHANNEL 🇺🇸",
-        "url": "https://iptvlive-beta.vercel.app/outdoor-channel/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/sRhcqHT/realwild.png",
-        "group": "Documentary",
-        "name": "REAL WILD 🇬🇧",
-        "url": "https://iptvlive-beta.vercel.app/real-wild/index.m3u8"
-    },
-    {
-        "logo": "https://business.insight.tv/wp-content/uploads/7521/01/Insight-TV-Logo-small-150x150.png",
-        "group": "Documentary",
-        "name": "INSIGHT",
-        "url": "https://iptvlive-beta.vercel.app/insight/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/9grLJCS/fone22.png",
-        "group": "Entertainment",
-        "name": "FASHION ONE",
-        "url": "https://iptvlive-beta.vercel.app/fashion-one/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/9grLJCS/fone22.png",
-        "group": "Entertainment",
-        "name": "FASHION ONE",
-        "url": "https://iptvlive-beta.vercel.app/fashion-one-1/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/9grLJCS/fone22.png",
-        "group": "Entertainment",
-        "name": "Digital Fashion",
-        "url": "https://iptvlive-beta.vercel.app/digital-fashion/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "NEWS INTERNASIONAL TV",
-        "name": "Times Of India",
-        "url": "https://iptvlive-beta.vercel.app/times-of-india/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "NEWS INTERNASIONAL TV",
-        "name": "France News 24",
-        "url": "https://iptvlive-beta.vercel.app/france-news-24/index.m3u8"
-    },
-    {
-        "logo": "https://is.gd/imZMIp",
-        "group": "NEWS INTERNASIONAL",
-        "name": "DW NEWS",
-        "url": "https://iptvlive-beta.vercel.app/dw-news-2/index.m3u8"
-    },
-    {
-        "logo": "https://is.gd/ih6x8j",
-        "group": "NEWS INTERNASIONAL",
-        "name": "NDTV NEWS",
-        "url": "https://iptvlive-beta.vercel.app/ndtv-news/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "NEWS INTERNASIONAL",
-        "name": "T Global News (Canada)",
-        "url": "https://iptvlive-beta.vercel.app/t-global-news-canada/index.m3u8"
-    },
-    {
-        "logo": "https://i.imgur.com/A1xzjOI.png",
-        "group": "NEWS INTERNASIONAL",
-        "name": "DW English",
-        "url": "https://iptvlive-beta.vercel.app/dw-english/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/M7W5zRy/images.png",
-        "group": "NEWS INTERNASIONAL",
-        "name": "RTNEWS GLOBAL",
-        "url": "https://iptvlive-beta.vercel.app/rtnews-global/index.m3u8"
-    },
-    {
-        "logo": "https://i.ibb.co/M7W5zRy/images.png",
-        "group": "NEWS INTERNASIONAL",
-        "name": "RT NEWS USA",
-        "url": "https://iptvlive-beta.vercel.app/rt-news-usa/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "NEWS INTERNASIONAL",
-        "name": "Iran International(EN) 🛜",
-        "url": "https://iptvlive-beta.vercel.app/iran-international-en/index.m3u8"
-    },
-    {
-        "logo": "https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",
-        "group": "NEWS INTERNASIONAL",
-        "name": "Breaking News",
-        "url": "https://iptvlive-beta.vercel.app/breaking-news/index.m3u8"
-    },
-    {
-        "logo": "https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",
-        "group": "NEWS INTERNASIONAL",
-        "name": "CGTN",
-        "url": "https://iptvlive-beta.vercel.app/cgtn-2/index.m3u8"
-    },
-    {
-        "logo": "https://i.imgur.com/kcMUGOE.jpg",
-        "group": "NEWS INTERNASIONAL",
-        "name": "Global News (US)",
-        "url": "https://iptvlive-beta.vercel.app/global-news-us/index.m3u8"
-    },
-    {
-        "logo": "https://i.imgur.com/ldXaLJK.png",
-        "group": "NEWS INTERNASIONAL",
-        "name": "NDTV English",
-        "url": "https://iptvlive-beta.vercel.app/ndtv-english/index.m3u8"
-    },
-    {
-        "logo": "https://i.postimg.cc/RZJmcSt6/9XM.jpg",
-        "group": "NEWS INTERNASIONAL",
-        "name": "News Max 2",
-        "url": "https://iptvlive-beta.vercel.app/news-max-2/index.m3u8"
-    },
-    {
         "logo": "https://198.195.239.50/img/channels/BTV.HD.png",
         "group": "General",
         "name": "BTV WORLD",
@@ -4419,7 +3621,7 @@
         "logo": "https://198.195.239.50/img/channels/DEEPTO.png",
         "group": "General",
         "name": "DEEPTO TV",
-        "url": "https://iptvlive-beta.vercel.app/deepto-tv-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/deepto-tv/index.m3u8"
     },
     {
         "logo": "",
@@ -4449,7 +3651,7 @@
         "logo": "https://198.195.239.50/img/channels/SOMOY%20TV.png",
         "group": "General",
         "name": "SOMOY TV",
-        "url": "https://iptvlive-beta.vercel.app/somoy-tv-2/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/somoy-tv-1/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/CHANNEL%2024.png",
@@ -4647,7 +3849,7 @@
         "logo": "https://198.195.239.50/img/channels/ZEE%20BANGLA%20CINEMA.png",
         "group": "General",
         "name": "ZEE BANGLA CINEMA",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-cinema-3/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/zee-bangla-cinema-2/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/COLORS%20BANGLA%20CINEMA.png",
@@ -4713,7 +3915,7 @@
         "logo": "https://198.195.239.50/img/channels/9XM%20MUSIC.png",
         "group": "General",
         "name": "9XM",
-        "url": "https://iptvlive-beta.vercel.app/9xm-2/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/9xm-1/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/DISCOVERY%20HD.png",
@@ -4791,7 +3993,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg",
         "group": "SM All TV",
         "name": "Channel 1",
-        "url": "https://iptvlive-beta.vercel.app/somoy-tv-3/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/somoy-tv-2/index.m3u8"
     },
     {
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
@@ -4968,6 +4170,12 @@
         "url": "https://iptvlive-beta.vercel.app/w-300-q-85-wcm3l5sbeef-9-uvxfvd-posters-d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09-png-group-title-sm-all-tv-anando-tv/index.m3u8"
     },
     {
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
+        "group": "SM All TV",
+        "name": "Deepto TV",
+        "url": "https://iptvlive-beta.vercel.app/deepto-tv-1/index.m3u8"
+    },
+    {
         "logo": "https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",
         "group": "SM All TV",
         "name": "Duronto TV",
@@ -5055,7 +4263,7 @@
         "logo": "https://i.ibb.co/Gfw89mC/20240804-033102.png",
         "group": "SM All TV",
         "name": "Peace TV Bangla",
-        "url": "https://iptvlive-beta.vercel.app/peace-tv-bangla-3/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/peace-tv-bangla-1/index.m3u8"
     },
     {
         "logo": "https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",
@@ -5106,6 +4314,12 @@
         "url": "https://iptvlive-beta.vercel.app/disney-channel-in/index.m3u8"
     },
     {
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "SM All TV",
+        "name": "Mr Bean Animated",
+        "url": "https://iptvlive-beta.vercel.app/mr-bean-animated/index.m3u8"
+    },
+    {
         "logo": "https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",
         "group": "SM All TV",
         "name": "Star Movies HD",
@@ -5116,6 +4330,12 @@
         "group": "SM All TV",
         "name": "EN | HBO Movies",
         "url": "https://iptvlive-beta.vercel.app/en-hbo-movies/index.m3u8"
+    },
+    {
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1zW8RLLNCQm6UHcIIJZlscOB5vhs7BF2I7SfTthYGv3LtHeRSut2-Ag&s=10",
+        "group": "SM All TV",
+        "name": "Action Hollywood Movies",
+        "url": "https://iptvlive-beta.vercel.app/action-hollywood-movies-1/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",
@@ -5172,6 +4392,12 @@
         "url": "https://iptvlive-beta.vercel.app/w-300-q-85-ks6x-jqbv9knk3ahwdzy-posters-6594d216-aaca-4eee-b6f5-bbc6b80feb15-webp-group-title-sm-all-tv-discovery-bangla-2/index.m3u8"
     },
     {
+        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
+        "group": "SM All TV",
+        "name": "National Geography HD",
+        "url": "https://iptvlive-beta.vercel.app/national-geography-hd/index.m3u8"
+    },
+    {
         "logo": "https://otapp.store/uploads/tv_image/sm/zoom.png",
         "group": "SM All TV",
         "name": "Zoom",
@@ -5181,7 +4407,7 @@
         "logo": "https://otapp.store/uploads/tv_image/sm/dhoom-music-bangla.png",
         "group": "SM All TV",
         "name": "Dhoom Music",
-        "url": "https://iptvlive-beta.vercel.app/dhoom-music-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/dhoom-music/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",
@@ -5274,16 +4500,22 @@
         "url": "https://iptvlive-beta.vercel.app/al-jazeera-hd/index.m3u8"
     },
     {
+        "logo": "https://otapp.store/uploads/tv_image/sm/dw-news.png",
+        "group": "SM All TV",
+        "name": "DW NEWS",
+        "url": "https://iptvlive-beta.vercel.app/dw-news-2/index.m3u8"
+    },
+    {
         "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_bea6d56aa19a59e2bc272736880a97f3_playmist_bbc_news_400x400.jpg",
         "group": "SM All TV",
         "name": "BBC World",
-        "url": "https://iptvlive-beta.vercel.app/bbc-world-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/bbc-world/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png",
         "group": "SM All TV",
         "name": "Zee Anmol TV",
-        "url": "https://iptvlive-beta.vercel.app/zee-anmol-tv-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/zee-anmol-tv/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",
@@ -5292,16 +4524,46 @@
         "url": "https://iptvlive-beta.vercel.app/w-300-q-85-ay52-jqbv9knk3ahfdwt-posters-00afb30b-3c19-4c4c-abd8-891db94e4767-webp-group-title-sm-all-tv-sony-max-1/index.m3u8"
     },
     {
+        "logo": "https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",
+        "group": "SM All TV",
+        "name": "Sheemaroo Bollywood",
+        "url": "https://iptvlive-beta.vercel.app/sheemaroo-bollywood/index.m3u8"
+    },
+    {
+        "logo": "https://otapp.store/uploads/tv_image/sm/goldmines-movies.png",
+        "group": "SM All TV",
+        "name": "Goldmines Movies 2",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-movies-2/index.m3u8"
+    },
+    {
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg",
+        "group": "SM All TV",
+        "name": "B4U Kadak",
+        "url": "https://iptvlive-beta.vercel.app/b4u-kadak/index.m3u8"
+    },
+    {
+        "logo": "https://otapp.store/uploads/tv_image/sm/goldmines-movies.png",
+        "group": "SM All TV",
+        "name": "Goldmines Movies",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-movies/index.m3u8"
+    },
+    {
+        "logo": "https://otapp.store/uploads/tv_image/sm/goldmines.link",
+        "group": "SM All TV",
+        "name": "Goldmines",
+        "url": "https://iptvlive-beta.vercel.app/goldmines/index.m3u8"
+    },
+    {
         "logo": "https://assets-prod.services.toffeelive.com/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png",
         "group": "SM All TV",
         "name": "Zee Action",
-        "url": "https://iptvlive-beta.vercel.app/zee-action-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/zee-action/index.m3u8"
     },
     {
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZvoj7sQem7dOoLMmPtCzKgSxaHVEJi6L6uBRFeJ33gfyFug_Yh96Z1U&s=10",
         "group": "SM All TV",
         "name": "Big Magic",
-        "url": "https://iptvlive-beta.vercel.app/big-magic-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/big-magic/index.m3u8"
     },
     {
         "logo": "https://otapp.store/uploads/tv_image/sm/b4u-movies.png",
@@ -5313,19 +4575,19 @@
         "logo": "https://i.postimg.cc/SRKS6TwR/20240823_022008.png",
         "group": "SM All TV",
         "name": "9XM",
-        "url": "https://iptvlive-beta.vercel.app/9xm-3/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/9xm-2/index.m3u8"
     },
     {
         "logo": "https://i.ibb.co/dbjnG3X/20240803-105403.png",
         "group": "SM All TV",
         "name": "E24",
-        "url": "https://iptvlive-beta.vercel.app/e24-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/e24/index.m3u8"
     },
     {
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU",
         "group": "SM All TV",
         "name": "Music India",
-        "url": "https://iptvlive-beta.vercel.app/music-india-2/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/music-india-1/index.m3u8"
     },
     {
         "logo": "https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj",
@@ -5460,10 +4722,16 @@
         "url": "https://iptvlive-beta.vercel.app/t-sports-hd-1/index.m3u8"
     },
     {
+        "logo": "https://iili.io/F8gQjJS.png",
+        "group": "SM All TV",
+        "name": "ZB Cartun TV",
+        "url": "https://iptvlive-beta.vercel.app/zb-cartun-tv/index.m3u8"
+    },
+    {
         "logo": "https://data.jaagobd.com/media/channel_logos/C16.jpg",
         "group": "SM All TV",
         "name": "Makkah TV",
-        "url": "https://iptvlive-beta.vercel.app/makkah-tv-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/makkah-tv/index.m3u8"
     },
     {
         "logo": "https://data.jaagobd.com/media/channel_logos/Desh_Bangla_Tv.png",
@@ -5512,6 +4780,12 @@
         "group": "SM All TV",
         "name": "Colors Bangla",
         "url": "https://iptvlive-beta.vercel.app/colors-bangla-3/index.m3u8"
+    },
+    {
+        "logo": "https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",
+        "group": "SM All TV",
+        "name": "Saudi Quran",
+        "url": "https://iptvlive-beta.vercel.app/saudi-quran-1/index.m3u8"
     },
     {
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png",
@@ -5592,6 +4866,12 @@
         "url": "https://iptvlive-beta.vercel.app/enterr10-bangla-1/index.m3u8"
     },
     {
+        "logo": "https://i.ibb.co/CPmLfGs/Amar-Bangla.png",
+        "group": "SM All TV",
+        "name": "Amar Bangla🇮🇳",
+        "url": "https://iptvlive-beta.vercel.app/amar-bangla/index.m3u8"
+    },
+    {
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png",
         "group": "SM All TV",
         "name": "Zee Bangla Sonar",
@@ -5608,6 +4888,18 @@
         "group": "SM All TV",
         "name": "Zee Bangla Sonar",
         "url": "https://iptvlive-beta.vercel.app/zee-bangla-sonar-2/index.m3u8"
+    },
+    {
+        "logo": "https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png",
+        "group": "SM All TV",
+        "name": "Kolkata TV",
+        "url": "https://iptvlive-beta.vercel.app/kolkata-tv/index.m3u8"
+    },
+    {
+        "logo": "",
+        "group": "SM All TV",
+        "name": "NK",
+        "url": "https://iptvlive-beta.vercel.app/nk/index.m3u8"
     },
     {
         "logo": "https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg",
@@ -5646,6 +4938,12 @@
         "url": "https://iptvlive-beta.vercel.app/enter10-bangla-hd/index.m3u8"
     },
     {
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png",
+        "group": "SM All TV",
+        "name": "R Plus Gold",
+        "url": "https://iptvlive-beta.vercel.app/r-plus-gold-1/index.m3u8"
+    },
+    {
         "logo": "https://banglajagotv.com/wp-content/themes/BANGLAJAGOTV/images/logo.png",
         "group": "SM All TV",
         "name": "IN | Bangla Jago TV",
@@ -5670,6 +4968,12 @@
         "url": "https://iptvlive-beta.vercel.app/news-india-tv/index.m3u8"
     },
     {
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj",
+        "group": "SM All TV",
+        "name": "NEWS | NDTV English",
+        "url": "https://iptvlive-beta.vercel.app/news-ndtv-english/index.m3u8"
+    },
+    {
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250430T011913SQUARE.png",
         "group": "SM All TV",
         "name": "NEWS | News24",
@@ -5680,6 +4984,12 @@
         "group": "SM All TV",
         "name": "Azan Tv",
         "url": "https://iptvlive-beta.vercel.app/azan-tv/index.m3u8"
+    },
+    {
+        "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg",
+        "group": "SM All TV",
+        "name": "Quran Live",
+        "url": "https://iptvlive-beta.vercel.app/quran-live/index.m3u8"
     },
     {
         "logo": "",
@@ -5718,6 +5028,12 @@
         "url": "https://iptvlive-beta.vercel.app/discovery-kids-3/index.m3u8"
     },
     {
+        "logo": "",
+        "group": "Cartoon",
+        "name": "Zoo Moo",
+        "url": "https://iptvlive-beta.vercel.app/zoo-moo/index.m3u8"
+    },
+    {
         "logo": "https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg",
         "group": "Cartoon",
         "name": "Oggy",
@@ -5754,34 +5070,22 @@
         "url": "https://iptvlive-beta.vercel.app/wc-match-recap/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/3c86f68e-6dbb-4c05-9e47-445c65633ccc.png",
+        "logo": "https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg",
         "group": "Toffee",
-        "name": "BFL | Live 1",
-        "url": "https://iptvlive-beta.vercel.app/bfl-live-1/index.m3u8"
+        "name": "AWSN TV",
+        "url": "https://iptvlive-beta.vercel.app/awsn-tv/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/MXnGgJkBcqxnFHJBILyR/posters/f8781d12-0f49-4897-8426-7406f0ae93f2.png",
+        "logo": "https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp",
         "group": "Toffee",
-        "name": "FC | Live 2",
-        "url": "https://iptvlive-beta.vercel.app/fc-live-2/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/LnlKhJkBcqxnFHJBU8GM/posters/d0d2f903-5843-4de4-bbc5-7317866f78e2.png",
-        "group": "Toffee",
-        "name": "BFL | Live 3",
-        "url": "https://iptvlive-beta.vercel.app/bfl-live-3/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",
-        "group": "Toffee",
-        "name": "SAFF Live 1",
-        "url": "https://iptvlive-beta.vercel.app/saff-live-1/index.m3u8"
+        "name": "CNN",
+        "url": "https://iptvlive-beta.vercel.app/cnn/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",
         "group": "Toffee",
         "name": "Somoy TV",
-        "url": "https://iptvlive-beta.vercel.app/somoy-tv-4/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/somoy-tv-3/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png",
@@ -5814,22 +5118,28 @@
         "url": "https://iptvlive-beta.vercel.app/global-tv-3/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png",
+        "logo": "https://assets-prod.services.toffeelive.com/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png",
         "group": "Toffee",
-        "name": "Nexus TV",
-        "url": "https://iptvlive-beta.vercel.app/nexus-tv-1/index.m3u8"
+        "name": "Channel S",
+        "url": "https://iptvlive-beta.vercel.app/channel-s-1/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png",
+        "logo": "https://assets-prod.services.toffeelive.com/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png",
         "group": "Toffee",
-        "name": "Islamic TV",
-        "url": "https://iptvlive-beta.vercel.app/islamic-tv-2/index.m3u8"
+        "name": "Rajdhani TV",
+        "url": "https://iptvlive-beta.vercel.app/rajdhani-tv/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png",
+        "logo": "https://assets-prod.services.toffeelive.com/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png",
         "group": "Toffee",
-        "name": "Desh TV",
-        "url": "https://iptvlive-beta.vercel.app/desh-tv-4/index.m3u8"
+        "name": "Bangla TV",
+        "url": "https://iptvlive-beta.vercel.app/bangla-tv-3/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png",
+        "group": "Toffee",
+        "name": "Asian TV",
+        "url": "https://iptvlive-beta.vercel.app/asian-tv-3/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png",
@@ -5862,34 +5172,10 @@
         "url": "https://iptvlive-beta.vercel.app/trt-world-1/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/7oPt_p8BJIOHmUelhXWj/posters/d6328092-9437-4806-8dc7-d00732d56832.png",
-        "group": "Toffee",
-        "name": "DW",
-        "url": "https://iptvlive-beta.vercel.app/dw-1/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/S9bzFaEBalKyvLQIrh3b/posters/f400a8bc-d83c-40f8-93e8-206314ad332d.png",
-        "group": "Toffee",
-        "name": "Al Jazeera",
-        "url": "https://iptvlive-beta.vercel.app/al-jazeera-2/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png",
-        "group": "Toffee",
-        "name": "Russia Today",
-        "url": "https://iptvlive-beta.vercel.app/russia-today-1/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/G4ML_58BJIOHmUelNXZr/posters/becc2fba-4ed5-4f43-af2d-3c1ea2b4ee57.png",
-        "group": "Toffee",
-        "name": "France 24",
-        "url": "https://iptvlive-beta.vercel.app/france-24-1/index.m3u8"
-    },
-    {
         "logo": "https://assets-prod.services.toffeelive.com/DYMI_58BJIOHmUelm3aK/posters/d8436322-804a-47b6-9a3f-62764c4622d5.png",
         "group": "Toffee",
         "name": "CGTN",
-        "url": "https://iptvlive-beta.vercel.app/cgtn-3/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/cgtn-2/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp",
@@ -5907,7 +5193,7 @@
         "logo": "https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png",
         "group": "Toffee",
         "name": "Saudi Quran",
-        "url": "https://iptvlive-beta.vercel.app/saudi-quran-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/saudi-quran-2/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",
@@ -6045,7 +5331,7 @@
         "logo": "https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png",
         "group": "Toffee",
         "name": "Zee Bangla Cinema",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-cinema-4/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/zee-bangla-cinema-3/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png",
@@ -6057,7 +5343,7 @@
         "logo": "https://assets-prod.services.toffeelive.com/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png",
         "group": "Toffee",
         "name": "Zee Action",
-        "url": "https://iptvlive-beta.vercel.app/zee-action-2/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/zee-action-1/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",
@@ -6112,6 +5398,36 @@
         "group": "Toffee",
         "name": "Animal Planet",
         "url": "https://iptvlive-beta.vercel.app/animal-planet-1/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",
+        "group": "Toffee",
+        "name": "Animal Planet HD",
+        "url": "https://iptvlive-beta.vercel.app/animal-planet-hd-1/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",
+        "group": "Toffee",
+        "name": "Sony BBC Earth HD",
+        "url": "https://iptvlive-beta.vercel.app/sony-bbc-earth-hd/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp",
+        "group": "Toffee",
+        "name": "Discovery HD",
+        "url": "https://iptvlive-beta.vercel.app/discovery-hd-1/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",
+        "group": "Toffee",
+        "name": "Discovery",
+        "url": "https://iptvlive-beta.vercel.app/discovery-1/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",
+        "group": "Toffee",
+        "name": "Discovery Science",
+        "url": "https://iptvlive-beta.vercel.app/discovery-science/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp",
@@ -6423,7 +5739,7 @@
         "logo": "https://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png",
         "group": "Documentary",
         "name": "ANIMAL PLANET HD",
-        "url": "https://iptvlive-beta.vercel.app/animal-planet-hd-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/animal-planet-hd-2/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/CARTOON%20NETWORK.png",
