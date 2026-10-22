@@ -135,8 +135,8 @@ https://iptvlive-beta.vercel.app/green-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png" group-title="Bangla",Jonmo Bhumi TV
 https://iptvlive-beta.vercel.app/jonmo-bhumi-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="Bangla",Mohona TV HD
-https://iptvlive-beta.vercel.app/mohona-tv-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjyb24hM/1000115063.jpg" group-title="Bangla",Nagorik TV
+https://iptvlive-beta.vercel.app/nagorik-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.metvbd.com/media/common/logo-fb.png" group-title="Bangla",ME TV
 https://iptvlive-beta.vercel.app/me-tv/index.m3u8
@@ -237,8 +237,8 @@ https://iptvlive-beta.vercel.app/green-tv-1/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/xdj4TwHX/20240822-230629.png",Asian
 https://iptvlive-beta.vercel.app/asian/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg",SRK
-https://iptvlive-beta.vercel.app/srk/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg",SRK TV
+https://iptvlive-beta.vercel.app/srk-tv/index.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg",Makkah Live
 https://iptvlive-beta.vercel.app/makkah-live/index.m3u8
@@ -420,9 +420,6 @@ https://iptvlive-beta.vercel.app/9x-jalwa/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/VkxZ8tD2/76-Tamil-channel.webp",7S Music
 https://iptvlive-beta.vercel.app/7s-music/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/XNHzD5Zg/s143563-ld-h15-aa.png",Music India
-https://iptvlive-beta.vercel.app/music-india/index.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png",Zoom
 https://iptvlive-beta.vercel.app/zoom/index.m3u8
 
@@ -440,6 +437,18 @@ https://iptvlive-beta.vercel.app/t-sports-hd/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rFKBNjwP/Ptvsportslogo2023.webp",PTV Sports
 https://iptvlive-beta.vercel.app/ptv-sports/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",Tapmad 1
+https://iptvlive-beta.vercel.app/tapmad-1/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",Tapmad 2
+https://iptvlive-beta.vercel.app/tapmad-2/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",Tapmad 3
+https://iptvlive-beta.vercel.app/tapmad-3/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",Tapmad 4
+https://iptvlive-beta.vercel.app/tapmad-4/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",Tapmad 5
 https://iptvlive-beta.vercel.app/tapmad-5/index.m3u8
@@ -485,6 +494,9 @@ https://iptvlive-beta.vercel.app/sony-ten-5/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png",Bein Sports
 https://iptvlive-beta.vercel.app/bein-sports/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",Bein Sports 1
+https://iptvlive-beta.vercel.app/bein-sports-1/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png",Animal Planet HD
 https://iptvlive-beta.vercel.app/animal-planet-hd/index.m3u8
@@ -538,7 +550,7 @@ https://iptvlive-beta.vercel.app/tsn-3/index.m3u8
 https://iptvlive-beta.vercel.app/willow-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="bein_sports_1" tvg-name="Bein Sports 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",Bein Sports 1
-https://iptvlive-beta.vercel.app/bein-sports-1/index.m3u8
+https://iptvlive-beta.vercel.app/bein-sports-1-1/index.m3u8
 
 #EXTINF:-1 tvg-name="Espn" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",Espn
 https://iptvlive-beta.vercel.app/espn/index.m3u8
@@ -585,9 +597,6 @@ https://iptvlive-beta.vercel.app/tbs/index.m3u8
 #EXTINF:-1 tvg-name="InTravel" tvg-logo="https://s3.aynaott.com/storage/b35e9c1bcde3e6876892a22f91a9c4b5" group-title="Channels",InTravel
 https://iptvlive-beta.vercel.app/intravel/index.m3u8
 
-#EXTINF:-1 tvg-name="Travel XP" tvg-logo="https://s3.aynaott.com/storage/a676d2f5ddf6e5f978b3d51876dceecf" group-title="Channels",Travel XP
-https://iptvlive-beta.vercel.app/travel-xp/index.m3u8
-
 #EXTINF:-1 tvg-name="Wild TV" tvg-logo="https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892" group-title="Channels",Wild TV
 https://iptvlive-beta.vercel.app/wild-tv/index.m3u8
 
@@ -614,6 +623,9 @@ https://iptvlive-beta.vercel.app/court-tv/index.m3u8
 
 #EXTINF:-1 tvg-name="ShemarooTV" tvg-logo="https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903" group-title="Hindi",ShemarooTV
 https://iptvlive-beta.vercel.app/shemarootv/index.m3u8
+
+#EXTINF:-1 tvg-name="Music India" tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3" group-title="Hindi",Music India
+https://iptvlive-beta.vercel.app/music-india/index.m3u8
 
 #EXTINF:-1 tvg-name="Khushboo" tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44" group-title="Hindi",Khushboo
 https://iptvlive-beta.vercel.app/khushboo/index.m3u8
@@ -700,7 +712,7 @@ https://iptvlive-beta.vercel.app/jalsha-movies-hd-1/index.m3u8
 https://iptvlive-beta.vercel.app/dw-news-1/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP" tvg-logo="https://i.ibb.co.com/1LBTMkq/images.png",Travel XP
-https://iptvlive-beta.vercel.app/travel-xp-1/index.m3u8
+https://iptvlive-beta.vercel.app/travel-xp/index.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png",Colors Bangla
 https://iptvlive-beta.vercel.app/colors-bangla/index.m3u8
@@ -1761,6 +1773,9 @@ https://iptvlive-beta.vercel.app/rt-espa-ol/index.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="News (ES)",RTVE 24H
 https://iptvlive-beta.vercel.app/rtve-24h/index.m3u8
 
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://198.195.239.50/img/channels/BTV.HD.png", BTV
+https://iptvlive-beta.vercel.app/btv-1/index.m3u8
+
 #EXTINF:-1 tvg-id="btv-world" tvg-name="BTV WORLD" tvg-logo="https://198.195.239.50/img/channels/BTV.HD.png", BTV WORLD
 https://iptvlive-beta.vercel.app/btv-world/index.m3u8
 
@@ -1807,7 +1822,7 @@ https://iptvlive-beta.vercel.app/sa-tv-2/index.m3u8
 https://iptvlive-beta.vercel.app/ananda-tv-2/index.m3u8
 
 #EXTINF:-1 tvg-id="nagorik-tv" tvg-name="NAGORIK TV" tvg-logo="https://i.postimg.cc/gjyb24hM/1000115063.jpg", NAGORIK TV
-https://iptvlive-beta.vercel.app/nagorik-tv/index.m3u8
+https://iptvlive-beta.vercel.app/nagorik-tv-1/index.m3u8
 
 #EXTINF:-1 tvg-id="deepto-tv" tvg-name="DEEPTO TV" tvg-logo="https://198.195.239.50/img/channels/DEEPTO.png", DEEPTO TV
 https://iptvlive-beta.vercel.app/deepto-tv/index.m3u8
@@ -1990,10 +2005,7 @@ https://iptvlive-beta.vercel.app/sony-yay-1/index.m3u8
 https://iptvlive-beta.vercel.app/discovery-kids-2/index.m3u8
 
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="SM All TV",BTV
-https://iptvlive-beta.vercel.app/btv-1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="SM All TV",BTV National
-https://iptvlive-beta.vercel.app/btv-national/index.m3u8
+https://iptvlive-beta.vercel.app/btv-2/index.m3u8
 
 #EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg" group-title="SM All TV",Channel 1
 https://iptvlive-beta.vercel.app/somoy-tv-2/index.m3u8
@@ -2080,7 +2092,7 @@ https://iptvlive-beta.vercel.app/w-300-q-85-myk-pobeef-9-uvmf5l-posters-1eadef5b
 https://iptvlive-beta.vercel.app/channel-9-hd-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nagorik-tv.png" group-title="SM All TV",Nagorik TV
-https://iptvlive-beta.vercel.app/nagorik-tv-1/index.m3u8
+https://iptvlive-beta.vercel.app/nagorik-tv-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="SM All TV",Anando TV
 https://iptvlive-beta.vercel.app/w-300-q-85-wcm3l5sbeef-9-uvxfvd-posters-d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09-png-group-title-sm-all-tv-anando-tv/index.m3u8
@@ -2190,6 +2202,9 @@ https://iptvlive-beta.vercel.app/w-300-q-85-kk2ax5ubrjbfs2-rbckf-posters-ba5dd8d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png" group-title="SM All TV",Colors Bangla
 https://iptvlive-beta.vercel.app/colors-bangla-2/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="SM All TV",Discovery
+https://iptvlive-beta.vercel.app/w-300-q-85-ks6x-jqbv9knk3ahwdzy-posters-6594d216-aaca-4eee-b6f5-bbc6b80feb15-webp-group-title-sm-all-tv-discovery/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="SM All TV",Discovery Bangla
 https://iptvlive-beta.vercel.app/w-300-q-85-ks6x-jqbv9knk3ahwdzy-posters-6594d216-aaca-4eee-b6f5-bbc6b80feb15-webp-group-title-sm-all-tv-discovery-bangla/index.m3u8
 
@@ -2198,6 +2213,9 @@ https://iptvlive-beta.vercel.app/w-300-q-85-ks6x-jqbv9knk3ahwdzy-posters-6594d21
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg" group-title="SM All TV",National Geography HD
 https://iptvlive-beta.vercel.app/national-geography-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" group-title="SM All TV",Animal Planet
+https://iptvlive-beta.vercel.app/animal-planet-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="SM All TV",Zoom
 https://iptvlive-beta.vercel.app/zoom-1/index.m3u8
@@ -2353,7 +2371,7 @@ https://iptvlive-beta.vercel.app/my-tv-4/index.m3u8
 https://iptvlive-beta.vercel.app/ekushey-tv-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="SM All TV",Mohona TV HD
-https://iptvlive-beta.vercel.app/mohona-tv-hd-1/index.m3u8
+https://iptvlive-beta.vercel.app/mohona-tv-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://probashinews24.tv/images/logo.png" group-title="SM All TV",Probashi TV
 https://iptvlive-beta.vercel.app/probashi-tv/index.m3u8
@@ -2535,8 +2553,14 @@ https://iptvlive-beta.vercel.app/toffee-movies/index.m3u8
 #EXTINF:-1 tvg-name="WC Match Recap" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Toffee",WC Match Recap
 https://iptvlive-beta.vercel.app/wc-match-recap/index.m3u8
 
+#EXTINF:-1 tvg-name="FC | Live 3" tvg-logo="https://assets-prod.services.toffeelive.com/LnlKhJkBcqxnFHJBU8GM/posters/ec4cb52b-a5cf-4eba-8f03-7fc73f75bf55.png" group-title="Toffee",FC | Live 3
+https://iptvlive-beta.vercel.app/fc-live-3/index.m3u8
+
 #EXTINF:-1 tvg-name="AWSN TV" tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg" group-title="Toffee",AWSN TV
 https://iptvlive-beta.vercel.app/awsn-tv/index.m3u8
+
+#EXTINF:-1 tvg-name="SAFF Live 1" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png" group-title="Toffee",SAFF Live 1
+https://iptvlive-beta.vercel.app/saff-live-1/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="Toffee",CNN
 https://iptvlive-beta.vercel.app/cnn/index.m3u8
@@ -2556,20 +2580,23 @@ https://iptvlive-beta.vercel.app/bijoy-tv-2/index.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://assets-prod.services.toffeelive.com/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="Toffee",NTV
 https://iptvlive-beta.vercel.app/ntv-2/index.m3u8
 
-#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://assets-prod.services.toffeelive.com/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Toffee",Global TV
-https://iptvlive-beta.vercel.app/global-tv-3/index.m3u8
-
-#EXTINF:-1 tvg-name="Channel S" tvg-logo="https://assets-prod.services.toffeelive.com/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Toffee",Channel S
-https://iptvlive-beta.vercel.app/channel-s-1/index.m3u8
-
-#EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://assets-prod.services.toffeelive.com/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="Toffee",Rajdhani TV
-https://iptvlive-beta.vercel.app/rajdhani-tv/index.m3u8
-
-#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://assets-prod.services.toffeelive.com/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Toffee",Bangla TV
-https://iptvlive-beta.vercel.app/bangla-tv-3/index.m3u8
-
 #EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://assets-prod.services.toffeelive.com/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png" group-title="Toffee",Asian TV
 https://iptvlive-beta.vercel.app/asian-tv-3/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel i" tvg-logo="https://assets-prod.services.toffeelive.com/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="Toffee",Channel i
+https://iptvlive-beta.vercel.app/channel-i-1/index.m3u8
+
+#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="Toffee",Movie Bangla
+https://iptvlive-beta.vercel.app/movie-bangla-3/index.m3u8
+
+#EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://assets-prod.services.toffeelive.com/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="Toffee",Nexus TV
+https://iptvlive-beta.vercel.app/nexus-tv-1/index.m3u8
+
+#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://assets-prod.services.toffeelive.com/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png" group-title="Toffee",Islamic TV
+https://iptvlive-beta.vercel.app/islamic-tv-2/index.m3u8
+
+#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://assets-prod.services.toffeelive.com/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="Toffee",Desh TV
+https://iptvlive-beta.vercel.app/desh-tv-4/index.m3u8
 
 #EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://assets-prod.services.toffeelive.com/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png" group-title="Toffee",Independent TV
 https://iptvlive-beta.vercel.app/independent-tv-2/index.m3u8
@@ -2585,6 +2612,18 @@ https://iptvlive-beta.vercel.app/channel-news-asia/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://assets-prod.services.toffeelive.com/1YPq_p8BJIOHmUelSHXc/posters/f65b0273-0f23-4b56-93dd-417224369105.png" group-title="Toffee",TRT World
 https://iptvlive-beta.vercel.app/trt-world-1/index.m3u8
+
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://assets-prod.services.toffeelive.com/7oPt_p8BJIOHmUelhXWj/posters/d6328092-9437-4806-8dc7-d00732d56832.png" group-title="Toffee",DW
+https://iptvlive-beta.vercel.app/dw-1/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://assets-prod.services.toffeelive.com/S9bzFaEBalKyvLQIrh3b/posters/f400a8bc-d83c-40f8-93e8-206314ad332d.png" group-title="Toffee",Al Jazeera
+https://iptvlive-beta.vercel.app/al-jazeera-2/index.m3u8
+
+#EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png" group-title="Toffee",Russia Today
+https://iptvlive-beta.vercel.app/russia-today-1/index.m3u8
+
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://assets-prod.services.toffeelive.com/G4ML_58BJIOHmUelNXZr/posters/becc2fba-4ed5-4f43-af2d-3c1ea2b4ee57.png" group-title="Toffee",France 24
+https://iptvlive-beta.vercel.app/france-24/index.m3u8
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://assets-prod.services.toffeelive.com/DYMI_58BJIOHmUelm3aK/posters/d8436322-804a-47b6-9a3f-62764c4622d5.png" group-title="Toffee",CGTN
 https://iptvlive-beta.vercel.app/cgtn-2/index.m3u8
@@ -2634,20 +2673,8 @@ https://iptvlive-beta.vercel.app/zee-anmol/index.m3u8
 #EXTINF:-1 tvg-name="Zing" tvg-logo="https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png" group-title="Toffee",Zing
 https://iptvlive-beta.vercel.app/zing/index.m3u8
 
-#EXTINF:-1 tvg-name="HUM" tvg-logo="https://assets-prod.services.toffeelive.com/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png" group-title="Toffee",HUM
-https://iptvlive-beta.vercel.app/hum/index.m3u8
-
 #EXTINF:-1 tvg-name="HUM Masala" tvg-logo="https://assets-prod.services.toffeelive.com/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" group-title="Toffee",HUM Masala
 https://iptvlive-beta.vercel.app/hum-masala/index.m3u8
-
-#EXTINF:-1 tvg-name="HUM Sitaray" tvg-logo="https://assets-prod.services.toffeelive.com/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" group-title="Toffee",HUM Sitaray
-https://iptvlive-beta.vercel.app/hum-sitaray/index.m3u8
-
-#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png" group-title="Toffee",Sony Aath
-https://iptvlive-beta.vercel.app/sony-aath-4/index.m3u8
-
-#EXTINF:-1 tvg-name="Sony Entertainment Television HD" tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Toffee",Sony Entertainment Television HD
-https://iptvlive-beta.vercel.app/sony-entertainment-television-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony Entertainment Television" tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Toffee",Sony Entertainment Television
 https://iptvlive-beta.vercel.app/sony-entertainment-television/index.m3u8
@@ -2698,7 +2725,7 @@ https://iptvlive-beta.vercel.app/tlc-hd/index.m3u8
 https://iptvlive-beta.vercel.app/tlc-1/index.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://assets-prod.services.toffeelive.com/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp" group-title="Toffee",Animal Planet
-https://iptvlive-beta.vercel.app/animal-planet-1/index.m3u8
+https://iptvlive-beta.vercel.app/animal-planet-2/index.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://assets-prod.services.toffeelive.com/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp" group-title="Toffee",Animal Planet HD
 https://iptvlive-beta.vercel.app/animal-planet-hd-1/index.m3u8
@@ -2728,7 +2755,7 @@ https://iptvlive-beta.vercel.app/tv-hd/index.m3u8
 https://iptvlive-beta.vercel.app/pictures-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
-https://iptvlive-beta.vercel.app/btv-2/index.m3u8
+https://iptvlive-beta.vercel.app/btv-3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://198.195.239.50/img/channels/ATN%20BANGLA.png" group-title="Bangla",ATN Bangla HD
 https://iptvlive-beta.vercel.app/atn-bangla-hd/index.m3u8
@@ -2788,7 +2815,7 @@ https://iptvlive-beta.vercel.app/color-bangla-hd/index.m3u8
 https://iptvlive-beta.vercel.app/color-bangla-chinema-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://198.195.239.50/img/channels/SONY%20AATH.png" group-title="Indian Bangla",SONY AATH
-https://iptvlive-beta.vercel.app/sony-aath-5/index.m3u8
+https://iptvlive-beta.vercel.app/sony-aath-4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://198.195.239.50/img/channels/ENTERR%2010%20BANGLA.png" group-title="Indian Bangla",ENTER 10 BANGLA
 https://iptvlive-beta.vercel.app/enter-10-bangla-1/index.m3u8
