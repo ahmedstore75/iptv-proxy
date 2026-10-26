@@ -3552,12 +3552,6 @@
         "url": "https://iptvlive-beta.vercel.app/rtve-24h/index.m3u8"
     },
     {
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925868731020x576.jpg",
-        "group": "Horse Riding",
-        "name": "FEI NAL - MD Upper Marlboro, USA - Race - Longines FEI Jumping World Cup 2026",
-        "url": "https://iptvlive-beta.vercel.app/fei-nal-md-upper-marlboro-usa-race-longines-fei-jumping-world-cup-2026/index.m3u8"
-    },
-    {
         "logo": "https://198.195.239.50/img/channels/BTV.HD.png",
         "group": "General",
         "name": "BTV",
@@ -5124,36 +5118,6 @@
         "url": "https://iptvlive-beta.vercel.app/wc-match-recap/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/LnlKhJkBcqxnFHJBU8GM/posters/ec4cb52b-a5cf-4eba-8f03-7fc73f75bf55.png",
-        "group": "Toffee",
-        "name": "FC | Live 3",
-        "url": "https://iptvlive-beta.vercel.app/fc-live-3/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/Mi1QqZgBNnOkwJLWxggo/posters/cb6b771d-3896-41fd-bf35-91f191aefecf.png",
-        "group": "Toffee",
-        "name": "EPL channel 2",
-        "url": "https://iptvlive-beta.vercel.app/epl-channel-2/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/Pi1TqZgBNnOkwJLWVggf/posters/e0aa2cc1-2eb7-4ff4-896f-24cc45a5deeb.png",
-        "group": "Toffee",
-        "name": "EPL channel 3",
-        "url": "https://iptvlive-beta.vercel.app/epl-channel-3/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/OyEz-ZgBEef-9-uVnhcx/posters/4b1abb5b-3882-456e-93ea-84d40907e157.png",
-        "group": "Toffee",
-        "name": "EPL Channel 4",
-        "url": "https://iptvlive-beta.vercel.app/epl-channel-4/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/6CHi_5gBEef-9-uV-Bx_/posters/3e8f04e7-b8ed-4fde-9605-2f6680f3df44.png",
-        "group": "Toffee",
-        "name": "EPL Channel 5",
-        "url": "https://iptvlive-beta.vercel.app/epl-channel-5/index.m3u8"
-    },
-    {
         "logo": "https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg",
         "group": "Toffee",
         "name": "AWSN TV",
@@ -5548,6 +5512,12 @@
         "group": "Toffee",
         "name": "Animal Planet HD",
         "url": "https://iptvlive-beta.vercel.app/animal-planet-hd-1/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",
+        "group": "Toffee",
+        "name": "Sony BBC Earth HD",
+        "url": "https://iptvlive-beta.vercel.app/sony-bbc-earth-hd/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp",
