@@ -5304,18 +5304,6 @@
         "url": "https://iptvlive-beta.vercel.app/saudi-quran-2/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",
-        "group": "Toffee",
-        "name": "Sony Ten Sports 1 HD",
-        "url": "https://iptvlive-beta.vercel.app/sony-ten-sports-1-hd/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",
-        "group": "Toffee",
-        "name": "Sony Ten Sports 2 HD",
-        "url": "https://iptvlive-beta.vercel.app/sony-ten-sports-2-hd/index.m3u8"
-    },
-    {
         "logo": "https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",
         "group": "Toffee",
         "name": "Sony Ten Sports 5 HD",
@@ -5356,30 +5344,6 @@
         "group": "Toffee",
         "name": "Sony YAY",
         "url": "https://iptvlive-beta.vercel.app/sony-yay-2/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",
-        "group": "Toffee",
-        "name": "Zee Bangla",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-2/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png",
-        "group": "Toffee",
-        "name": "Zee Anmol",
-        "url": "https://iptvlive-beta.vercel.app/zee-anmol/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png",
-        "group": "Toffee",
-        "name": "Zing",
-        "url": "https://iptvlive-beta.vercel.app/zing/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png",
-        "group": "Toffee",
-        "name": "HUM",
-        "url": "https://iptvlive-beta.vercel.app/hum/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png",
