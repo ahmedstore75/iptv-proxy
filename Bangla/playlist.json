@@ -924,6 +924,12 @@
         "url": "https://iptvlive-beta.vercel.app/tapmad-9/index.m3u8"
     },
     {
+        "logo": "https://i.postimg.cc/0yzwt46Q/20241126-220214.png",
+        "group": "Sports",
+        "name": "Ten Cricket",
+        "url": "https://iptvlive-beta.vercel.app/ten-cricket/index.m3u8"
+    },
+    {
         "logo": "https://i.postimg.cc/HntSg3xw/20240823_024624.png",
         "group": "Sports",
         "name": "Willow Sports",
@@ -994,6 +1000,90 @@
         "group": "Sports",
         "name": "Bein Sports 2",
         "url": "https://iptvlive-beta.vercel.app/bein-sports-2/index.m3u8"
+    },
+    {
+        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",
+        "group": "General",
+        "name": "TSN 1",
+        "url": "https://iptvlive-beta.vercel.app/tsn-1/index.m3u8"
+    },
+    {
+        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",
+        "group": "General",
+        "name": "TSN 2",
+        "url": "https://iptvlive-beta.vercel.app/tsn-2/index.m3u8"
+    },
+    {
+        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",
+        "group": "General",
+        "name": "TSN 3",
+        "url": "https://iptvlive-beta.vercel.app/tsn-3/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",
+        "group": "Sports",
+        "name": "Espn",
+        "url": "https://iptvlive-beta.vercel.app/espn/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
+        "group": "Sports",
+        "name": "KTV Sport Plus",
+        "url": "https://iptvlive-beta.vercel.app/ktv-sport-plus/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",
+        "group": "Sports",
+        "name": "SPORTS FIRST TV",
+        "url": "https://iptvlive-beta.vercel.app/sports-first-tv/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927",
+        "group": "Sports",
+        "name": "Xtream Sports",
+        "url": "https://iptvlive-beta.vercel.app/xtream-sports/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",
+        "group": "Sports",
+        "name": "Bahrain Sports 1",
+        "url": "https://iptvlive-beta.vercel.app/bahrain-sports-1/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4",
+        "group": "Sports",
+        "name": "DD Sports",
+        "url": "https://iptvlive-beta.vercel.app/dd-sports/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",
+        "group": "Sports",
+        "name": "NBC Sports",
+        "url": "https://iptvlive-beta.vercel.app/nbc-sports/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",
+        "group": "Sports",
+        "name": "WOF 1",
+        "url": "https://iptvlive-beta.vercel.app/wof-1/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",
+        "group": "Sports",
+        "name": "speed sports 1",
+        "url": "https://iptvlive-beta.vercel.app/speed-sports-1/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",
+        "group": "Sports",
+        "name": "MORE THEN SPORTS TV",
+        "url": "https://iptvlive-beta.vercel.app/more-then-sports-tv/index.m3u8"
+    },
+    {
+        "logo": "https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",
+        "group": "Sports",
+        "name": "Oman Sports TV",
+        "url": "https://iptvlive-beta.vercel.app/oman-sports-tv/index.m3u8"
     },
     {
         "logo": "https://i.postimg.cc/43NXkFx5/20240823_023458.png",
@@ -1072,102 +1162,6 @@
         "group": "News",
         "name": "Iran Press",
         "url": "https://iptvlive-beta.vercel.app/iran-press/index.m3u8"
-    },
-    {
-        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",
-        "group": "General",
-        "name": "TSN 1",
-        "url": "https://iptvlive-beta.vercel.app/tsn-1/index.m3u8"
-    },
-    {
-        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",
-        "group": "General",
-        "name": "TSN 2",
-        "url": "https://iptvlive-beta.vercel.app/tsn-2/index.m3u8"
-    },
-    {
-        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",
-        "group": "General",
-        "name": "TSN 3",
-        "url": "https://iptvlive-beta.vercel.app/tsn-3/index.m3u8"
-    },
-    {
-        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
-        "group": "General",
-        "name": "Willow TV",
-        "url": "https://iptvlive-beta.vercel.app/willow-tv/index.m3u8"
-    },
-    {
-        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",
-        "group": "General",
-        "name": "Bein Sports 1",
-        "url": "https://iptvlive-beta.vercel.app/bein-sports-1-1/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",
-        "group": "Sports",
-        "name": "Espn",
-        "url": "https://iptvlive-beta.vercel.app/espn/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
-        "group": "Sports",
-        "name": "KTV Sport Plus",
-        "url": "https://iptvlive-beta.vercel.app/ktv-sport-plus/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",
-        "group": "Sports",
-        "name": "SPORTS FIRST TV",
-        "url": "https://iptvlive-beta.vercel.app/sports-first-tv/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927",
-        "group": "Sports",
-        "name": "Xtream Sports",
-        "url": "https://iptvlive-beta.vercel.app/xtream-sports/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",
-        "group": "Sports",
-        "name": "Bahrain Sports 1",
-        "url": "https://iptvlive-beta.vercel.app/bahrain-sports-1/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4",
-        "group": "Sports",
-        "name": "DD Sports",
-        "url": "https://iptvlive-beta.vercel.app/dd-sports/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",
-        "group": "Sports",
-        "name": "NBC Sports",
-        "url": "https://iptvlive-beta.vercel.app/nbc-sports/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",
-        "group": "Sports",
-        "name": "WOF 1",
-        "url": "https://iptvlive-beta.vercel.app/wof-1/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",
-        "group": "Sports",
-        "name": "speed sports 1",
-        "url": "https://iptvlive-beta.vercel.app/speed-sports-1/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",
-        "group": "Sports",
-        "name": "MORE THEN SPORTS TV",
-        "url": "https://iptvlive-beta.vercel.app/more-then-sports-tv/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",
-        "group": "Sports",
-        "name": "Oman Sports TV",
-        "url": "https://iptvlive-beta.vercel.app/oman-sports-tv/index.m3u8"
     },
     {
         "logo": "https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380",
@@ -4410,6 +4404,12 @@
         "url": "https://iptvlive-beta.vercel.app/colors-bangla-2/index.m3u8"
     },
     {
+        "logo": "https://i.postimg.cc/y88mJsQC/20240823_020415.png",
+        "group": "SM All TV",
+        "name": "Sun Bangla",
+        "url": "https://iptvlive-beta.vercel.app/sun-bangla-1/index.m3u8"
+    },
+    {
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",
         "group": "SM All TV",
         "name": "w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp\" group-title=\"SM All TV\",Discovery",
@@ -4878,6 +4878,12 @@
         "url": "https://iptvlive-beta.vercel.app/star-jalsha-1/index.m3u8"
     },
     {
+        "logo": "https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",
+        "group": "SM All TV",
+        "name": "Colors Bangla",
+        "url": "https://iptvlive-beta.vercel.app/colors-bangla-4/index.m3u8"
+    },
+    {
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10",
         "group": "SM All TV",
         "name": "Zee Bangla",
@@ -4887,13 +4893,13 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png",
         "group": "SM All TV",
         "name": "Colors Bangla",
-        "url": "https://iptvlive-beta.vercel.app/colors-bangla-4/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/colors-bangla-5/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png",
         "group": "SM All TV",
         "name": "Sun Bangla",
-        "url": "https://iptvlive-beta.vercel.app/sun-bangla-1/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/sun-bangla-2/index.m3u8"
     },
     {
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png",
@@ -5068,6 +5074,12 @@
         "group": "Cartoon",
         "name": "Sonic Bangla",
         "url": "https://iptvlive-beta.vercel.app/sonic-bangla/index.m3u8"
+    },
+    {
+        "logo": "https://otapp.store/uploads/tv_image/sm/nick-bangla.png",
+        "group": "Cartoon",
+        "name": "Nick Bangla",
+        "url": "https://iptvlive-beta.vercel.app/nick-bangla-1/index.m3u8"
     },
     {
         "logo": "https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png",
@@ -5304,6 +5316,18 @@
         "url": "https://iptvlive-beta.vercel.app/saudi-quran-2/index.m3u8"
     },
     {
+        "logo": "https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",
+        "group": "Toffee",
+        "name": "Sony Ten Sports 1 HD",
+        "url": "https://iptvlive-beta.vercel.app/sony-ten-sports-1-hd/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",
+        "group": "Toffee",
+        "name": "Sony Ten Sports 2 HD",
+        "url": "https://iptvlive-beta.vercel.app/sony-ten-sports-2-hd/index.m3u8"
+    },
+    {
         "logo": "https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",
         "group": "Toffee",
         "name": "Sony Ten Sports 5 HD",
@@ -5344,6 +5368,30 @@
         "group": "Toffee",
         "name": "Sony YAY",
         "url": "https://iptvlive-beta.vercel.app/sony-yay-2/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",
+        "group": "Toffee",
+        "name": "Zee Bangla",
+        "url": "https://iptvlive-beta.vercel.app/zee-bangla-2/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png",
+        "group": "Toffee",
+        "name": "Zee Anmol",
+        "url": "https://iptvlive-beta.vercel.app/zee-anmol/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png",
+        "group": "Toffee",
+        "name": "Zing",
+        "url": "https://iptvlive-beta.vercel.app/zing/index.m3u8"
+    },
+    {
+        "logo": "https://assets-prod.services.toffeelive.com/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png",
+        "group": "Toffee",
+        "name": "HUM",
+        "url": "https://iptvlive-beta.vercel.app/hum/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png",
