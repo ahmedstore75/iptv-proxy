@@ -109,7 +109,7 @@
     },
     {
         "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
-        "group": "BANGLA",
+        "group": "Bangla",
         "name": "SOMOY TV",
         "url": "https://iptvlive-beta.vercel.app/somoy-tv/index.m3u8"
     },
@@ -942,6 +942,12 @@
         "url": "https://iptvlive-beta.vercel.app/willow-sports-2/index.m3u8"
     },
     {
+        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
+        "group": "Sports",
+        "name": "Willow TV 3",
+        "url": "https://iptvlive-beta.vercel.app/willow-tv-3/index.m3u8"
+    },
+    {
         "logo": "https://i.postimg.cc/DzDHjCJm/20240823_024249.png",
         "group": "Sports",
         "name": "Star Sports 1",
@@ -952,6 +958,12 @@
         "group": "Sports",
         "name": "Star Sports 2",
         "url": "https://iptvlive-beta.vercel.app/star-sports-2/index.m3u8"
+    },
+    {
+        "logo": "https://i.postimg.cc/zBgM9nK7/20240823_024306.png",
+        "group": "Sports",
+        "name": "Star Sports 3",
+        "url": "https://iptvlive-beta.vercel.app/star-sports-3/index.m3u8"
     },
     {
         "logo": "https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",
@@ -1003,27 +1015,21 @@
     },
     {
         "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",
-        "group": "General",
+        "group": "Sports",
         "name": "TSN 1",
         "url": "https://iptvlive-beta.vercel.app/tsn-1/index.m3u8"
     },
     {
         "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",
-        "group": "General",
+        "group": "Sports",
         "name": "TSN 2",
         "url": "https://iptvlive-beta.vercel.app/tsn-2/index.m3u8"
     },
     {
         "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",
-        "group": "General",
+        "group": "Sports",
         "name": "TSN 3",
         "url": "https://iptvlive-beta.vercel.app/tsn-3/index.m3u8"
-    },
-    {
-        "logo": "https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",
-        "group": "Sports",
-        "name": "Espn",
-        "url": "https://iptvlive-beta.vercel.app/espn/index.m3u8"
     },
     {
         "logo": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
@@ -3660,6 +3666,12 @@
         "url": "https://iptvlive-beta.vercel.app/gan-bangla/index.m3u8"
     },
     {
+        "logo": "https://198.195.239.50/img/channels/DURANTA%20TV.png",
+        "group": "General",
+        "name": "DURONTO TV",
+        "url": "https://iptvlive-beta.vercel.app/duronto-tv-2/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png",
         "group": "General",
         "name": "GREEN TV",
@@ -3735,7 +3747,7 @@
         "logo": "https://198.195.239.50/img/channels/STAR%20SPORTS3.png",
         "group": "General",
         "name": "STAR SPORTS 3",
-        "url": "https://iptvlive-beta.vercel.app/star-sports-3/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/star-sports-3-1/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/STAR%20SPORTS%20SELECT1%20HD.png",
@@ -4197,7 +4209,7 @@
         "logo": "https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",
         "group": "SM All TV",
         "name": "Duronto TV",
-        "url": "https://iptvlive-beta.vercel.app/duronto-tv-2/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/duronto-tv-3/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png",
