@@ -924,6 +924,12 @@
         "url": "https://iptvlive-beta.vercel.app/tapmad-9/index.m3u8"
     },
     {
+        "logo": "https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/6daeb914-116d-4d8d-aa7e-e1dc3a3ab429.png",
+        "group": "Sports",
+        "name": "Tapmad 10",
+        "url": "https://iptvlive-beta.vercel.app/tapmad-10/index.m3u8"
+    },
+    {
         "logo": "https://i.postimg.cc/0yzwt46Q/20241126-220214.png",
         "group": "Sports",
         "name": "Ten Cricket",
@@ -5376,12 +5382,6 @@
         "url": "https://iptvlive-beta.vercel.app/discovery-kids-4/index.m3u8"
     },
     {
-        "logo": "https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",
-        "group": "Toffee",
-        "name": "Sony YAY",
-        "url": "https://iptvlive-beta.vercel.app/sony-yay-2/index.m3u8"
-    },
-    {
         "logo": "https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",
         "group": "Toffee",
         "name": "Zee Bangla",
@@ -5470,24 +5470,6 @@
         "group": "Toffee",
         "name": "Zee Bollywood",
         "url": "https://iptvlive-beta.vercel.app/zee-bollywood-1/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png",
-        "group": "Toffee",
-        "name": "Zee Action",
-        "url": "https://iptvlive-beta.vercel.app/zee-action-1/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",
-        "group": "Toffee",
-        "name": "Sony MAX",
-        "url": "https://iptvlive-beta.vercel.app/sony-max-1/index.m3u8"
-    },
-    {
-        "logo": "https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
-        "group": "Toffee",
-        "name": "Sony PIX HD",
-        "url": "https://iptvlive-beta.vercel.app/sony-pix-hd/index.m3u8"
     },
     {
         "logo": "https://assets-prod.services.toffeelive.com/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png",
@@ -5913,7 +5895,7 @@
         "logo": "https://198.195.239.50/img/channels/SONY%20YAY.png",
         "group": "Kids",
         "name": "SONY YAY",
-        "url": "https://iptvlive-beta.vercel.app/sony-yay-3/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/sony-yay-2/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/DISCOVERY%20KIDS.png",
