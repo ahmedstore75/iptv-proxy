@@ -3570,16 +3570,10 @@
         "url": "https://iptvlive-beta.vercel.app/rtve-24h/index.m3u8"
     },
     {
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937864731020x576.jpg",
-        "group": "Cricket",
-        "name": "New Zealand vs India - 2nd ODI - India Tour of New Zealand 2026 - Server 1",
-        "url": "https://iptvlive-beta.vercel.app/new-zealand-vs-india-2nd-odi-india-tour-of-new-zealand-2026-server-1/index.m3u8"
-    },
-    {
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937864731020x576.jpg",
-        "group": "Cricket",
-        "name": "New Zealand vs India - 2nd ODI - India Tour of New Zealand 2026 - Server 2",
-        "url": "https://iptvlive-beta.vercel.app/new-zealand-vs-india-2nd-odi-india-tour-of-new-zealand-2026-server-2/index.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936036271020x576.jpg",
+        "group": "Mma",
+        "name": "Cortes Acosta vs Walker - Fight Night - UFC 2026 - Server 2",
+        "url": "https://iptvlive-beta.vercel.app/cortes-acosta-vs-walker-fight-night-ufc-2026-server-2/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/BTV.HD.png",
@@ -4110,7 +4104,7 @@
         "url": "https://iptvlive-beta.vercel.app/etv/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gazi-tv.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gazitv.png",
         "group": "Bnagla",
         "name": "Gazi TV",
         "url": "https://iptvlive-beta.vercel.app/gazi-tv-1/index.m3u8"
@@ -4698,7 +4692,7 @@
         "url": "https://iptvlive-beta.vercel.app/dangal-2/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dhamaal.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_8f0ba646b7ddfa1aa601dca63f16129c_playmist_dhamaal_400x400.jpg",
         "group": "Bnagla",
         "name": "Dhamaal",
         "url": "https://iptvlive-beta.vercel.app/dhamaal/index.m3u8"
@@ -5148,6 +5142,12 @@
         "url": "https://iptvlive-beta.vercel.app/green-tv-3/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ja-tv.svg",
+        "group": "Bnagla",
+        "name": "JA TV",
+        "url": "https://iptvlive-beta.vercel.app/ja-tv/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalsha-bangla-bd.png",
         "group": "Indian Bangla",
         "name": "Jalsha Bangla BD",
@@ -5176,12 +5176,6 @@
         "group": "Bnagla",
         "name": "Rajdhani TV",
         "url": "https://iptvlive-beta.vercel.app/rajdhani-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rupashi-bangla-tv.png",
-        "group": "Bnagla",
-        "name": "Rupashi Bangla TV",
-        "url": "https://iptvlive-beta.vercel.app/rupashi-bangla-tv/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tbn-24.png",
@@ -5298,6 +5292,12 @@
         "url": "https://iptvlive-beta.vercel.app/sonar-bangla/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-jalsha.png",
+        "group": "Indian Bangla",
+        "name": "Star Jalsha",
+        "url": "https://iptvlive-beta.vercel.app/star-jalsha-1/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tara-tv.png",
         "group": "Indian Bangla",
         "name": "Tara TV",
@@ -5326,6 +5326,12 @@
         "group": "Indian Bangla",
         "name": "Zodiak TV",
         "url": "https://iptvlive-beta.vercel.app/zodiak-tv/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pictures.png",
+        "group": "Bnagla",
+        "name": "&pictures",
+        "url": "https://iptvlive-beta.vercel.app/pictures-1/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asianet-movies.png",
@@ -5364,16 +5370,10 @@
         "url": "https://iptvlive-beta.vercel.app/chithiram/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-cineplex-bollywood.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-cineplex-uk.png",
         "group": "Movies hindi",
-        "name": "Colors Cineplex Bollywood",
-        "url": "https://iptvlive-beta.vercel.app/colors-cineplex-bollywood/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-cineplex-superhits-576p.png",
-        "group": "Movies hindi",
-        "name": "Colors Cineplex Superhits",
-        "url": "https://iptvlive-beta.vercel.app/colors-cineplex-superhits/index.m3u8"
+        "name": "Colors Cineplex [UK]",
+        "url": "https://iptvlive-beta.vercel.app/colors-cineplex-uk/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekamra-cinema.png",
@@ -5454,10 +5454,22 @@
         "url": "https://iptvlive-beta.vercel.app/mbc-bollywood-1/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one-movies.svg",
+        "group": "Bnagla",
+        "name": "MH One Movies",
+        "url": "https://iptvlive-beta.vercel.app/mh-one-movies/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/movies-now-hd.png",
         "group": "Bnagla",
         "name": "Movies Now",
         "url": "https://iptvlive-beta.vercel.app/movies-now/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/namma-bangalore.png",
+        "group": "Bnagla",
+        "name": "Namma Bangalore",
+        "url": "https://iptvlive-beta.vercel.app/namma-bangalore/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nh-bollyflix.png",
@@ -5472,22 +5484,28 @@
         "url": "https://iptvlive-beta.vercel.app/nh-tamil-gold/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntv-malayalam.svg",
-        "group": "Bnagla",
-        "name": "NTV Malayalam",
-        "url": "https://iptvlive-beta.vercel.app/ntv-malayalam/index.m3u8"
-    },
-    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/oscar-movies-bhojpuri.png",
         "group": "Bnagla",
         "name": "Oscar Movies Bhojpuri",
         "url": "https://iptvlive-beta.vercel.app/oscar-movies-bhojpuri/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-comedy.png",
+        "group": "Bnagla",
+        "name": "Pitaara Comedy",
+        "url": "https://iptvlive-beta.vercel.app/pitaara-comedy/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pocket-films.png",
         "group": "Bnagla",
         "name": "Pocket Films",
         "url": "https://iptvlive-beta.vercel.app/pocket-films/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pravasi-channel.png",
+        "group": "Bnagla",
+        "name": "Pravasi Channel",
+        "url": "https://iptvlive-beta.vercel.app/pravasi-channel/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/public-movies.png",
@@ -5544,6 +5562,12 @@
         "url": "https://iptvlive-beta.vercel.app/south-station/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-gold-select-aa253ac6d3.png",
+        "group": "Movies hindi",
+        "name": "Star Gold Select",
+        "url": "https://iptvlive-beta.vercel.app/star-gold-select-1/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-maa-movies.png",
         "group": "Bnagla",
         "name": "Star Maa Movies",
@@ -5572,6 +5596,12 @@
         "group": "Bnagla",
         "name": "Sun Gemini",
         "url": "https://iptvlive-beta.vercel.app/sun-gemini/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/thalaa-tv.png",
+        "group": "Bnagla",
+        "name": "Thalaa TV",
+        "url": "https://iptvlive-beta.vercel.app/thalaa-tv/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/the-movie-club.png",
@@ -5698,6 +5728,24 @@
         "group": "Indian music",
         "name": "Mastiii",
         "url": "https://iptvlive-beta.vercel.app/mastiii/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one.png",
+        "group": "Indian music",
+        "name": "MH One",
+        "url": "https://iptvlive-beta.vercel.app/mh-one/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one-dil-se.svg",
+        "group": "Indian music",
+        "name": "MH One Dil Se",
+        "url": "https://iptvlive-beta.vercel.app/mh-one-dil-se/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-1-music.png",
+        "group": "Indian music",
+        "name": "MH One Music",
+        "url": "https://iptvlive-beta.vercel.app/mh-one-music/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nh-bollyraga.png",
@@ -5842,12 +5890,6 @@
         "group": "Indian music",
         "name": "Tarang Music",
         "url": "https://iptvlive-beta.vercel.app/tarang-music/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/thalaa-tv.png",
-        "group": "Indian music",
-        "name": "Thalaa TV",
-        "url": "https://iptvlive-beta.vercel.app/thalaa-tv/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tunes-6-86e66d6033.png",
@@ -6270,6 +6312,12 @@
         "url": "https://iptvlive-beta.vercel.app/gtc-punjabi/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gtc-punjabi-uk.png",
+        "group": "Indian entertainment",
+        "name": "GTC Punjabi UK",
+        "url": "https://iptvlive-beta.vercel.app/gtc-punjabi-uk/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gtc-punjabi-us.png",
         "group": "Indian entertainment",
         "name": "GTC Punjabi US",
@@ -6286,12 +6334,6 @@
         "group": "Indian entertainment",
         "name": "Jan TV",
         "url": "https://iptvlive-beta.vercel.app/jan-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jatra-ekamra.png",
-        "group": "Indian entertainment",
-        "name": "Jatra Ekamra",
-        "url": "https://iptvlive-beta.vercel.app/jatra-ekamra/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jeevan-tv.png",
@@ -6438,6 +6480,12 @@
         "url": "https://iptvlive-beta.vercel.app/ntc-tv/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntv-malayalam.svg",
+        "group": "Indian entertainment",
+        "name": "NTV Malayalam",
+        "url": "https://iptvlive-beta.vercel.app/ntv-malayalam/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/odisha-tv.png",
         "group": "Indian entertainment",
         "name": "Odisha TV",
@@ -6522,6 +6570,12 @@
         "url": "https://iptvlive-beta.vercel.app/puthuyugam-tv/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/q-tv.png",
+        "group": "Indian entertainment",
+        "name": "Q TV",
+        "url": "https://iptvlive-beta.vercel.app/q-tv/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/raftaar-media.png",
         "group": "Indian entertainment",
         "name": "Raftaar Media",
@@ -6594,16 +6648,10 @@
         "url": "https://iptvlive-beta.vercel.app/sony-kal/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-pal.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sab.png",
         "group": "Indian entertainment",
-        "name": "Sony PAL",
-        "url": "https://iptvlive-beta.vercel.app/sony-pal/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-wah.png",
-        "group": "Indian entertainment",
-        "name": "Sony WAH",
-        "url": "https://iptvlive-beta.vercel.app/sony-wah/index.m3u8"
+        "name": "Sony SAB",
+        "url": "https://iptvlive-beta.vercel.app/sony-sab-1/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sooriyan-tv.png",
@@ -7560,10 +7608,28 @@
         "url": "https://iptvlive-beta.vercel.app/epic-kids-digital/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/green-gold-tv.png",
+        "group": "Kids",
+        "name": "Green Gold TV",
+        "url": "https://iptvlive-beta.vercel.app/green-gold-tv/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hooray-kids.png",
         "group": "Kids",
         "name": "Hooray Kids",
         "url": "https://iptvlive-beta.vercel.app/hooray-kids/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hungama.png",
+        "group": "Kids",
+        "name": "Hungama",
+        "url": "https://iptvlive-beta.vercel.app/hungama/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jungle-book.png",
+        "group": "Kids",
+        "name": "Jungle Book",
+        "url": "https://iptvlive-beta.vercel.app/jungle-book/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kartoon-channel.png",
@@ -7582,6 +7648,12 @@
         "group": "Kids",
         "name": "Mr Bean Animated",
         "url": "https://iptvlive-beta.vercel.app/mr-bean-animated/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pogo.png",
+        "group": "Kids",
+        "name": "Pogo",
+        "url": "https://iptvlive-beta.vercel.app/pogo-2/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pop.png",
@@ -7656,10 +7728,28 @@
         "url": "https://iptvlive-beta.vercel.app/toon-goggles-junior/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/toonami-aftermath-east.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wow-kidz.png",
         "group": "Kids",
-        "name": "Toonami Aftermath East",
-        "url": "https://iptvlive-beta.vercel.app/toonami-aftermath-east/index.m3u8"
+        "name": "WOW Kidz Hindi",
+        "url": "https://iptvlive-beta.vercel.app/wow-kidz-hindi/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wow-kidz-tamil.png",
+        "group": "Kids",
+        "name": "WOW Kidz Tamil",
+        "url": "https://iptvlive-beta.vercel.app/wow-kidz-tamil/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wow-kidz-telugu.png",
+        "group": "Kids",
+        "name": "WOW Kidz Telugu",
+        "url": "https://iptvlive-beta.vercel.app/wow-kidz-telugu/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zb-cartoon.png",
+        "group": "Kids",
+        "name": "ZB Cartoon",
+        "url": "https://iptvlive-beta.vercel.app/zb-cartoon/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zoomoo.png",
@@ -7792,6 +7882,12 @@
         "group": "Sports",
         "name": "ESPN8 The Ocho",
         "url": "https://iptvlive-beta.vercel.app/espn8-the-ocho/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/eurosport.png",
+        "group": "Sports",
+        "name": "Eurosport",
+        "url": "https://iptvlive-beta.vercel.app/eurosport-1/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fight-network.png",
@@ -7972,474 +8068,6 @@
         "group": "Sports",
         "name": "World of Freesports",
         "url": "https://iptvlive-beta.vercel.app/world-of-freesports/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/and-pictures.png",
-        "group": "Bnagla",
-        "name": "& Picture",
-        "url": "https://iptvlive-beta.vercel.app/picture-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amazing-discoveries-tv.png",
-        "group": "Bnagla",
-        "name": "Amazing Discoveries TV",
-        "url": "https://iptvlive-beta.vercel.app/amazing-discoveries-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-bhojpuri.png",
-        "group": "Bnagla",
-        "name": "B4U Bhojpuri",
-        "url": "https://iptvlive-beta.vercel.app/b4u-bhojpuri/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/captain.png",
-        "group": "Bnagla",
-        "name": "Captain",
-        "url": "https://iptvlive-beta.vercel.app/captain/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cine-jomjomat.png",
-        "group": "Bnagla",
-        "name": "Cine Jomjomat",
-        "url": "https://iptvlive-beta.vercel.app/cine-jomjomat/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-bangla-cinema.png",
-        "group": "Indian Bangla",
-        "name": "Colors Bangla Cinema",
-        "url": "https://iptvlive-beta.vercel.app/colors-bangla-cinema-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-cineplex-uk.png",
-        "group": "Movies hindi",
-        "name": "Colors Cineplex [UK]",
-        "url": "https://iptvlive-beta.vercel.app/colors-cineplex-uk/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-infinity.png",
-        "group": "Indian entertainment",
-        "name": "Colors Infinity",
-        "url": "https://iptvlive-beta.vercel.app/colors-infinity/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/disney-channel-india.png",
-        "group": "Kids",
-        "name": "Disney Channel (India)",
-        "url": "https://iptvlive-beta.vercel.app/disney-channel-india/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/disney-international.png",
-        "group": "Kids",
-        "name": "Disney International",
-        "url": "https://iptvlive-beta.vercel.app/disney-international/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/disney-junior-india.png",
-        "group": "Kids",
-        "name": "Disney Junior (India)",
-        "url": "https://iptvlive-beta.vercel.app/disney-junior-india/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bharat-digital.png",
-        "group": "Bnagla",
-        "name": "Epic Bharat Digital",
-        "url": "https://iptvlive-beta.vercel.app/epic-bharat-digital/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-tv-digital.png",
-        "group": "Bnagla",
-        "name": "Epic TV Digital",
-        "url": "https://iptvlive-beta.vercel.app/epic-tv-digital/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/etv-plus.png",
-        "group": "Bnagla",
-        "name": "ETV Plus",
-        "url": "https://iptvlive-beta.vercel.app/etv-plus/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/eurosport.png",
-        "group": "Sports",
-        "name": "Eurosport",
-        "url": "https://iptvlive-beta.vercel.app/eurosport-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/history-tv18.png",
-        "group": "documentary",
-        "name": "History TV18",
-        "url": "https://iptvlive-beta.vercel.app/history-tv18/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/madani-tv.png",
-        "group": "Islami",
-        "name": "Madani Channel Bangla",
-        "url": "https://iptvlive-beta.vercel.app/madani-channel-bangla/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mango-mobile-tv.png",
-        "group": "Bnagla",
-        "name": "Mango Mobile TV",
-        "url": "https://iptvlive-beta.vercel.app/mango-mobile-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mbc-tv.png",
-        "group": "Bnagla",
-        "name": "MBC TV",
-        "url": "https://iptvlive-beta.vercel.app/mbc-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/NAN-TV-Logo-02-150x150.png",
-        "group": "Bnagla",
-        "name": "NAN TV",
-        "url": "https://iptvlive-beta.vercel.app/nan-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ndtv-good-times.png",
-        "group": "Bnagla",
-        "name": "NDTV Good Times",
-        "url": "https://iptvlive-beta.vercel.app/ndtv-good-times/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nick-jr-india.png",
-        "group": "Kids",
-        "name": "Nick Jr (India)",
-        "url": "https://iptvlive-beta.vercel.app/nick-jr-india/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nickelodeon-india.png",
-        "group": "Kids",
-        "name": "Nickelodeon (India)",
-        "url": "https://iptvlive-beta.vercel.app/nickelodeon-india/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/punjabi-beats.png",
-        "group": "Bnagla",
-        "name": "Punjabi Beats",
-        "url": "https://iptvlive-beta.vercel.app/punjabi-beats/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shekinah-tv.png",
-        "group": "Bnagla",
-        "name": "Shekinah TV",
-        "url": "https://iptvlive-beta.vercel.app/shekinah-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shemaroo-filmi-gaane.png",
-        "group": "Bnagla",
-        "name": "Shemaroo Filmi Gaane",
-        "url": "https://iptvlive-beta.vercel.app/shemaroo-filmi-gaane/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sonic.png",
-        "group": "Bnagla",
-        "name": "Sonic",
-        "url": "https://iptvlive-beta.vercel.app/sonic-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-bbc-earth.png",
-        "group": "News",
-        "name": "Sony BBC Earth",
-        "url": "https://iptvlive-beta.vercel.app/sony-bbc-earth/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-pix.png",
-        "group": "Bnagla",
-        "name": "Sony Pix",
-        "url": "https://iptvlive-beta.vercel.app/sony-pix/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sab.png",
-        "group": "Bnagla",
-        "name": "Sony SAB",
-        "url": "https://iptvlive-beta.vercel.app/sony-sab-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sports-ten-1.png",
-        "group": "Sports",
-        "name": "Sony Sports Ten 1",
-        "url": "https://iptvlive-beta.vercel.app/sony-sports-ten-1-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sports-ten-2.png",
-        "group": "Sports",
-        "name": "Sony Sports Ten 2",
-        "url": "https://iptvlive-beta.vercel.app/sony-sports-ten-2-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sports-ten-3-hindi.png",
-        "group": "Sports",
-        "name": "Sony Sports Ten 3 Hindi",
-        "url": "https://iptvlive-beta.vercel.app/sony-sports-ten-3-hindi/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sports-ten-4-kannada.png",
-        "group": "Sports",
-        "name": "Sony Sports Ten 4 Kannada",
-        "url": "https://iptvlive-beta.vercel.app/sony-sports-ten-4-kannada/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sports-ten-5.png",
-        "group": "Sports",
-        "name": "Sony Sports Ten 5",
-        "url": "https://iptvlive-beta.vercel.app/sony-sports-ten-5-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-yay.png",
-        "group": "Bnagla",
-        "name": "Sony Yay",
-        "url": "https://iptvlive-beta.vercel.app/sony-yay-2/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-gold-de06c8e974.png",
-        "group": "Movies hindi",
-        "name": "Star Gold",
-        "url": "https://iptvlive-beta.vercel.app/star-gold-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-2.png",
-        "group": "Movies hindi",
-        "name": "Star Gold 2",
-        "url": "https://iptvlive-beta.vercel.app/star-gold-2/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-kiran.png",
-        "group": "Bnagla",
-        "name": "Star Kiran",
-        "url": "https://iptvlive-beta.vercel.app/star-kiran/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-3.png",
-        "group": "Sports",
-        "name": "Star Sports 3",
-        "url": "https://iptvlive-beta.vercel.app/star-sports-3-2/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-select-2.png",
-        "group": "Sports",
-        "name": "Star Sports Select 2",
-        "url": "https://iptvlive-beta.vercel.app/star-sports-select-2-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/superhitz.png",
-        "group": "Bnagla",
-        "name": "Superhitz",
-        "url": "https://iptvlive-beta.vercel.app/superhitz/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ten-cricket.png",
-        "group": "Sports",
-        "name": "Ten Cricket",
-        "url": "https://iptvlive-beta.vercel.app/ten-cricket-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/travelxp.png",
-        "group": "documentary",
-        "name": "Travelxp",
-        "url": "https://iptvlive-beta.vercel.app/travelxp/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/unite8-sports-2.png",
-        "group": "Sports",
-        "name": "Unite8 Sports 2",
-        "url": "https://iptvlive-beta.vercel.app/unite8-sports-2/index.m3u8"
-    },
-    {
-        "logo": "",
-        "group": "Bnagla",
-        "name": "Vyas Channel",
-        "url": "https://iptvlive-beta.vercel.app/vyas-channel/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-action.png",
-        "group": "Bnagla",
-        "name": "Zee Action",
-        "url": "https://iptvlive-beta.vercel.app/zee-action/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bollywood.png",
-        "group": "Movies hindi",
-        "name": "Zee Bollywood",
-        "url": "https://iptvlive-beta.vercel.app/zee-bollywood-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-cine-classic.png",
-        "group": "Bnagla",
-        "name": "Zee Cine Classic",
-        "url": "https://iptvlive-beta.vercel.app/zee-cine-classic/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-comedy-nation.png",
-        "group": "Bnagla",
-        "name": "Zee Comedy Nation",
-        "url": "https://iptvlive-beta.vercel.app/zee-comedy-nation/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-dil-se.png",
-        "group": "Bnagla",
-        "name": "Zee Dil Se",
-        "url": "https://iptvlive-beta.vercel.app/zee-dil-se/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-horror-nights.png",
-        "group": "Bnagla",
-        "name": "Zee Horror Nights",
-        "url": "https://iptvlive-beta.vercel.app/zee-horror-nights/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-south-flix.png",
-        "group": "Bnagla",
-        "name": "Zee South Flix",
-        "url": "https://iptvlive-beta.vercel.app/zee-south-flix/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/aryan-tv-national.png",
-        "group": "Bnagla",
-        "name": "Aryan TV National",
-        "url": "https://iptvlive-beta.vercel.app/aryan-tv-national/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cvr-health.png",
-        "group": "Bnagla",
-        "name": "CVR Health",
-        "url": "https://iptvlive-beta.vercel.app/cvr-health/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/disha-tv.png",
-        "group": "Bnagla",
-        "name": "Disha TV",
-        "url": "https://iptvlive-beta.vercel.app/disha-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pravasi-channel.png",
-        "group": "Bnagla",
-        "name": "Pravasi Channel",
-        "url": "https://iptvlive-beta.vercel.app/pravasi-channel/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/spondon.png",
-        "group": "Bnagla",
-        "name": "Spondon",
-        "url": "https://iptvlive-beta.vercel.app/spondon/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/vokta-tv.png",
-        "group": "Bnagla",
-        "name": "Vokta TV",
-        "url": "https://iptvlive-beta.vercel.app/vokta-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-cineplex-uk.png",
-        "group": "Movies hindi",
-        "name": "Colors Cineplex",
-        "url": "https://iptvlive-beta.vercel.app/colors-cineplex-1/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sun-bangla.png",
-        "group": "Bnagla",
-        "name": "Epic Parivar",
-        "url": "https://iptvlive-beta.vercel.app/epic-parivar/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gtc-punjabi-uk.png",
-        "group": "Bnagla",
-        "name": "GTC Punjabi UK",
-        "url": "https://iptvlive-beta.vercel.app/gtc-punjabi-uk/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/darshana-tv.png",
-        "group": "Bnagla",
-        "name": "Darshana TV",
-        "url": "https://iptvlive-beta.vercel.app/darshana-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/green-gold-tv.png",
-        "group": "Bnagla",
-        "name": "Green Gold TV",
-        "url": "https://iptvlive-beta.vercel.app/green-gold-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hungama.png",
-        "group": "Kids",
-        "name": "Hungama",
-        "url": "https://iptvlive-beta.vercel.app/hungama/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jungle-book.png",
-        "group": "Bnagla",
-        "name": "Jungle Book",
-        "url": "https://iptvlive-beta.vercel.app/jungle-book/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one.png",
-        "group": "Bnagla",
-        "name": "MH One",
-        "url": "https://iptvlive-beta.vercel.app/mh-one/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one-dil-se.png",
-        "group": "Bnagla",
-        "name": "MH One Dil Se",
-        "url": "https://iptvlive-beta.vercel.app/mh-one-dil-se/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one-movies.png",
-        "group": "Bnagla",
-        "name": "MH One Movies",
-        "url": "https://iptvlive-beta.vercel.app/mh-one-movies/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-1-music.png",
-        "group": "Indian music",
-        "name": "MH One Music",
-        "url": "https://iptvlive-beta.vercel.app/mh-one-music/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh1-prime.png",
-        "group": "Bnagla",
-        "name": "MH One Prime",
-        "url": "https://iptvlive-beta.vercel.app/mh-one-prime/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pogo.png",
-        "group": "Kids",
-        "name": "Pogo",
-        "url": "https://iptvlive-beta.vercel.app/pogo-2/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/q-tv.png",
-        "group": "Bnagla",
-        "name": "Q TV",
-        "url": "https://iptvlive-beta.vercel.app/q-tv/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/total-tv-haryana.png",
-        "group": "Bnagla",
-        "name": "Total TV Haryana",
-        "url": "https://iptvlive-beta.vercel.app/total-tv-haryana/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wow-kidz.png",
-        "group": "Bnagla",
-        "name": "WOW Kidz Hindi",
-        "url": "https://iptvlive-beta.vercel.app/wow-kidz-hindi/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wow-kidz-tamil.png",
-        "group": "Bnagla",
-        "name": "WOW Kidz Tamil",
-        "url": "https://iptvlive-beta.vercel.app/wow-kidz-tamil/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wow-kidz-telugu.png",
-        "group": "Bnagla",
-        "name": "WOW Kidz Telugu",
-        "url": "https://iptvlive-beta.vercel.app/wow-kidz-telugu/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zb-cartoon.png",
-        "group": "Kids",
-        "name": "ZB Cartoon",
-        "url": "https://iptvlive-beta.vercel.app/zb-cartoon/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atnislamictv-150x150.jpg",
@@ -8712,6 +8340,12 @@
         "url": "https://iptvlive-beta.vercel.app/music-bangla/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/NAN-TV-Logo-02-150x150.png",
+        "group": "Bnagla",
+        "name": "NAN TV",
+        "url": "https://iptvlive-beta.vercel.app/nan-tv/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/news24.jpg",
         "group": "News",
         "name": "NEWS24 TV",
@@ -8758,6 +8392,12 @@
         "group": "Indian music",
         "name": "RTV Music",
         "url": "https://iptvlive-beta.vercel.app/rtv-music/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/unnamed-150x150.webp",
+        "group": "Indian Bangla",
+        "name": "Ruposhi Bangla TV",
+        "url": "https://iptvlive-beta.vercel.app/ruposhi-bangla-tv/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/salaam-150x150.jpg",
@@ -8978,2156 +8618,1916 @@
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png",
         "group": "Back channel",
-        "name": "B4U Kadak_41",
-        "url": "https://iptvlive-beta.vercel.app/b4u-kadak-41/index.m3u8"
+        "name": "B4U Kadak_42",
+        "url": "https://iptvlive-beta.vercel.app/b4u-kadak-42/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/manoranjan-movies-576p-96091e62b1.png",
         "group": "Back channel",
-        "name": "Manoranjan Movies_46",
-        "url": "https://iptvlive-beta.vercel.app/manoranjan-movies-46/index.m3u8"
+        "name": "Manoranjan Movies_47",
+        "url": "https://iptvlive-beta.vercel.app/manoranjan-movies-47/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-tv.png",
         "group": "Back channel",
-        "name": "Pitaara TV_47",
-        "url": "https://iptvlive-beta.vercel.app/pitaara-tv-47/index.m3u8"
+        "name": "Pitaara TV_48",
+        "url": "https://iptvlive-beta.vercel.app/pitaara-tv-48/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bangla-sonar.png",
         "group": "Back channel",
-        "name": "Zee Bangla Sonar_48",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-sonar-48/index.m3u8"
+        "name": "Zee Bangla Sonar_49",
+        "url": "https://iptvlive-beta.vercel.app/zee-bangla-sonar-49/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png",
         "group": "Back channel",
-        "name": "9XM_52",
-        "url": "https://iptvlive-beta.vercel.app/9xm-52/index.m3u8"
+        "name": "9XM_53",
+        "url": "https://iptvlive-beta.vercel.app/9xm-53/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png",
         "group": "Back channel",
-        "name": "B4U Music_53",
-        "url": "https://iptvlive-beta.vercel.app/b4u-music-53/index.m3u8"
+        "name": "B4U Music_54",
+        "url": "https://iptvlive-beta.vercel.app/b4u-music-54/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/music-india.png",
         "group": "Back channel",
-        "name": "Music India_54",
-        "url": "https://iptvlive-beta.vercel.app/music-india-54/index.m3u8"
+        "name": "Music India_55",
+        "url": "https://iptvlive-beta.vercel.app/music-india-55/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png",
         "group": "Back channel",
-        "name": "Dangal_55",
-        "url": "https://iptvlive-beta.vercel.app/dangal-55/index.m3u8"
+        "name": "Dangal_56",
+        "url": "https://iptvlive-beta.vercel.app/dangal-56/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png",
         "group": "Back channel",
-        "name": "Dangal 2_56",
-        "url": "https://iptvlive-beta.vercel.app/dangal-2-56/index.m3u8"
+        "name": "Dangal 2_57",
+        "url": "https://iptvlive-beta.vercel.app/dangal-2-57/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/manoranjan-tv.png",
         "group": "Back channel",
-        "name": "Manoranjan TV_57",
-        "url": "https://iptvlive-beta.vercel.app/manoranjan-tv-57/index.m3u8"
+        "name": "Manoranjan TV_58",
+        "url": "https://iptvlive-beta.vercel.app/manoranjan-tv-58/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shemaroo-tv.png",
         "group": "Back channel",
-        "name": "Shemaroo TV_58",
-        "url": "https://iptvlive-beta.vercel.app/shemaroo-tv-58/index.m3u8"
+        "name": "Shemaroo TV_59",
+        "url": "https://iptvlive-beta.vercel.app/shemaroo-tv-59/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/taaza-tv.png",
         "group": "Back channel",
-        "name": "Taaza TV_59",
-        "url": "https://iptvlive-beta.vercel.app/taaza-tv-59/index.m3u8"
+        "name": "Taaza TV_60",
+        "url": "https://iptvlive-beta.vercel.app/taaza-tv-60/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hum-tv.png",
         "group": "Back channel",
-        "name": "Hum TV_60",
-        "url": "https://iptvlive-beta.vercel.app/hum-tv-60/index.m3u8"
+        "name": "Hum TV_61",
+        "url": "https://iptvlive-beta.vercel.app/hum-tv-61/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dwnews-150x150.jpg",
         "group": "Back channel",
-        "name": "DW News_65",
-        "url": "https://iptvlive-beta.vercel.app/dw-news-65/index.m3u8"
+        "name": "DW News_66",
+        "url": "https://iptvlive-beta.vercel.app/dw-news-66/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/CGTN_Doc-150x150.png",
         "group": "Back channel",
-        "name": "CGTN Documentary_68",
-        "url": "https://iptvlive-beta.vercel.app/cgtn-documentary-68/index.m3u8"
+        "name": "CGTN Documentary_69",
+        "url": "https://iptvlive-beta.vercel.app/cgtn-documentary-69/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/discovery-science.png",
         "group": "Back channel",
-        "name": "Discovery Science_69",
-        "url": "https://iptvlive-beta.vercel.app/discovery-science-69/index.m3u8"
+        "name": "Discovery Science_70",
+        "url": "https://iptvlive-beta.vercel.app/discovery-science-70/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/national-geographic.png",
         "group": "Back channel",
-        "name": "Nat Geo TV_70",
-        "url": "https://iptvlive-beta.vercel.app/nat-geo-tv-70/index.m3u8"
+        "name": "Nat Geo TV_71",
+        "url": "https://iptvlive-beta.vercel.app/nat-geo-tv-71/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pbs-kids.png",
         "group": "Back channel",
-        "name": "PBS Kids_74",
-        "url": "https://iptvlive-beta.vercel.app/pbs-kids-74/index.m3u8"
+        "name": "PBS Kids_75",
+        "url": "https://iptvlive-beta.vercel.app/pbs-kids-75/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deen-tv-576p.png",
         "group": "Back channel",
-        "name": "Deen TV_76",
-        "url": "https://iptvlive-beta.vercel.app/deen-tv-76/index.m3u8"
+        "name": "Deen TV_77",
+        "url": "https://iptvlive-beta.vercel.app/deen-tv-77/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bahrain-sports-2.png",
         "group": "Back channel",
-        "name": "Bahrain Sports 2_80",
-        "url": "https://iptvlive-beta.vercel.app/bahrain-sports-2-80/index.m3u8"
+        "name": "Bahrain Sports 2_81",
+        "url": "https://iptvlive-beta.vercel.app/bahrain-sports-2-81/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cricket-gold.png",
         "group": "Back channel",
-        "name": "Cricket Gold_81",
-        "url": "https://iptvlive-beta.vercel.app/cricket-gold-81/index.m3u8"
+        "name": "Cricket Gold_82",
+        "url": "https://iptvlive-beta.vercel.app/cricket-gold-82/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn.png",
         "group": "Back channel",
-        "name": "ESPN_83",
-        "url": "https://iptvlive-beta.vercel.app/espn-83/index.m3u8"
+        "name": "ESPN_84",
+        "url": "https://iptvlive-beta.vercel.app/espn-84/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fifa.png",
         "group": "Back channel",
-        "name": "FIFA+_84",
-        "url": "https://iptvlive-beta.vercel.app/fifa-84/index.m3u8"
+        "name": "FIFA+_85",
+        "url": "https://iptvlive-beta.vercel.app/fifa-85/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fox-sports-1.png",
         "group": "Back channel",
-        "name": "Fox Sports 1_85",
-        "url": "https://iptvlive-beta.vercel.app/fox-sports-1-85/index.m3u8"
+        "name": "Fox Sports 1_86",
+        "url": "https://iptvlive-beta.vercel.app/fox-sports-1-86/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ptv-sports.png",
         "group": "Back channel",
-        "name": "PTV Sports_87",
-        "url": "https://iptvlive-beta.vercel.app/ptv-sports-87/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-jhakaas.png",
-        "group": "Back channel",
-        "name": "9X Jhakaas_89",
-        "url": "https://iptvlive-beta.vercel.app/9x-jhakaas-89/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-tashan.png",
-        "group": "Back channel",
-        "name": "9X Tashan_90",
-        "url": "https://iptvlive-beta.vercel.app/9x-tashan-90/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tv.png",
-        "group": "Back channel",
-        "name": "&TV_91",
-        "url": "https://iptvlive-beta.vercel.app/tv-91/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/anjan-tv.png",
-        "group": "Back channel",
-        "name": "Anjan TV_94",
-        "url": "https://iptvlive-beta.vercel.app/anjan-tv-94/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-bangla.png",
-        "group": "Back channel",
-        "name": "Colors Bangla_95",
-        "url": "https://iptvlive-beta.vercel.app/colors-bangla-95/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-rishtey.png",
-        "group": "Back channel",
-        "name": "Colors Rishtey_97",
-        "url": "https://iptvlive-beta.vercel.app/colors-rishtey-97/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-national.png",
-        "group": "Back channel",
-        "name": "DD National_98",
-        "url": "https://iptvlive-beta.vercel.app/dd-national-98/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dhamaal.png",
-        "group": "Back channel",
-        "name": "Dhamaal_99",
-        "url": "https://iptvlive-beta.vercel.app/dhamaal-99/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/somoy-tv.png",
-        "group": "Back channel",
-        "name": "Somoy TV_100",
-        "url": "https://iptvlive-beta.vercel.app/somoy-tv-100/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-aath.png",
-        "group": "Back channel",
-        "name": "Sony Aath_101",
-        "url": "https://iptvlive-beta.vercel.app/sony-aath-101/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-entertainment-tv.png",
-        "group": "Back channel",
-        "name": "Sony Entertainment TV_103",
-        "url": "https://iptvlive-beta.vercel.app/sony-entertainment-tv-103/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-entertainment-tv.png",
-        "group": "Back channel",
-        "name": "Sony Entertainment TV_104",
-        "url": "https://iptvlive-beta.vercel.app/sony-entertainment-tv-104/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-max.png",
-        "group": "Back channel",
-        "name": "Sony Max_106",
-        "url": "https://iptvlive-beta.vercel.app/sony-max-106/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-max-2.png",
-        "group": "Back channel",
-        "name": "Sony Max 2_107",
-        "url": "https://iptvlive-beta.vercel.app/sony-max-2-107/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-plus-166000bdde.png",
-        "group": "Back channel",
-        "name": "Star Plus_108",
-        "url": "https://iptvlive-beta.vercel.app/star-plus-108/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-action.png",
-        "group": "Back channel",
-        "name": "Zee Action_109",
-        "url": "https://iptvlive-beta.vercel.app/zee-action-109/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bangla-sonar.png",
-        "group": "Back channel",
-        "name": "Zee Bangla Sonar_112",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-sonar-112/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-cinema.png",
-        "group": "Back channel",
-        "name": "Zee Cinema_114",
-        "url": "https://iptvlive-beta.vercel.app/zee-cinema-114/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-cinema.png",
-        "group": "Back channel",
-        "name": "Zee Cinema_115",
-        "url": "https://iptvlive-beta.vercel.app/zee-cinema-115/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-zee-tv-b659c984ad.png",
-        "group": "Back channel",
-        "name": "Zee TV_116",
-        "url": "https://iptvlive-beta.vercel.app/zee-tv-116/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png",
-        "group": "Back channel",
-        "name": "9XM_118",
-        "url": "https://iptvlive-beta.vercel.app/9xm-118/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/aakaash-aath.png",
-        "group": "Back channel",
-        "name": "Aakaash Aath_119",
-        "url": "https://iptvlive-beta.vercel.app/aakaash-aath-119/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla1-150x150.jpg",
-        "group": "Back channel",
-        "name": "ATN Bangla_120",
-        "url": "https://iptvlive-beta.vercel.app/atn-bangla-120/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png",
-        "group": "Back channel",
-        "name": "B4U Movies_121",
-        "url": "https://iptvlive-beta.vercel.app/b4u-movies-121/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-bangla.png",
-        "group": "Back channel",
-        "name": "Colors Bangla_124",
-        "url": "https://iptvlive-beta.vercel.app/colors-bangla-124/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news-150x150.jpg",
-        "group": "Back channel",
-        "name": "DBC News_125",
-        "url": "https://iptvlive-beta.vercel.app/dbc-news-125/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-arun-prabha.png",
-        "group": "Back channel",
-        "name": "DD Arun Prabha_126",
-        "url": "https://iptvlive-beta.vercel.app/dd-arun-prabha-126/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekhontv-150x150.jpg",
-        "group": "Back channel",
-        "name": "Ekhon TV_127",
-        "url": "https://iptvlive-beta.vercel.app/ekhon-tv-127/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png",
-        "group": "Back channel",
-        "name": "Epic Music_128",
-        "url": "https://iptvlive-beta.vercel.app/epic-music-128/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/etv-cinema-360p-14e6148301.png",
-        "group": "Back channel",
-        "name": "ETV Cinema_129",
-        "url": "https://iptvlive-beta.vercel.app/etv-cinema-129/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/food-food.png",
-        "group": "Back channel",
-        "name": "Food Food_130",
-        "url": "https://iptvlive-beta.vercel.app/food-food-130/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gazi-tv.png",
-        "group": "Back channel",
-        "name": "Gazi TV_131",
-        "url": "https://iptvlive-beta.vercel.app/gazi-tv-131/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gtc-punjabi.png",
-        "group": "Back channel",
-        "name": "GTC Punjabi_132",
-        "url": "https://iptvlive-beta.vercel.app/gtc-punjabi-132/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/insync.png",
-        "group": "Back channel",
-        "name": "Insync_133",
-        "url": "https://iptvlive-beta.vercel.app/insync-133/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kairali-we.png",
-        "group": "Back channel",
-        "name": "Kairali We_134",
-        "url": "https://iptvlive-beta.vercel.app/kairali-we-134/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kappa-tv.png",
-        "group": "Back channel",
-        "name": "Kappa TV (Music)_135",
-        "url": "https://iptvlive-beta.vercel.app/kappa-tv-music-135/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kerala-vision.png",
-        "group": "Back channel",
-        "name": "Kerala Vision_136",
-        "url": "https://iptvlive-beta.vercel.app/kerala-vision-136/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/maasranga-tv.png",
-        "group": "Back channel",
-        "name": "Maasranga TV_137",
-        "url": "https://iptvlive-beta.vercel.app/maasranga-tv-137/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mazhavil-manorama.png",
-        "group": "Back channel",
-        "name": "Mazhavil Manorama_138",
-        "url": "https://iptvlive-beta.vercel.app/mazhavil-manorama-138/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mbc-tv.png",
-        "group": "Back channel",
-        "name": "MBC TV_139",
-        "url": "https://iptvlive-beta.vercel.app/mbc-tv-139/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/movies-now-hd.png",
-        "group": "Back channel",
-        "name": "Movies Now_141",
-        "url": "https://iptvlive-beta.vercel.app/movies-now-141/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nepal-1.png",
-        "group": "Back channel",
-        "name": "Nepal 1_142",
-        "url": "https://iptvlive-beta.vercel.app/nepal-1-142/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ptc-punjabi.png",
-        "group": "Back channel",
-        "name": "PTC Punjabi_143",
-        "url": "https://iptvlive-beta.vercel.app/ptc-punjabi-143/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/punjabi-hits.png",
-        "group": "Back channel",
-        "name": "Punjabi Hits_144",
-        "url": "https://iptvlive-beta.vercel.app/punjabi-hits-144/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/punjabi-shorts.png",
-        "group": "Back channel",
-        "name": "Punjabi Shorts_145",
-        "url": "https://iptvlive-beta.vercel.app/punjabi-shorts-145/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/raj-tv.png",
-        "group": "Back channel",
-        "name": "Raj TV_146",
-        "url": "https://iptvlive-beta.vercel.app/raj-tv-146/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shemaroo-josh.png",
-        "group": "Back channel",
-        "name": "Shemaroo Josh_147",
-        "url": "https://iptvlive-beta.vercel.app/shemaroo-josh-147/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-aath.png",
-        "group": "Back channel",
-        "name": "Sony Aath_148",
-        "url": "https://iptvlive-beta.vercel.app/sony-aath-148/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-entertainment-tv.png",
-        "group": "Back channel",
-        "name": "Sony Entertainment TV_149",
-        "url": "https://iptvlive-beta.vercel.app/sony-entertainment-tv-149/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-max.png",
-        "group": "Back channel",
-        "name": "Sony Max_150",
-        "url": "https://iptvlive-beta.vercel.app/sony-max-150/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-pal.png",
-        "group": "Back channel",
-        "name": "Sony PAL_151",
-        "url": "https://iptvlive-beta.vercel.app/sony-pal-151/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-pix.png",
-        "group": "Back channel",
-        "name": "Sony Pix_152",
-        "url": "https://iptvlive-beta.vercel.app/sony-pix-152/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-gold-de06c8e974.png",
-        "group": "Back channel",
-        "name": "Star Gold_153",
-        "url": "https://iptvlive-beta.vercel.app/star-gold-153/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-jalsha.png",
-        "group": "Back channel",
-        "name": "Star Jalsha_154",
-        "url": "https://iptvlive-beta.vercel.app/star-jalsha-154/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tabbar-hits.png",
-        "group": "Back channel",
-        "name": "Tabbar Hits_155",
-        "url": "https://iptvlive-beta.vercel.app/tabbar-hits-155/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/thanthi-one.png",
-        "group": "Back channel",
-        "name": "Thanthi One_156",
-        "url": "https://iptvlive-beta.vercel.app/thanthi-one-156/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/the-movie-club.png",
-        "group": "Back channel",
-        "name": "The Movie Club_157",
-        "url": "https://iptvlive-beta.vercel.app/the-movie-club-157/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tlc-india.png",
-        "group": "Back channel",
-        "name": "TLC (India)_158",
-        "url": "https://iptvlive-beta.vercel.app/tlc-india-158/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bangla.png",
-        "group": "Back channel",
-        "name": "Zee Bangla_160",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-160/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bangla-sonar.png",
-        "group": "Back channel",
-        "name": "Zee Bangla Sonar_161",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-sonar-161/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-cinema.png",
-        "group": "Back channel",
-        "name": "Zee Cinema_162",
-        "url": "https://iptvlive-beta.vercel.app/zee-cinema-162/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-zee-tv-b659c984ad.png",
-        "group": "Back channel",
-        "name": "Zee TV_163",
-        "url": "https://iptvlive-beta.vercel.app/zee-tv-163/index.m3u8"
+        "name": "PTV Sports_88",
+        "url": "https://iptvlive-beta.vercel.app/ptv-sports-88/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/7s-music.png",
         "group": "Back channel",
-        "name": "7S Music_164",
-        "url": "https://iptvlive-beta.vercel.app/7s-music-164/index.m3u8"
+        "name": "7S Music_90",
+        "url": "https://iptvlive-beta.vercel.app/7s-music-90/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa.png",
         "group": "Back channel",
-        "name": "9X Jalwa_166",
-        "url": "https://iptvlive-beta.vercel.app/9x-jalwa-166/index.m3u8"
+        "name": "9X Jalwa_92",
+        "url": "https://iptvlive-beta.vercel.app/9x-jalwa-92/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa.png",
         "group": "Back channel",
-        "name": "9X Jalwa_167",
-        "url": "https://iptvlive-beta.vercel.app/9x-jalwa-167/index.m3u8"
+        "name": "9X Jalwa_93",
+        "url": "https://iptvlive-beta.vercel.app/9x-jalwa-93/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png",
         "group": "Back channel",
-        "name": "9XM_168",
-        "url": "https://iptvlive-beta.vercel.app/9xm-168/index.m3u8"
+        "name": "9XM_94",
+        "url": "https://iptvlive-beta.vercel.app/9xm-94/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/aakaash-aath.png",
         "group": "Back channel",
-        "name": "Aakaash Aath_170",
-        "url": "https://iptvlive-beta.vercel.app/aakaash-aath-170/index.m3u8"
+        "name": "Aakaash Aath_96",
+        "url": "https://iptvlive-beta.vercel.app/aakaash-aath-96/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/aakaash-aath.png",
         "group": "Back channel",
-        "name": "Aakaash Aath_171",
-        "url": "https://iptvlive-beta.vercel.app/aakaash-aath-171/index.m3u8"
+        "name": "Aakaash Aath_97",
+        "url": "https://iptvlive-beta.vercel.app/aakaash-aath-97/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/al-quran-al-kareem-tv.png",
         "group": "Back channel",
-        "name": "Al Quran Al Kareem TV_172",
-        "url": "https://iptvlive-beta.vercel.app/al-quran-al-kareem-tv-172/index.m3u8"
+        "name": "Al Quran Al Kareem TV_98",
+        "url": "https://iptvlive-beta.vercel.app/al-quran-al-kareem-tv-98/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amar-bangla.png",
         "group": "Back channel",
-        "name": "Amar Bangla_173",
-        "url": "https://iptvlive-beta.vercel.app/amar-bangla-173/index.m3u8"
+        "name": "Amar Bangla_99",
+        "url": "https://iptvlive-beta.vercel.app/amar-bangla-99/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amar-bangla-digital.png",
         "group": "Back channel",
-        "name": "Amar Bangla Digital_174",
-        "url": "https://iptvlive-beta.vercel.app/amar-bangla-digital-174/index.m3u8"
+        "name": "Amar Bangla Digital_100",
+        "url": "https://iptvlive-beta.vercel.app/amar-bangla-digital-100/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amrita-tv.png",
         "group": "Back channel",
-        "name": "Amrita TV_175",
-        "url": "https://iptvlive-beta.vercel.app/amrita-tv-175/index.m3u8"
+        "name": "Amrita TV_101",
+        "url": "https://iptvlive-beta.vercel.app/amrita-tv-101/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/Anandatvupdate-150x150.jpg",
         "group": "Back channel",
-        "name": "Ananda TV_178",
-        "url": "https://iptvlive-beta.vercel.app/ananda-tv-178/index.m3u8"
+        "name": "Ananda TV_104",
+        "url": "https://iptvlive-beta.vercel.app/ananda-tv-104/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/animal-planet.png",
         "group": "Back channel",
-        "name": "Animal Planet_180",
-        "url": "https://iptvlive-beta.vercel.app/animal-planet-180/index.m3u8"
+        "name": "Animal Planet_107",
+        "url": "https://iptvlive-beta.vercel.app/animal-planet-107/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/animal-planet.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/anjan-tv.png",
         "group": "Back channel",
-        "name": "Animal Planet_182",
-        "url": "https://iptvlive-beta.vercel.app/animal-planet-182/index.m3u8"
+        "name": "Anjan TV_109",
+        "url": "https://iptvlive-beta.vercel.app/anjan-tv-109/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asiantv-150x150.jpg",
         "group": "Back channel",
-        "name": "Asian TV_185",
-        "url": "https://iptvlive-beta.vercel.app/asian-tv-185/index.m3u8"
+        "name": "Asian TV_111",
+        "url": "https://iptvlive-beta.vercel.app/asian-tv-111/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla1-150x150.jpg",
         "group": "Back channel",
-        "name": "ATN Bangla_187",
-        "url": "https://iptvlive-beta.vercel.app/atn-bangla-187/index.m3u8"
+        "name": "ATN Bangla_113",
+        "url": "https://iptvlive-beta.vercel.app/atn-bangla-113/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atnbanglauk11-150x150.jpg",
         "group": "Back channel",
-        "name": "ATN Bangla UK_189",
-        "url": "https://iptvlive-beta.vercel.app/atn-bangla-uk-189/index.m3u8"
+        "name": "ATN Bangla UK_115",
+        "url": "https://iptvlive-beta.vercel.app/atn-bangla-uk-115/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news.jpg",
         "group": "Back channel",
-        "name": "ATN News_191",
-        "url": "https://iptvlive-beta.vercel.app/atn-news-191/index.m3u8"
+        "name": "ATN News_117",
+        "url": "https://iptvlive-beta.vercel.app/atn-news-117/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news.jpg",
         "group": "Back channel",
-        "name": "ATN News_192",
-        "url": "https://iptvlive-beta.vercel.app/atn-news-192/index.m3u8"
+        "name": "ATN News_118",
+        "url": "https://iptvlive-beta.vercel.app/atn-news-118/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news.jpg",
         "group": "Back channel",
-        "name": "ATN News_193",
-        "url": "https://iptvlive-beta.vercel.app/atn-news-193/index.m3u8"
+        "name": "ATN News_119",
+        "url": "https://iptvlive-beta.vercel.app/atn-news-119/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png",
         "group": "Back channel",
-        "name": "B4U Kadak_194",
-        "url": "https://iptvlive-beta.vercel.app/b4u-kadak-194/index.m3u8"
+        "name": "B4U Kadak_120",
+        "url": "https://iptvlive-beta.vercel.app/b4u-kadak-120/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png",
         "group": "Back channel",
-        "name": "B4U Kadak_195",
-        "url": "https://iptvlive-beta.vercel.app/b4u-kadak-195/index.m3u8"
+        "name": "B4U Kadak_121",
+        "url": "https://iptvlive-beta.vercel.app/b4u-kadak-121/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png",
         "group": "Back channel",
-        "name": "B4U Movies_196",
-        "url": "https://iptvlive-beta.vercel.app/b4u-movies-196/index.m3u8"
+        "name": "B4U Movies_122",
+        "url": "https://iptvlive-beta.vercel.app/b4u-movies-122/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png",
         "group": "Back channel",
-        "name": "B4U Movies_197",
-        "url": "https://iptvlive-beta.vercel.app/b4u-movies-197/index.m3u8"
+        "name": "B4U Movies_123",
+        "url": "https://iptvlive-beta.vercel.app/b4u-movies-123/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png",
+        "group": "Back channel",
+        "name": "B4U Movies_124",
+        "url": "https://iptvlive-beta.vercel.app/b4u-movies-124/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png",
         "group": "Back channel",
-        "name": "B4U Music_199",
-        "url": "https://iptvlive-beta.vercel.app/b4u-music-199/index.m3u8"
+        "name": "B4U Music_126",
+        "url": "https://iptvlive-beta.vercel.app/b4u-music-126/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png",
         "group": "Back channel",
-        "name": "B4U Music_200",
-        "url": "https://iptvlive-beta.vercel.app/b4u-music-200/index.m3u8"
+        "name": "B4U Music_128",
+        "url": "https://iptvlive-beta.vercel.app/b4u-music-128/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png",
+        "group": "Back channel",
+        "name": "B4U Music_129",
+        "url": "https://iptvlive-beta.vercel.app/b4u-music-129/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png",
         "group": "Back channel",
-        "name": "Balle Balle_202",
-        "url": "https://iptvlive-beta.vercel.app/balle-balle-202/index.m3u8"
+        "name": "Balle Balle_131",
+        "url": "https://iptvlive-beta.vercel.app/balle-balle-131/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png",
         "group": "Back channel",
-        "name": "Balle Balle_203",
-        "url": "https://iptvlive-beta.vercel.app/balle-balle-203/index.m3u8"
+        "name": "Balle Balle_132",
+        "url": "https://iptvlive-beta.vercel.app/balle-balle-132/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png",
         "group": "Back channel",
-        "name": "Balle Balle_204",
-        "url": "https://iptvlive-beta.vercel.app/balle-balle-204/index.m3u8"
+        "name": "Balle Balle_133",
+        "url": "https://iptvlive-beta.vercel.app/balle-balle-133/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png",
         "group": "Back channel",
-        "name": "Bangla TV_205",
-        "url": "https://iptvlive-beta.vercel.app/bangla-tv-205/index.m3u8"
+        "name": "Bangla TV_134",
+        "url": "https://iptvlive-beta.vercel.app/bangla-tv-134/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png",
         "group": "Back channel",
-        "name": "Bangla TV_206",
-        "url": "https://iptvlive-beta.vercel.app/bangla-tv-206/index.m3u8"
+        "name": "Bangla TV_135",
+        "url": "https://iptvlive-beta.vercel.app/bangla-tv-135/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/banglavision.png",
         "group": "Back channel",
-        "name": "Bangla Vision_208",
-        "url": "https://iptvlive-beta.vercel.app/bangla-vision-208/index.m3u8"
+        "name": "Bangla Vision_137",
+        "url": "https://iptvlive-beta.vercel.app/bangla-vision-137/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/banglavision.png",
         "group": "Back channel",
-        "name": "Bangla Vision_209",
-        "url": "https://iptvlive-beta.vercel.app/bangla-vision-209/index.m3u8"
+        "name": "Bangla Vision_138",
+        "url": "https://iptvlive-beta.vercel.app/bangla-vision-138/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhi-channel.png",
         "group": "Back channel",
-        "name": "BHI Channel_211",
-        "url": "https://iptvlive-beta.vercel.app/bhi-channel-211/index.m3u8"
+        "name": "BHI Channel_140",
+        "url": "https://iptvlive-beta.vercel.app/bhi-channel-140/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png",
         "group": "Back channel",
-        "name": "Bhojpuri Cinema_212",
-        "url": "https://iptvlive-beta.vercel.app/bhojpuri-cinema-212/index.m3u8"
+        "name": "Bhojpuri Cinema_141",
+        "url": "https://iptvlive-beta.vercel.app/bhojpuri-cinema-141/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png",
         "group": "Back channel",
-        "name": "Bhojpuri Cinema_213",
-        "url": "https://iptvlive-beta.vercel.app/bhojpuri-cinema-213/index.m3u8"
+        "name": "Bhojpuri Cinema_142",
+        "url": "https://iptvlive-beta.vercel.app/bhojpuri-cinema-142/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bijoy-tv.png",
         "group": "Back channel",
-        "name": "Bijoy TV_215",
-        "url": "https://iptvlive-beta.vercel.app/bijoy-tv-215/index.m3u8"
+        "name": "Bijoy TV_144",
+        "url": "https://iptvlive-beta.vercel.app/bijoy-tv-144/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/BoishakhiTV-150x1501.jpg",
         "group": "Back channel",
-        "name": "Boishakhi TV_217",
-        "url": "https://iptvlive-beta.vercel.app/boishakhi-tv-217/index.m3u8"
+        "name": "Boishakhi TV_146",
+        "url": "https://iptvlive-beta.vercel.app/boishakhi-tv-146/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/BoishakhiTV-150x1501.jpg",
         "group": "Back channel",
-        "name": "Boishakhi TV_218",
-        "url": "https://iptvlive-beta.vercel.app/boishakhi-tv-218/index.m3u8"
+        "name": "Boishakhi TV_147",
+        "url": "https://iptvlive-beta.vercel.app/boishakhi-tv-147/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/btv-chattogram.png",
         "group": "Back channel",
-        "name": "BTV Chattogram_219",
-        "url": "https://iptvlive-beta.vercel.app/btv-chattogram-219/index.m3u8"
+        "name": "BTV Chattogram_148",
+        "url": "https://iptvlive-beta.vercel.app/btv-chattogram-148/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/Channel1Bangladesh-1-150x150.png",
         "group": "Back channel",
-        "name": "Channel 1_222",
-        "url": "https://iptvlive-beta.vercel.app/channel-1-222/index.m3u8"
+        "name": "Channel 1_151",
+        "url": "https://iptvlive-beta.vercel.app/channel-1-151/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/Channel1Bangladesh-1-150x150.png",
         "group": "Back channel",
-        "name": "Channel 1_223",
-        "url": "https://iptvlive-beta.vercel.app/channel-1-223/index.m3u8"
+        "name": "Channel 1_152",
+        "url": "https://iptvlive-beta.vercel.app/channel-1-152/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel24-150x150.jpg",
         "group": "Back channel",
-        "name": "Channel 24_224",
-        "url": "https://iptvlive-beta.vercel.app/channel-24-224/index.m3u8"
+        "name": "Channel 24_154",
+        "url": "https://iptvlive-beta.vercel.app/channel-24-154/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel24-150x150.jpg",
         "group": "Back channel",
-        "name": "Channel 24_225",
-        "url": "https://iptvlive-beta.vercel.app/channel-24-225/index.m3u8"
+        "name": "Channel 24_155",
+        "url": "https://iptvlive-beta.vercel.app/channel-24-155/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png",
         "group": "Back channel",
-        "name": "Channel I_229",
-        "url": "https://iptvlive-beta.vercel.app/channel-i-229/index.m3u8"
+        "name": "Channel I_159",
+        "url": "https://iptvlive-beta.vercel.app/channel-i-159/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png",
         "group": "Back channel",
-        "name": "Channel I_230",
-        "url": "https://iptvlive-beta.vercel.app/channel-i-230/index.m3u8"
+        "name": "Channel I_160",
+        "url": "https://iptvlive-beta.vercel.app/channel-i-160/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png",
         "group": "Back channel",
-        "name": "Channel I_231",
-        "url": "https://iptvlive-beta.vercel.app/channel-i-231/index.m3u8"
+        "name": "Channel I_161",
+        "url": "https://iptvlive-beta.vercel.app/channel-i-161/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png",
         "group": "Back channel",
-        "name": "Channel I_232",
-        "url": "https://iptvlive-beta.vercel.app/channel-i-232/index.m3u8"
+        "name": "Channel I_162",
+        "url": "https://iptvlive-beta.vercel.app/channel-i-162/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s.png",
         "group": "Back channel",
-        "name": "Channel S_234",
-        "url": "https://iptvlive-beta.vercel.app/channel-s-234/index.m3u8"
+        "name": "Channel S_164",
+        "url": "https://iptvlive-beta.vercel.app/channel-s-164/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s.png",
         "group": "Back channel",
-        "name": "Channel S_235",
-        "url": "https://iptvlive-beta.vercel.app/channel-s-235/index.m3u8"
+        "name": "Channel S_165",
+        "url": "https://iptvlive-beta.vercel.app/channel-s-165/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channelsukup.jpg",
         "group": "Back channel",
-        "name": "Channel S UK_236",
-        "url": "https://iptvlive-beta.vercel.app/channel-s-uk-236/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-win.png",
-        "group": "Back channel",
-        "name": "Channel WIN_237",
-        "url": "https://iptvlive-beta.vercel.app/channel-win-237/index.m3u8"
+        "name": "Channel S UK_166",
+        "url": "https://iptvlive-beta.vercel.app/channel-s-uk-166/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/local-logo-cnn.png",
         "group": "Back channel",
-        "name": "CNN_238",
-        "url": "https://iptvlive-beta.vercel.app/cnn-238/index.m3u8"
+        "name": "CNN_167",
+        "url": "https://iptvlive-beta.vercel.app/cnn-167/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-3cfc323d7c.png",
         "group": "Back channel",
-        "name": "Colors_239",
-        "url": "https://iptvlive-beta.vercel.app/colors-239/index.m3u8"
+        "name": "Colors_168",
+        "url": "https://iptvlive-beta.vercel.app/colors-168/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-bangla.png",
         "group": "Back channel",
-        "name": "Colors Bangla_240",
-        "url": "https://iptvlive-beta.vercel.app/colors-bangla-240/index.m3u8"
+        "name": "Colors Bangla_169",
+        "url": "https://iptvlive-beta.vercel.app/colors-bangla-169/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-bangla.png",
         "group": "Back channel",
-        "name": "Colors Bangla_241",
-        "url": "https://iptvlive-beta.vercel.app/colors-bangla-241/index.m3u8"
+        "name": "Colors Bangla_170",
+        "url": "https://iptvlive-beta.vercel.app/colors-bangla-170/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-tamil.png",
         "group": "Back channel",
-        "name": "Colors Tamil_242",
-        "url": "https://iptvlive-beta.vercel.app/colors-tamil-242/index.m3u8"
+        "name": "Colors Tamil_172",
+        "url": "https://iptvlive-beta.vercel.app/colors-tamil-172/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png",
         "group": "Back channel",
-        "name": "Dangal_245",
-        "url": "https://iptvlive-beta.vercel.app/dangal-245/index.m3u8"
+        "name": "Dangal_175",
+        "url": "https://iptvlive-beta.vercel.app/dangal-175/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png",
         "group": "Back channel",
-        "name": "Dangal 2_246",
-        "url": "https://iptvlive-beta.vercel.app/dangal-2-246/index.m3u8"
+        "name": "Dangal 2_176",
+        "url": "https://iptvlive-beta.vercel.app/dangal-2-176/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png",
         "group": "Back channel",
-        "name": "Dangal 2_247",
-        "url": "https://iptvlive-beta.vercel.app/dangal-2-247/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/darshana-tv.png",
-        "group": "Back channel",
-        "name": "Darshana TV_248",
-        "url": "https://iptvlive-beta.vercel.app/darshana-tv-248/index.m3u8"
+        "name": "Dangal 2_177",
+        "url": "https://iptvlive-beta.vercel.app/dangal-2-177/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news-150x150.jpg",
         "group": "Back channel",
-        "name": "DBC News_250",
-        "url": "https://iptvlive-beta.vercel.app/dbc-news-250/index.m3u8"
+        "name": "DBC News_179",
+        "url": "https://iptvlive-beta.vercel.app/dbc-news-179/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news-150x150.jpg",
         "group": "Back channel",
-        "name": "DBC News_251",
-        "url": "https://iptvlive-beta.vercel.app/dbc-news-251/index.m3u8"
+        "name": "DBC News_180",
+        "url": "https://iptvlive-beta.vercel.app/dbc-news-180/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news-150x150.jpg",
         "group": "Back channel",
-        "name": "DBC News_252",
-        "url": "https://iptvlive-beta.vercel.app/dbc-news-252/index.m3u8"
+        "name": "DBC News_181",
+        "url": "https://iptvlive-beta.vercel.app/dbc-news-181/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-arun-prabha.png",
+        "group": "Back channel",
+        "name": "DD Arun Prabha_182",
+        "url": "https://iptvlive-beta.vercel.app/dd-arun-prabha-182/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png",
         "group": "Back channel",
-        "name": "DD Bangla_253",
-        "url": "https://iptvlive-beta.vercel.app/dd-bangla-253/index.m3u8"
+        "name": "DD Bangla_183",
+        "url": "https://iptvlive-beta.vercel.app/dd-bangla-183/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png",
         "group": "Back channel",
-        "name": "DD Bangla_255",
-        "url": "https://iptvlive-beta.vercel.app/dd-bangla-255/index.m3u8"
+        "name": "DD Bangla_185",
+        "url": "https://iptvlive-beta.vercel.app/dd-bangla-185/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bharati.png",
         "group": "Back channel",
-        "name": "DD Bharati_256",
-        "url": "https://iptvlive-beta.vercel.app/dd-bharati-256/index.m3u8"
+        "name": "DD Bharati_186",
+        "url": "https://iptvlive-beta.vercel.app/dd-bharati-186/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-chandana.png",
         "group": "Back channel",
-        "name": "DD Chandana_257",
-        "url": "https://iptvlive-beta.vercel.app/dd-chandana-257/index.m3u8"
+        "name": "DD Chandana_187",
+        "url": "https://iptvlive-beta.vercel.app/dd-chandana-187/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-india.png",
         "group": "Back channel",
-        "name": "DD India_258",
-        "url": "https://iptvlive-beta.vercel.app/dd-india-258/index.m3u8"
+        "name": "DD India_188",
+        "url": "https://iptvlive-beta.vercel.app/dd-india-188/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-jharkhand.png",
         "group": "Back channel",
-        "name": "DD Jharkhand_259",
-        "url": "https://iptvlive-beta.vercel.app/dd-jharkhand-259/index.m3u8"
+        "name": "DD Jharkhand_189",
+        "url": "https://iptvlive-beta.vercel.app/dd-jharkhand-189/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-kashir.png",
         "group": "Back channel",
-        "name": "DD Kashir_260",
-        "url": "https://iptvlive-beta.vercel.app/dd-kashir-260/index.m3u8"
+        "name": "DD Kashir_190",
+        "url": "https://iptvlive-beta.vercel.app/dd-kashir-190/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-madhya-pradesh.png",
         "group": "Back channel",
-        "name": "DD Madhya Pradesh_261",
-        "url": "https://iptvlive-beta.vercel.app/dd-madhya-pradesh-261/index.m3u8"
+        "name": "DD Madhya Pradesh_191",
+        "url": "https://iptvlive-beta.vercel.app/dd-madhya-pradesh-191/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-madhya-pradesh.png",
         "group": "Back channel",
-        "name": "DD Madhya Pradesh_262",
-        "url": "https://iptvlive-beta.vercel.app/dd-madhya-pradesh-262/index.m3u8"
+        "name": "DD Madhya Pradesh_192",
+        "url": "https://iptvlive-beta.vercel.app/dd-madhya-pradesh-192/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-national.png",
         "group": "Back channel",
-        "name": "DD National_263",
-        "url": "https://iptvlive-beta.vercel.app/dd-national-263/index.m3u8"
+        "name": "DD National_193",
+        "url": "https://iptvlive-beta.vercel.app/dd-national-193/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-national.png",
+        "group": "Back channel",
+        "name": "DD National_194",
+        "url": "https://iptvlive-beta.vercel.app/dd-national-194/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-national.png",
+        "group": "Back channel",
+        "name": "DD National_195",
+        "url": "https://iptvlive-beta.vercel.app/dd-national-195/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-odia.png",
         "group": "Back channel",
-        "name": "DD Odia_264",
-        "url": "https://iptvlive-beta.vercel.app/dd-odia-264/index.m3u8"
+        "name": "DD Odia_196",
+        "url": "https://iptvlive-beta.vercel.app/dd-odia-196/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-rajasthan.png",
         "group": "Back channel",
-        "name": "DD Rajasthan_265",
-        "url": "https://iptvlive-beta.vercel.app/dd-rajasthan-265/index.m3u8"
+        "name": "DD Rajasthan_197",
+        "url": "https://iptvlive-beta.vercel.app/dd-rajasthan-197/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-saptagiri.png",
         "group": "Back channel",
-        "name": "DD Saptagiri_266",
-        "url": "https://iptvlive-beta.vercel.app/dd-saptagiri-266/index.m3u8"
+        "name": "DD Saptagiri_198",
+        "url": "https://iptvlive-beta.vercel.app/dd-saptagiri-198/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-tamil.png",
         "group": "Back channel",
-        "name": "DD Tamil_267",
-        "url": "https://iptvlive-beta.vercel.app/dd-tamil-267/index.m3u8"
+        "name": "DD Tamil_199",
+        "url": "https://iptvlive-beta.vercel.app/dd-tamil-199/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-urdu.png",
         "group": "Back channel",
-        "name": "DD Urdu_268",
-        "url": "https://iptvlive-beta.vercel.app/dd-urdu-268/index.m3u8"
+        "name": "DD Urdu_200",
+        "url": "https://iptvlive-beta.vercel.app/dd-urdu-200/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deen-tv-576p.png",
         "group": "Back channel",
-        "name": "Deen TV_269",
-        "url": "https://iptvlive-beta.vercel.app/deen-tv-269/index.m3u8"
+        "name": "Deen TV_201",
+        "url": "https://iptvlive-beta.vercel.app/deen-tv-201/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deewana-hd.png",
         "group": "Back channel",
-        "name": "Deewana_271",
-        "url": "https://iptvlive-beta.vercel.app/deewana-271/index.m3u8"
+        "name": "Deewana_203",
+        "url": "https://iptvlive-beta.vercel.app/deewana-203/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/desi-channel.png",
         "group": "Back channel",
-        "name": "Desi Channel_274",
-        "url": "https://iptvlive-beta.vercel.app/desi-channel-274/index.m3u8"
+        "name": "Desi Channel_206",
+        "url": "https://iptvlive-beta.vercel.app/desi-channel-206/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dhoom-music-bangla.png",
         "group": "Back channel",
-        "name": "Dhoom Music Bangla_275",
-        "url": "https://iptvlive-beta.vercel.app/dhoom-music-bangla-275/index.m3u8"
+        "name": "Dhoom Music Bangla_207",
+        "url": "https://iptvlive-beta.vercel.app/dhoom-music-bangla-207/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/discoverpakistan-150x150.jpg",
         "group": "Back channel",
-        "name": "Discover Pakistan_276",
-        "url": "https://iptvlive-beta.vercel.app/discover-pakistan-276/index.m3u8"
+        "name": "Discover Pakistan_208",
+        "url": "https://iptvlive-beta.vercel.app/discover-pakistan-208/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/discovery-kids.png",
         "group": "Back channel",
-        "name": "Discovery Kids_277",
-        "url": "https://iptvlive-beta.vercel.app/discovery-kids-277/index.m3u8"
+        "name": "Discovery Kids_209",
+        "url": "https://iptvlive-beta.vercel.app/discovery-kids-209/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/duronto-tv-2b3c7dd202.png",
         "group": "Back channel",
-        "name": "Duronto TV_278",
-        "url": "https://iptvlive-beta.vercel.app/duronto-tv-278/index.m3u8"
+        "name": "Duronto TV_210",
+        "url": "https://iptvlive-beta.vercel.app/duronto-tv-210/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/duronto-tv-2b3c7dd202.png",
+        "group": "Back channel",
+        "name": "Duronto TV_211",
+        "url": "https://iptvlive-beta.vercel.app/duronto-tv-211/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/e24.png",
         "group": "Back channel",
-        "name": "E24_280",
-        "url": "https://iptvlive-beta.vercel.app/e24-280/index.m3u8"
+        "name": "E24_213",
+        "url": "https://iptvlive-beta.vercel.app/e24-213/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekattors-150x150.jpg",
         "group": "Back channel",
-        "name": "Ekattor TV_281",
-        "url": "https://iptvlive-beta.vercel.app/ekattor-tv-281/index.m3u8"
+        "name": "Ekattor TV_214",
+        "url": "https://iptvlive-beta.vercel.app/ekattor-tv-214/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekattors-150x150.jpg",
         "group": "Back channel",
-        "name": "Ekattor TV_282",
-        "url": "https://iptvlive-beta.vercel.app/ekattor-tv-282/index.m3u8"
+        "name": "Ekattor TV_215",
+        "url": "https://iptvlive-beta.vercel.app/ekattor-tv-215/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekusheytv-150x150.jpg",
         "group": "Back channel",
-        "name": "Ekushey TV_286",
-        "url": "https://iptvlive-beta.vercel.app/ekushey-tv-286/index.m3u8"
+        "name": "Ekushey TV_219",
+        "url": "https://iptvlive-beta.vercel.app/ekushey-tv-219/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekusheytv-150x150.jpg",
         "group": "Back channel",
-        "name": "Ekushey TV_288",
-        "url": "https://iptvlive-beta.vercel.app/ekushey-tv-288/index.m3u8"
+        "name": "Ekushey TV_221",
+        "url": "https://iptvlive-beta.vercel.app/ekushey-tv-221/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekusheytv-150x150.jpg",
         "group": "Back channel",
-        "name": "Ekushey TV_289",
-        "url": "https://iptvlive-beta.vercel.app/ekushey-tv-289/index.m3u8"
+        "name": "Ekushey TV_223",
+        "url": "https://iptvlive-beta.vercel.app/ekushey-tv-223/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enter10-bangla.png",
         "group": "Back channel",
-        "name": "Enter10 Bangla_290",
-        "url": "https://iptvlive-beta.vercel.app/enter10-bangla-290/index.m3u8"
+        "name": "Enter10 Bangla_224",
+        "url": "https://iptvlive-beta.vercel.app/enter10-bangla-224/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enter10-bangla.png",
         "group": "Back channel",
-        "name": "Enter10 Bangla_291",
-        "url": "https://iptvlive-beta.vercel.app/enter10-bangla-291/index.m3u8"
+        "name": "Enter10 Bangla_225",
+        "url": "https://iptvlive-beta.vercel.app/enter10-bangla-225/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enter10-bangla.png",
         "group": "Back channel",
-        "name": "Enter10 Bangla_293",
-        "url": "https://iptvlive-beta.vercel.app/enter10-bangla-293/index.m3u8"
+        "name": "Enter10 Bangla_228",
+        "url": "https://iptvlive-beta.vercel.app/enter10-bangla-228/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enter-tv.png",
         "group": "Back channel",
-        "name": "Enter TV_294",
-        "url": "https://iptvlive-beta.vercel.app/enter-tv-294/index.m3u8"
+        "name": "Enter TV_229",
+        "url": "https://iptvlive-beta.vercel.app/enter-tv-229/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bharat.png",
         "group": "Back channel",
-        "name": "Epic Bharat_296",
-        "url": "https://iptvlive-beta.vercel.app/epic-bharat-296/index.m3u8"
+        "name": "Epic Bharat_231",
+        "url": "https://iptvlive-beta.vercel.app/epic-bharat-231/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bhojpuri.png",
         "group": "Back channel",
-        "name": "Epic Bhojpuri_297",
-        "url": "https://iptvlive-beta.vercel.app/epic-bhojpuri-297/index.m3u8"
+        "name": "Epic Bhojpuri_232",
+        "url": "https://iptvlive-beta.vercel.app/epic-bhojpuri-232/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bhojpuri-digital.png",
         "group": "Back channel",
-        "name": "Epic Bhojpuri Digital_298",
-        "url": "https://iptvlive-beta.vercel.app/epic-bhojpuri-digital-298/index.m3u8"
+        "name": "Epic Bhojpuri Digital_233",
+        "url": "https://iptvlive-beta.vercel.app/epic-bhojpuri-digital-233/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png",
         "group": "Back channel",
-        "name": "Epic Music_299",
-        "url": "https://iptvlive-beta.vercel.app/epic-music-299/index.m3u8"
+        "name": "Epic Music_234",
+        "url": "https://iptvlive-beta.vercel.app/epic-music-234/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png",
         "group": "Back channel",
-        "name": "Epic Music_300",
-        "url": "https://iptvlive-beta.vercel.app/epic-music-300/index.m3u8"
+        "name": "Epic Music_235",
+        "url": "https://iptvlive-beta.vercel.app/epic-music-235/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png",
         "group": "Back channel",
-        "name": "Epic Music_301",
-        "url": "https://iptvlive-beta.vercel.app/epic-music-301/index.m3u8"
+        "name": "Epic Music_236",
+        "url": "https://iptvlive-beta.vercel.app/epic-music-236/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fakt-marathi.png",
         "group": "Back channel",
-        "name": "Fakt Marathi_302",
-        "url": "https://iptvlive-beta.vercel.app/fakt-marathi-302/index.m3u8"
+        "name": "Fakt Marathi_237",
+        "url": "https://iptvlive-beta.vercel.app/fakt-marathi-237/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png",
         "group": "Back channel",
-        "name": "G TV_304",
-        "url": "https://iptvlive-beta.vercel.app/g-tv-304/index.m3u8"
+        "name": "G TV_239",
+        "url": "https://iptvlive-beta.vercel.app/g-tv-239/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png",
         "group": "Back channel",
-        "name": "G TV_305",
-        "url": "https://iptvlive-beta.vercel.app/g-tv-305/index.m3u8"
+        "name": "G TV_240",
+        "url": "https://iptvlive-beta.vercel.app/g-tv-240/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png",
         "group": "Back channel",
-        "name": "G TV_307",
-        "url": "https://iptvlive-beta.vercel.app/g-tv-307/index.m3u8"
+        "name": "G TV_242",
+        "url": "https://iptvlive-beta.vercel.app/g-tv-242/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png",
         "group": "Back channel",
-        "name": "Goldmines_311",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-311/index.m3u8"
+        "name": "Goldmines_246",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-246/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png",
         "group": "Back channel",
-        "name": "Goldmines_312",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-312/index.m3u8"
+        "name": "Goldmines_247",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-247/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png",
         "group": "Back channel",
-        "name": "Goldmines_313",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-313/index.m3u8"
+        "name": "Goldmines_248",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-248/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png",
         "group": "Back channel",
-        "name": "Goldmines 2_314",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-2-314/index.m3u8"
+        "name": "Goldmines 2_249",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-2-249/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-action.png",
         "group": "Back channel",
-        "name": "Goldmines Action_315",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-action-315/index.m3u8"
+        "name": "Goldmines Action_250",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-action-250/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-bollywood.png",
         "group": "Back channel",
-        "name": "Goldmines Bollywood_316",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-bollywood-316/index.m3u8"
+        "name": "Goldmines Bollywood_251",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-bollywood-251/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-bollywood.png",
         "group": "Back channel",
-        "name": "Goldmines Bollywood_317",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-bollywood-317/index.m3u8"
+        "name": "Goldmines Bollywood_252",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-bollywood-252/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-movies.png",
         "group": "Back channel",
-        "name": "Goldmines Movies_318",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-movies-318/index.m3u8"
+        "name": "Goldmines Movies_253",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-movies-253/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-movies.png",
         "group": "Back channel",
-        "name": "Goldmines Movies_319",
-        "url": "https://iptvlive-beta.vercel.app/goldmines-movies-319/index.m3u8"
+        "name": "Goldmines Movies_254",
+        "url": "https://iptvlive-beta.vercel.app/goldmines-movies-254/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gtc-punjabi.png",
+        "group": "Back channel",
+        "name": "GTC Punjabi_256",
+        "url": "https://iptvlive-beta.vercel.app/gtc-punjabi-256/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hindi-hits.png",
         "group": "Back channel",
-        "name": "Hindi Hits_321",
-        "url": "https://iptvlive-beta.vercel.app/hindi-hits-321/index.m3u8"
+        "name": "Hindi Hits_257",
+        "url": "https://iptvlive-beta.vercel.app/hindi-hits-257/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hum-tv.png",
         "group": "Back channel",
-        "name": "Hum TV_322",
-        "url": "https://iptvlive-beta.vercel.app/hum-tv-322/index.m3u8"
+        "name": "Hum TV_258",
+        "url": "https://iptvlive-beta.vercel.app/hum-tv-258/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hum-tv.png",
         "group": "Back channel",
-        "name": "Hum TV_323",
-        "url": "https://iptvlive-beta.vercel.app/hum-tv-323/index.m3u8"
+        "name": "Hum TV_259",
+        "url": "https://iptvlive-beta.vercel.app/hum-tv-259/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/insync.png",
+        "group": "Back channel",
+        "name": "Insync_263",
+        "url": "https://iptvlive-beta.vercel.app/insync-263/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/iqra-bangla.png",
         "group": "Back channel",
-        "name": "Iqra Bangla_328",
-        "url": "https://iptvlive-beta.vercel.app/iqra-bangla-328/index.m3u8"
+        "name": "Iqra Bangla_265",
+        "url": "https://iptvlive-beta.vercel.app/iqra-bangla-265/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pran-RFL-150x150.png",
         "group": "Back channel",
-        "name": "Jago News 24_329",
-        "url": "https://iptvlive-beta.vercel.app/jago-news-24-329/index.m3u8"
+        "name": "Jago News 24_266",
+        "url": "https://iptvlive-beta.vercel.app/jago-news-24-266/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pran-RFL-150x150.png",
         "group": "Back channel",
-        "name": "Jago News 24_330",
-        "url": "https://iptvlive-beta.vercel.app/jago-news-24-330/index.m3u8"
+        "name": "Jago News 24_267",
+        "url": "https://iptvlive-beta.vercel.app/jago-news-24-267/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalsha-movies.png",
+        "group": "Back channel",
+        "name": "Jalsha Movies_268",
+        "url": "https://iptvlive-beta.vercel.app/jalsha-movies-268/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jamuna-150x150.jpg",
         "group": "Back channel",
-        "name": "Jamuna TV_333",
-        "url": "https://iptvlive-beta.vercel.app/jamuna-tv-333/index.m3u8"
+        "name": "Jamuna TV_271",
+        "url": "https://iptvlive-beta.vercel.app/jamuna-tv-271/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jamuna-150x150.jpg",
         "group": "Back channel",
-        "name": "Jamuna TV_334",
-        "url": "https://iptvlive-beta.vercel.app/jamuna-tv-334/index.m3u8"
+        "name": "Jamuna TV_272",
+        "url": "https://iptvlive-beta.vercel.app/jamuna-tv-272/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jeevan-tv.png",
         "group": "Back channel",
-        "name": "Jeevan TV_335",
-        "url": "https://iptvlive-beta.vercel.app/jeevan-tv-335/index.m3u8"
+        "name": "Jeevan TV_273",
+        "url": "https://iptvlive-beta.vercel.app/jeevan-tv-273/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kairali-tv.png",
         "group": "Back channel",
-        "name": "Kairali TV_336",
-        "url": "https://iptvlive-beta.vercel.app/kairali-tv-336/index.m3u8"
+        "name": "Kairali TV_274",
+        "url": "https://iptvlive-beta.vercel.app/kairali-tv-274/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kairali-we.png",
+        "group": "Back channel",
+        "name": "Kairali We_275",
+        "url": "https://iptvlive-beta.vercel.app/kairali-we-275/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kalaignar-murasu.png",
         "group": "Back channel",
-        "name": "Kalaignar Murasu_337",
-        "url": "https://iptvlive-beta.vercel.app/kalaignar-murasu-337/index.m3u8"
+        "name": "Kalaignar Murasu_276",
+        "url": "https://iptvlive-beta.vercel.app/kalaignar-murasu-276/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kappa-tv.png",
         "group": "Back channel",
-        "name": "Kappa TV (Music)_338",
-        "url": "https://iptvlive-beta.vercel.app/kappa-tv-music-338/index.m3u8"
+        "name": "Kappa TV (Music)_277",
+        "url": "https://iptvlive-beta.vercel.app/kappa-tv-music-277/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kappa-tv.png",
+        "group": "Back channel",
+        "name": "Kappa TV (Music)_278",
+        "url": "https://iptvlive-beta.vercel.app/kappa-tv-music-278/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kerala-vision.png",
+        "group": "Back channel",
+        "name": "Kerala Vision_279",
+        "url": "https://iptvlive-beta.vercel.app/kerala-vision-279/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/khushboo-bangla.png",
         "group": "Back channel",
-        "name": "Khushboo Bangla_339",
-        "url": "https://iptvlive-beta.vercel.app/khushboo-bangla-339/index.m3u8"
+        "name": "Khushboo Bangla_280",
+        "url": "https://iptvlive-beta.vercel.app/khushboo-bangla-280/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/khushboo-bangla.png",
         "group": "Back channel",
-        "name": "Khushboo Bangla_340",
-        "url": "https://iptvlive-beta.vercel.app/khushboo-bangla-340/index.m3u8"
+        "name": "Khushboo Bangla_281",
+        "url": "https://iptvlive-beta.vercel.app/khushboo-bangla-281/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/maasranga-tv.png",
         "group": "Back channel",
-        "name": "Maasranga TV_341",
-        "url": "https://iptvlive-beta.vercel.app/maasranga-tv-341/index.m3u8"
+        "name": "Maasranga TV_282",
+        "url": "https://iptvlive-beta.vercel.app/maasranga-tv-282/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/maasranga-tv.png",
         "group": "Back channel",
-        "name": "Maasranga TV_342",
-        "url": "https://iptvlive-beta.vercel.app/maasranga-tv-342/index.m3u8"
+        "name": "Maasranga TV_283",
+        "url": "https://iptvlive-beta.vercel.app/maasranga-tv-283/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/maasranga-tv.png",
         "group": "Back channel",
-        "name": "Maasranga TV_343",
-        "url": "https://iptvlive-beta.vercel.app/maasranga-tv-343/index.m3u8"
+        "name": "Maasranga TV_284",
+        "url": "https://iptvlive-beta.vercel.app/maasranga-tv-284/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/madhimugam-tv-576p-80c57e3e48.png",
         "group": "Back channel",
-        "name": "Madhimugam TV_345",
-        "url": "https://iptvlive-beta.vercel.app/madhimugam-tv-345/index.m3u8"
+        "name": "Madhimugam TV_286",
+        "url": "https://iptvlive-beta.vercel.app/madhimugam-tv-286/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mahaa-max.png",
         "group": "Back channel",
-        "name": "Mahaa Max_346",
-        "url": "https://iptvlive-beta.vercel.app/mahaa-max-346/index.m3u8"
+        "name": "Mahaa Max_287",
+        "url": "https://iptvlive-beta.vercel.app/mahaa-max-287/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/makkahtv-150x150.jpg",
         "group": "Back channel",
-        "name": "Makkah TV_347",
-        "url": "https://iptvlive-beta.vercel.app/makkah-tv-347/index.m3u8"
+        "name": "Makkah TV_288",
+        "url": "https://iptvlive-beta.vercel.app/makkah-tv-288/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/manoranjan-movies-576p-96091e62b1.png",
         "group": "Back channel",
-        "name": "Manoranjan Movies_348",
-        "url": "https://iptvlive-beta.vercel.app/manoranjan-movies-348/index.m3u8"
+        "name": "Manoranjan Movies_289",
+        "url": "https://iptvlive-beta.vercel.app/manoranjan-movies-289/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/manoranjan-prime.png",
         "group": "Back channel",
-        "name": "Manoranjan Prime_349",
-        "url": "https://iptvlive-beta.vercel.app/manoranjan-prime-349/index.m3u8"
+        "name": "Manoranjan Prime_290",
+        "url": "https://iptvlive-beta.vercel.app/manoranjan-prime-290/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mazhavil-manorama.png",
         "group": "Back channel",
-        "name": "Mazhavil Manorama_351",
-        "url": "https://iptvlive-beta.vercel.app/mazhavil-manorama-351/index.m3u8"
+        "name": "Mazhavil Manorama_292",
+        "url": "https://iptvlive-beta.vercel.app/mazhavil-manorama-292/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mazhavil-manorama.png",
         "group": "Back channel",
-        "name": "Mazhavil Manorama_352",
-        "url": "https://iptvlive-beta.vercel.app/mazhavil-manorama-352/index.m3u8"
+        "name": "Mazhavil Manorama_293",
+        "url": "https://iptvlive-beta.vercel.app/mazhavil-manorama-293/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mazhavil-manorama.png",
         "group": "Back channel",
-        "name": "Mazhavil Manorama_353",
-        "url": "https://iptvlive-beta.vercel.app/mazhavil-manorama-353/index.m3u8"
+        "name": "Mazhavil Manorama_294",
+        "url": "https://iptvlive-beta.vercel.app/mazhavil-manorama-294/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mazhavil-manorama.png",
+        "group": "Back channel",
+        "name": "Mazhavil Manorama_295",
+        "url": "https://iptvlive-beta.vercel.app/mazhavil-manorama-295/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mbc-bollywood.png",
         "group": "Back channel",
-        "name": "MBC Bollywood_354",
-        "url": "https://iptvlive-beta.vercel.app/mbc-bollywood-354/index.m3u8"
+        "name": "MBC Bollywood_296",
+        "url": "https://iptvlive-beta.vercel.app/mbc-bollywood-296/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/me-tv.png",
         "group": "Back channel",
-        "name": "ME TV_355",
-        "url": "https://iptvlive-beta.vercel.app/me-tv-355/index.m3u8"
+        "name": "ME TV_297",
+        "url": "https://iptvlive-beta.vercel.app/me-tv-297/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/me-tv.png",
         "group": "Back channel",
-        "name": "ME TV_356",
-        "url": "https://iptvlive-beta.vercel.app/me-tv-356/index.m3u8"
+        "name": "ME TV_298",
+        "url": "https://iptvlive-beta.vercel.app/me-tv-298/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/me-tv.png",
         "group": "Back channel",
-        "name": "ME TV_357",
-        "url": "https://iptvlive-beta.vercel.app/me-tv-357/index.m3u8"
+        "name": "ME TV_299",
+        "url": "https://iptvlive-beta.vercel.app/me-tv-299/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/Medina-Live-150x150.jpg",
         "group": "Back channel",
-        "name": "Medina Live_359",
-        "url": "https://iptvlive-beta.vercel.app/medina-live-359/index.m3u8"
+        "name": "Medina Live_301",
+        "url": "https://iptvlive-beta.vercel.app/medina-live-301/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one-dil-se.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one-dil-se.svg",
         "group": "Back channel",
-        "name": "MH One Dil Se_360",
-        "url": "https://iptvlive-beta.vercel.app/mh-one-dil-se-360/index.m3u8"
+        "name": "MH One Dil Se_302",
+        "url": "https://iptvlive-beta.vercel.app/mh-one-dil-se-302/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one-movies.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one-movies.svg",
         "group": "Back channel",
-        "name": "MH One Movies_361",
-        "url": "https://iptvlive-beta.vercel.app/mh-one-movies-361/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh1-prime.png",
-        "group": "Back channel",
-        "name": "MH One Prime_362",
-        "url": "https://iptvlive-beta.vercel.app/mh-one-prime-362/index.m3u8"
+        "name": "MH One Movies_303",
+        "url": "https://iptvlive-beta.vercel.app/mh-one-movies-303/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mk-six.png",
         "group": "Back channel",
-        "name": "MK Six_363",
-        "url": "https://iptvlive-beta.vercel.app/mk-six-363/index.m3u8"
+        "name": "MK Six_304",
+        "url": "https://iptvlive-beta.vercel.app/mk-six-304/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mntv-tamil.png",
         "group": "Back channel",
-        "name": "MNTV (Tamil)_364",
-        "url": "https://iptvlive-beta.vercel.app/mntv-tamil-364/index.m3u8"
+        "name": "MNTV (Tamil)_305",
+        "url": "https://iptvlive-beta.vercel.app/mntv-tamil-305/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mohona-150x150.jpg",
         "group": "Back channel",
-        "name": "Mohona TV_365",
-        "url": "https://iptvlive-beta.vercel.app/mohona-tv-365/index.m3u8"
+        "name": "Mohona TV_306",
+        "url": "https://iptvlive-beta.vercel.app/mohona-tv-306/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/moviebangla-150x150.jpg",
         "group": "Back channel",
-        "name": "Movie Bangla_368",
-        "url": "https://iptvlive-beta.vercel.app/movie-bangla-368/index.m3u8"
+        "name": "Movie Bangla_309",
+        "url": "https://iptvlive-beta.vercel.app/movie-bangla-309/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/moviebangla-150x150.jpg",
         "group": "Back channel",
-        "name": "Movie Bangla_369",
-        "url": "https://iptvlive-beta.vercel.app/movie-bangla-369/index.m3u8"
+        "name": "Movie Bangla_310",
+        "url": "https://iptvlive-beta.vercel.app/movie-bangla-310/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/music-india.png",
         "group": "Back channel",
-        "name": "Music India_370",
-        "url": "https://iptvlive-beta.vercel.app/music-india-370/index.m3u8"
+        "name": "Music India_311",
+        "url": "https://iptvlive-beta.vercel.app/music-india-311/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mytv-150x150.jpg",
         "group": "Back channel",
-        "name": "My TV_371",
-        "url": "https://iptvlive-beta.vercel.app/my-tv-371/index.m3u8"
+        "name": "My TV_312",
+        "url": "https://iptvlive-beta.vercel.app/my-tv-312/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mytv-150x150.jpg",
         "group": "Back channel",
-        "name": "My TV_373",
-        "url": "https://iptvlive-beta.vercel.app/my-tv-373/index.m3u8"
+        "name": "My TV_314",
+        "url": "https://iptvlive-beta.vercel.app/my-tv-314/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mytv-150x150.jpg",
         "group": "Back channel",
-        "name": "My TV_374",
-        "url": "https://iptvlive-beta.vercel.app/my-tv-374/index.m3u8"
+        "name": "My TV_315",
+        "url": "https://iptvlive-beta.vercel.app/my-tv-315/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/national-geographic.png",
         "group": "Back channel",
-        "name": "Nat Geo TV_376",
-        "url": "https://iptvlive-beta.vercel.app/nat-geo-tv-376/index.m3u8"
+        "name": "Nat Geo TV_317",
+        "url": "https://iptvlive-beta.vercel.app/nat-geo-tv-317/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/news-24.png",
         "group": "Back channel",
-        "name": "News 24_377",
-        "url": "https://iptvlive-beta.vercel.app/news-24-377/index.m3u8"
+        "name": "News 24_318",
+        "url": "https://iptvlive-beta.vercel.app/news-24-318/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/news-24.png",
         "group": "Back channel",
-        "name": "News 24_378",
-        "url": "https://iptvlive-beta.vercel.app/news-24-378/index.m3u8"
+        "name": "News 24_319",
+        "url": "https://iptvlive-beta.vercel.app/news-24-319/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/news-24.png",
         "group": "Back channel",
-        "name": "News 24_379",
-        "url": "https://iptvlive-beta.vercel.app/news-24-379/index.m3u8"
+        "name": "News 24_320",
+        "url": "https://iptvlive-beta.vercel.app/news-24-320/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/news-24.png",
         "group": "Back channel",
-        "name": "News 24_380",
-        "url": "https://iptvlive-beta.vercel.app/news-24-380/index.m3u8"
+        "name": "News 24_321",
+        "url": "https://iptvlive-beta.vercel.app/news-24-321/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nh-bollyflix.png",
         "group": "Back channel",
-        "name": "NH BollyFlix_382",
-        "url": "https://iptvlive-beta.vercel.app/nh-bollyflix-382/index.m3u8"
+        "name": "NH BollyFlix_323",
+        "url": "https://iptvlive-beta.vercel.app/nh-bollyflix-323/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nh-bollyflix.png",
         "group": "Back channel",
-        "name": "NH BollyFlix_383",
-        "url": "https://iptvlive-beta.vercel.app/nh-bollyflix-383/index.m3u8"
+        "name": "NH BollyFlix_324",
+        "url": "https://iptvlive-beta.vercel.app/nh-bollyflix-324/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nh-bollyflix.png",
         "group": "Back channel",
-        "name": "NH BollyFlix_384",
-        "url": "https://iptvlive-beta.vercel.app/nh-bollyflix-384/index.m3u8"
+        "name": "NH BollyFlix_325",
+        "url": "https://iptvlive-beta.vercel.app/nh-bollyflix-325/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nh-bollyraga.png",
         "group": "Back channel",
-        "name": "NH BollyRaga_385",
-        "url": "https://iptvlive-beta.vercel.app/nh-bollyraga-385/index.m3u8"
+        "name": "NH BollyRaga_326",
+        "url": "https://iptvlive-beta.vercel.app/nh-bollyraga-326/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nh-bollyraga.png",
         "group": "Back channel",
-        "name": "NH BollyRaga_386",
-        "url": "https://iptvlive-beta.vercel.app/nh-bollyraga-386/index.m3u8"
+        "name": "NH BollyRaga_327",
+        "url": "https://iptvlive-beta.vercel.app/nh-bollyraga-327/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntv.png",
         "group": "Back channel",
-        "name": "NTV_387",
-        "url": "https://iptvlive-beta.vercel.app/ntv-387/index.m3u8"
+        "name": "NTV_328",
+        "url": "https://iptvlive-beta.vercel.app/ntv-328/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntv.png",
         "group": "Back channel",
-        "name": "NTV_389",
-        "url": "https://iptvlive-beta.vercel.app/ntv-389/index.m3u8"
+        "name": "NTV_330",
+        "url": "https://iptvlive-beta.vercel.app/ntv-330/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntv.png",
         "group": "Back channel",
-        "name": "NTV_390",
-        "url": "https://iptvlive-beta.vercel.app/ntv-390/index.m3u8"
+        "name": "NTV_331",
+        "url": "https://iptvlive-beta.vercel.app/ntv-331/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntv.png",
         "group": "Back channel",
-        "name": "NTV_391",
-        "url": "https://iptvlive-beta.vercel.app/ntv-391/index.m3u8"
+        "name": "NTV_332",
+        "url": "https://iptvlive-beta.vercel.app/ntv-332/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntv-europe.png",
         "group": "Back channel",
-        "name": "NTV Europe_392",
-        "url": "https://iptvlive-beta.vercel.app/ntv-europe-392/index.m3u8"
+        "name": "NTV Europe_333",
+        "url": "https://iptvlive-beta.vercel.app/ntv-europe-333/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pardesi-tv.png",
         "group": "Back channel",
-        "name": "Pardesi TV_393",
-        "url": "https://iptvlive-beta.vercel.app/pardesi-tv-393/index.m3u8"
+        "name": "Pardesi TV_334",
+        "url": "https://iptvlive-beta.vercel.app/pardesi-tv-334/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-tv.png",
         "group": "Back channel",
-        "name": "Pitaara TV_394",
-        "url": "https://iptvlive-beta.vercel.app/pitaara-tv-394/index.m3u8"
+        "name": "Pitaara TV_335",
+        "url": "https://iptvlive-beta.vercel.app/pitaara-tv-335/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-tv.png",
         "group": "Back channel",
-        "name": "Pitaara TV_395",
-        "url": "https://iptvlive-beta.vercel.app/pitaara-tv-395/index.m3u8"
+        "name": "Pitaara TV_336",
+        "url": "https://iptvlive-beta.vercel.app/pitaara-tv-336/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-tv.png",
         "group": "Back channel",
-        "name": "Pitaara TV_396",
-        "url": "https://iptvlive-beta.vercel.app/pitaara-tv-396/index.m3u8"
+        "name": "Pitaara TV_337",
+        "url": "https://iptvlive-beta.vercel.app/pitaara-tv-337/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pocket-films.png",
         "group": "Back channel",
-        "name": "Pocket Films_397",
-        "url": "https://iptvlive-beta.vercel.app/pocket-films-397/index.m3u8"
+        "name": "Pocket Films_338",
+        "url": "https://iptvlive-beta.vercel.app/pocket-films-338/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/probashi-tv.png",
         "group": "Back channel",
-        "name": "Probashi TV_399",
-        "url": "https://iptvlive-beta.vercel.app/probashi-tv-399/index.m3u8"
+        "name": "Probashi TV_340",
+        "url": "https://iptvlive-beta.vercel.app/probashi-tv-340/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ptc-music.png",
         "group": "Back channel",
-        "name": "PTC Music_400",
-        "url": "https://iptvlive-beta.vercel.app/ptc-music-400/index.m3u8"
+        "name": "PTC Music_341",
+        "url": "https://iptvlive-beta.vercel.app/ptc-music-341/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ptc-punjabi.png",
         "group": "Back channel",
-        "name": "PTC Punjabi_401",
-        "url": "https://iptvlive-beta.vercel.app/ptc-punjabi-401/index.m3u8"
+        "name": "PTC Punjabi_342",
+        "url": "https://iptvlive-beta.vercel.app/ptc-punjabi-342/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ptc-punjabi.png",
+        "group": "Back channel",
+        "name": "PTC Punjabi_343",
+        "url": "https://iptvlive-beta.vercel.app/ptc-punjabi-343/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/public-movies.png",
         "group": "Back channel",
-        "name": "Public Movies_402",
-        "url": "https://iptvlive-beta.vercel.app/public-movies-402/index.m3u8"
+        "name": "Public Movies_344",
+        "url": "https://iptvlive-beta.vercel.app/public-movies-344/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/public-music.png",
         "group": "Back channel",
-        "name": "Public Music_403",
-        "url": "https://iptvlive-beta.vercel.app/public-music-403/index.m3u8"
+        "name": "Public Music_345",
+        "url": "https://iptvlive-beta.vercel.app/public-music-345/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/punjabi-hits.png",
+        "group": "Back channel",
+        "name": "Punjabi Hits_346",
+        "url": "https://iptvlive-beta.vercel.app/punjabi-hits-346/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/punjabi-shorts.png",
+        "group": "Back channel",
+        "name": "Punjabi Shorts_347",
+        "url": "https://iptvlive-beta.vercel.app/punjabi-shorts-347/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/q-tv.png",
         "group": "Back channel",
-        "name": "Q TV_404",
-        "url": "https://iptvlive-beta.vercel.app/q-tv-404/index.m3u8"
+        "name": "Q TV_348",
+        "url": "https://iptvlive-beta.vercel.app/q-tv-348/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/quran-tv.png",
         "group": "Back channel",
-        "name": "Quran TV_405",
-        "url": "https://iptvlive-beta.vercel.app/quran-tv-405/index.m3u8"
+        "name": "Quran TV_349",
+        "url": "https://iptvlive-beta.vercel.app/quran-tv-349/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/r-plus.png",
+        "group": "Back channel",
+        "name": "R Plus_350",
+        "url": "https://iptvlive-beta.vercel.app/r-plus-350/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/r-plus-gold.png",
         "group": "Back channel",
-        "name": "R Plus Gold_406",
-        "url": "https://iptvlive-beta.vercel.app/r-plus-gold-406/index.m3u8"
+        "name": "R Plus Gold_351",
+        "url": "https://iptvlive-beta.vercel.app/r-plus-gold-351/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/r-plus-gold.png",
         "group": "Back channel",
-        "name": "R Plus Gold_407",
-        "url": "https://iptvlive-beta.vercel.app/r-plus-gold-407/index.m3u8"
+        "name": "R Plus Gold_352",
+        "url": "https://iptvlive-beta.vercel.app/r-plus-gold-352/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/r-plus-gold.png",
         "group": "Back channel",
-        "name": "R Plus Gold_408",
-        "url": "https://iptvlive-beta.vercel.app/r-plus-gold-408/index.m3u8"
+        "name": "R Plus Gold_353",
+        "url": "https://iptvlive-beta.vercel.app/r-plus-gold-353/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/r-plus-gold.png",
+        "group": "Back channel",
+        "name": "R Plus Gold_354",
+        "url": "https://iptvlive-beta.vercel.app/r-plus-gold-354/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/raj-tv.png",
+        "group": "Back channel",
+        "name": "Raj TV_355",
+        "url": "https://iptvlive-beta.vercel.app/raj-tv-355/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rajdhani-tv.png",
         "group": "Back channel",
-        "name": "Rajdhani TV_409",
-        "url": "https://iptvlive-beta.vercel.app/rajdhani-tv-409/index.m3u8"
+        "name": "Rajdhani TV_356",
+        "url": "https://iptvlive-beta.vercel.app/rajdhani-tv-356/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ramdhenu.png",
         "group": "Back channel",
-        "name": "Ramdhenu_411",
-        "url": "https://iptvlive-beta.vercel.app/ramdhenu-411/index.m3u8"
+        "name": "Ramdhenu_357",
+        "url": "https://iptvlive-beta.vercel.app/ramdhenu-357/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rengoni.png",
         "group": "Back channel",
-        "name": "Rengoni_412",
-        "url": "https://iptvlive-beta.vercel.app/rengoni-412/index.m3u8"
+        "name": "Rengoni_358",
+        "url": "https://iptvlive-beta.vercel.app/rengoni-358/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rongeen-tv.png",
         "group": "Back channel",
-        "name": "Rongeen TV_413",
-        "url": "https://iptvlive-beta.vercel.app/rongeen-tv-413/index.m3u8"
+        "name": "Rongeen TV_359",
+        "url": "https://iptvlive-beta.vercel.app/rongeen-tv-359/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rongeen-tv.png",
         "group": "Back channel",
-        "name": "Rongeen TV_414",
-        "url": "https://iptvlive-beta.vercel.app/rongeen-tv-414/index.m3u8"
+        "name": "Rongeen TV_360",
+        "url": "https://iptvlive-beta.vercel.app/rongeen-tv-360/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rtvbd-150x150.jpg",
         "group": "Back channel",
-        "name": "RTV_416",
-        "url": "https://iptvlive-beta.vercel.app/rtv-416/index.m3u8"
+        "name": "RTV_362",
+        "url": "https://iptvlive-beta.vercel.app/rtv-362/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rtvbd-150x150.jpg",
         "group": "Back channel",
-        "name": "RTV_418",
-        "url": "https://iptvlive-beta.vercel.app/rtv-418/index.m3u8"
+        "name": "RTV_364",
+        "url": "https://iptvlive-beta.vercel.app/rtv-364/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rtvbd-150x150.jpg",
         "group": "Back channel",
-        "name": "RTV_419",
-        "url": "https://iptvlive-beta.vercel.app/rtv-419/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rtvbd-150x150.jpg",
-        "group": "Back channel",
-        "name": "RTV_421",
-        "url": "https://iptvlive-beta.vercel.app/rtv-421/index.m3u8"
+        "name": "RTV_366",
+        "url": "https://iptvlive-beta.vercel.app/rtv-366/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ruposhi-bangla.png",
         "group": "Back channel",
-        "name": "Ruposhi Bangla_422",
-        "url": "https://iptvlive-beta.vercel.app/ruposhi-bangla-422/index.m3u8"
+        "name": "Ruposhi Bangla_368",
+        "url": "https://iptvlive-beta.vercel.app/ruposhi-bangla-368/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ruposhi-bangla.png",
         "group": "Back channel",
-        "name": "Ruposhi Bangla_423",
-        "url": "https://iptvlive-beta.vercel.app/ruposhi-bangla-423/index.m3u8"
+        "name": "Ruposhi Bangla_369",
+        "url": "https://iptvlive-beta.vercel.app/ruposhi-bangla-369/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ruposhi-bangla.png",
         "group": "Back channel",
-        "name": "Ruposhi Bangla_424",
-        "url": "https://iptvlive-beta.vercel.app/ruposhi-bangla-424/index.m3u8"
+        "name": "Ruposhi Bangla_370",
+        "url": "https://iptvlive-beta.vercel.app/ruposhi-bangla-370/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/satvs-150x150.jpg",
         "group": "Back channel",
-        "name": "SA TV_426",
-        "url": "https://iptvlive-beta.vercel.app/sa-tv-426/index.m3u8"
+        "name": "SA TV_372",
+        "url": "https://iptvlive-beta.vercel.app/sa-tv-372/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/satvs-150x150.jpg",
         "group": "Back channel",
-        "name": "SA TV_427",
-        "url": "https://iptvlive-beta.vercel.app/sa-tv-427/index.m3u8"
+        "name": "SA TV_373",
+        "url": "https://iptvlive-beta.vercel.app/sa-tv-373/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sana-plus.png",
         "group": "Back channel",
-        "name": "Sana Plus_430",
-        "url": "https://iptvlive-beta.vercel.app/sana-plus-430/index.m3u8"
+        "name": "Sana Plus_376",
+        "url": "https://iptvlive-beta.vercel.app/sana-plus-376/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sananda-64faf3c524.png",
         "group": "Back channel",
-        "name": "Sananda_431",
-        "url": "https://iptvlive-beta.vercel.app/sananda-431/index.m3u8"
+        "name": "Sananda_377",
+        "url": "https://iptvlive-beta.vercel.app/sananda-377/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sananda-64faf3c524.png",
         "group": "Back channel",
-        "name": "Sananda_432",
-        "url": "https://iptvlive-beta.vercel.app/sananda-432/index.m3u8"
+        "name": "Sananda_378",
+        "url": "https://iptvlive-beta.vercel.app/sananda-378/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sananda-64faf3c524.png",
         "group": "Back channel",
-        "name": "Sananda_433",
-        "url": "https://iptvlive-beta.vercel.app/sananda-433/index.m3u8"
+        "name": "Sananda_379",
+        "url": "https://iptvlive-beta.vercel.app/sananda-379/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sangeet-bangla.png",
         "group": "Back channel",
-        "name": "Sangeet Bangla_434",
-        "url": "https://iptvlive-beta.vercel.app/sangeet-bangla-434/index.m3u8"
+        "name": "Sangeet Bangla_380",
+        "url": "https://iptvlive-beta.vercel.app/sangeet-bangla-380/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sangeet-bangla.png",
         "group": "Back channel",
-        "name": "Sangeet Bangla_435",
-        "url": "https://iptvlive-beta.vercel.app/sangeet-bangla-435/index.m3u8"
+        "name": "Sangeet Bangla_381",
+        "url": "https://iptvlive-beta.vercel.app/sangeet-bangla-381/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sangeet-bangla.png",
+        "group": "Back channel",
+        "name": "Sangeet Bangla_382",
+        "url": "https://iptvlive-beta.vercel.app/sangeet-bangla-382/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shanson-tv-576p-3c01614e19.png",
         "group": "Back channel",
-        "name": "Shanson TV_436",
-        "url": "https://iptvlive-beta.vercel.app/shanson-tv-436/index.m3u8"
+        "name": "Shanson TV_383",
+        "url": "https://iptvlive-beta.vercel.app/shanson-tv-383/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shanson-tv-576p-3c01614e19.png",
         "group": "Back channel",
-        "name": "Shanson TV_437",
-        "url": "https://iptvlive-beta.vercel.app/shanson-tv-437/index.m3u8"
+        "name": "Shanson TV_384",
+        "url": "https://iptvlive-beta.vercel.app/shanson-tv-384/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shemaroo-bollywood.png",
         "group": "Back channel",
-        "name": "Shemaroo Bollywood_438",
-        "url": "https://iptvlive-beta.vercel.app/shemaroo-bollywood-438/index.m3u8"
+        "name": "Shemaroo Bollywood_385",
+        "url": "https://iptvlive-beta.vercel.app/shemaroo-bollywood-385/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shemaroo-josh.png",
         "group": "Back channel",
-        "name": "Shemaroo Josh_439",
-        "url": "https://iptvlive-beta.vercel.app/shemaroo-josh-439/index.m3u8"
+        "name": "Shemaroo Josh_386",
+        "url": "https://iptvlive-beta.vercel.app/shemaroo-josh-386/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shemaroo-josh.png",
+        "group": "Back channel",
+        "name": "Shemaroo Josh_387",
+        "url": "https://iptvlive-beta.vercel.app/shemaroo-josh-387/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shubh-cinema-tv.png",
         "group": "Back channel",
-        "name": "Shubh Cinema TV_440",
-        "url": "https://iptvlive-beta.vercel.app/shubh-cinema-tv-440/index.m3u8"
+        "name": "Shubh Cinema TV_388",
+        "url": "https://iptvlive-beta.vercel.app/shubh-cinema-tv-388/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/somoy-tv.png",
         "group": "Back channel",
-        "name": "Somoy TV_441",
-        "url": "https://iptvlive-beta.vercel.app/somoy-tv-441/index.m3u8"
+        "name": "Somoy TV_389",
+        "url": "https://iptvlive-beta.vercel.app/somoy-tv-389/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/somoy-tv.png",
         "group": "Back channel",
-        "name": "Somoy TV_442",
-        "url": "https://iptvlive-beta.vercel.app/somoy-tv-442/index.m3u8"
+        "name": "Somoy TV_390",
+        "url": "https://iptvlive-beta.vercel.app/somoy-tv-390/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-aath.png",
+        "group": "Back channel",
+        "name": "Sony Aath_391",
+        "url": "https://iptvlive-beta.vercel.app/sony-aath-391/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/south-station.png",
         "group": "Back channel",
-        "name": "South Station_443",
-        "url": "https://iptvlive-beta.vercel.app/south-station-443/index.m3u8"
+        "name": "South Station_392",
+        "url": "https://iptvlive-beta.vercel.app/south-station-392/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/srk.png",
         "group": "Back channel",
-        "name": "SRK_444",
-        "url": "https://iptvlive-beta.vercel.app/srk-444/index.m3u8"
+        "name": "SRK_393",
+        "url": "https://iptvlive-beta.vercel.app/srk-393/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-movies-select-37627406.png",
+        "group": "Back channel",
+        "name": "Star Movies Select_395",
+        "url": "https://iptvlive-beta.vercel.app/star-movies-select-395/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-2.png",
         "group": "Back channel",
-        "name": "Star Sports 2_446",
-        "url": "https://iptvlive-beta.vercel.app/star-sports-2-446/index.m3u8"
+        "name": "Star Sports 2_396",
+        "url": "https://iptvlive-beta.vercel.app/star-sports-2-396/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/studio-yuva.png",
         "group": "Back channel",
-        "name": "Studio Yuva_447",
-        "url": "https://iptvlive-beta.vercel.app/studio-yuva-447/index.m3u8"
+        "name": "Studio Yuva_397",
+        "url": "https://iptvlive-beta.vercel.app/studio-yuva-397/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/suriyan-tv.png",
         "group": "Back channel",
-        "name": "Suriyan TV_448",
-        "url": "https://iptvlive-beta.vercel.app/suriyan-tv-448/index.m3u8"
+        "name": "Suriyan TV_398",
+        "url": "https://iptvlive-beta.vercel.app/suriyan-tv-398/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tabbar-hits.png",
+        "group": "Back channel",
+        "name": "Tabbar Hits_400",
+        "url": "https://iptvlive-beta.vercel.app/tabbar-hits-400/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/the-movie-club.png",
+        "group": "Back channel",
+        "name": "The Movie Club_401",
+        "url": "https://iptvlive-beta.vercel.app/the-movie-club-401/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tlc-india.png",
+        "group": "Back channel",
+        "name": "TLC (India)_402",
+        "url": "https://iptvlive-beta.vercel.app/tlc-india-402/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/u-bangla.png",
         "group": "Back channel",
-        "name": "U Bangla_453",
-        "url": "https://iptvlive-beta.vercel.app/u-bangla-453/index.m3u8"
+        "name": "U Bangla_404",
+        "url": "https://iptvlive-beta.vercel.app/u-bangla-404/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ultimate-tv.png",
         "group": "Back channel",
-        "name": "Ultimate TV_454",
-        "url": "https://iptvlive-beta.vercel.app/ultimate-tv-454/index.m3u8"
+        "name": "Ultimate TV_405",
+        "url": "https://iptvlive-beta.vercel.app/ultimate-tv-405/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/utv-palakkad.png",
         "group": "Back channel",
-        "name": "UTV Palakkad_455",
-        "url": "https://iptvlive-beta.vercel.app/utv-palakkad-455/index.m3u8"
+        "name": "UTV Palakkad_406",
+        "url": "https://iptvlive-beta.vercel.app/utv-palakkad-406/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/vanitha-tv.png",
         "group": "Back channel",
-        "name": "Vanitha TV_456",
-        "url": "https://iptvlive-beta.vercel.app/vanitha-tv-456/index.m3u8"
+        "name": "Vanitha TV_407",
+        "url": "https://iptvlive-beta.vercel.app/vanitha-tv-407/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/vendhar-tv.png",
         "group": "Back channel",
-        "name": "Vendhar TV_457",
-        "url": "https://iptvlive-beta.vercel.app/vendhar-tv-457/index.m3u8"
+        "name": "Vendhar TV_408",
+        "url": "https://iptvlive-beta.vercel.app/vendhar-tv-408/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bangla.png",
         "group": "Back channel",
-        "name": "Zee Bangla_459",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-459/index.m3u8"
+        "name": "Zee Bangla_410",
+        "url": "https://iptvlive-beta.vercel.app/zee-bangla-410/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bangla.png",
         "group": "Back channel",
-        "name": "Zee Bangla_460",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-460/index.m3u8"
+        "name": "Zee Bangla_411",
+        "url": "https://iptvlive-beta.vercel.app/zee-bangla-411/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bangla.png",
         "group": "Back channel",
-        "name": "Zee Bangla_461",
-        "url": "https://iptvlive-beta.vercel.app/zee-bangla-461/index.m3u8"
+        "name": "Zee Bangla_412",
+        "url": "https://iptvlive-beta.vercel.app/zee-bangla-412/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-cinema.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bangla.png",
         "group": "Back channel",
-        "name": "Zee Cinema_464",
-        "url": "https://iptvlive-beta.vercel.app/zee-cinema-464/index.m3u8"
+        "name": "Zee Bangla_413",
+        "url": "https://iptvlive-beta.vercel.app/zee-bangla-413/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-tamil.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-telugu.png",
         "group": "Back channel",
-        "name": "Zee Tamil_465",
-        "url": "https://iptvlive-beta.vercel.app/zee-tamil-465/index.m3u8"
+        "name": "Zee Telugu_415",
+        "url": "https://iptvlive-beta.vercel.app/zee-telugu-415/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-zee-tv-b659c984ad.png",
         "group": "Back channel",
-        "name": "Zee TV_466",
-        "url": "https://iptvlive-beta.vercel.app/zee-tv-466/index.m3u8"
+        "name": "Zee TV_416",
+        "url": "https://iptvlive-beta.vercel.app/zee-tv-416/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-zee-tv-b659c984ad.png",
+        "group": "Back channel",
+        "name": "Zee TV_417",
+        "url": "https://iptvlive-beta.vercel.app/zee-tv-417/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zoom-tv.png",
         "group": "Back channel",
-        "name": "Zoom_467",
-        "url": "https://iptvlive-beta.vercel.app/zoom-467/index.m3u8"
+        "name": "Zoom_418",
+        "url": "https://iptvlive-beta.vercel.app/zoom-418/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/AljazeeraTV-150x150.jpg",
         "group": "Back channel",
-        "name": "Al Jazeera_469",
-        "url": "https://iptvlive-beta.vercel.app/al-jazeera-469/index.m3u8"
+        "name": "Al Jazeera_420",
+        "url": "https://iptvlive-beta.vercel.app/al-jazeera-420/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/Anandatvupdate-150x150.jpg",
         "group": "Back channel",
-        "name": "Ananda TV_470",
-        "url": "https://iptvlive-beta.vercel.app/ananda-tv-470/index.m3u8"
+        "name": "Ananda TV_421",
+        "url": "https://iptvlive-beta.vercel.app/ananda-tv-421/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asiantv-150x150.jpg",
         "group": "Back channel",
-        "name": "Asian TV_471",
-        "url": "https://iptvlive-beta.vercel.app/asian-tv-471/index.m3u8"
+        "name": "Asian TV_422",
+        "url": "https://iptvlive-beta.vercel.app/asian-tv-422/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla1-150x150.jpg",
         "group": "Back channel",
-        "name": "ATN Bangla_472",
-        "url": "https://iptvlive-beta.vercel.app/atn-bangla-472/index.m3u8"
+        "name": "ATN Bangla_423",
+        "url": "https://iptvlive-beta.vercel.app/atn-bangla-423/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atnbanglauk11-150x150.jpg",
         "group": "Back channel",
-        "name": "ATN Bangla UK_473",
-        "url": "https://iptvlive-beta.vercel.app/atn-bangla-uk-473/index.m3u8"
+        "name": "ATN Bangla UK_424",
+        "url": "https://iptvlive-beta.vercel.app/atn-bangla-uk-424/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news.jpg",
         "group": "Back channel",
-        "name": "ATN News_474",
-        "url": "https://iptvlive-beta.vercel.app/atn-news-474/index.m3u8"
+        "name": "ATN News_425",
+        "url": "https://iptvlive-beta.vercel.app/atn-news-425/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/BoishakhiTV-150x1501.jpg",
         "group": "Back channel",
-        "name": "Boishakhi TV_475",
-        "url": "https://iptvlive-beta.vercel.app/boishakhi-tv-475/index.m3u8"
+        "name": "Boishakhi TV_426",
+        "url": "https://iptvlive-beta.vercel.app/boishakhi-tv-426/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/btvctg.png",
         "group": "Back channel",
-        "name": "BTV National_476",
-        "url": "https://iptvlive-beta.vercel.app/btv-national-476/index.m3u8"
+        "name": "BTV National_427",
+        "url": "https://iptvlive-beta.vercel.app/btv-national-427/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/btv-news--150x150.jpg",
         "group": "Back channel",
-        "name": "BTV News_477",
-        "url": "https://iptvlive-beta.vercel.app/btv-news-477/index.m3u8"
+        "name": "BTV News_428",
+        "url": "https://iptvlive-beta.vercel.app/btv-news-428/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/CGTN_Doc-150x150.png",
         "group": "Back channel",
-        "name": "CGTN Documentary_478",
-        "url": "https://iptvlive-beta.vercel.app/cgtn-documentary-478/index.m3u8"
+        "name": "CGTN Documentary_429",
+        "url": "https://iptvlive-beta.vercel.app/cgtn-documentary-429/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/Channel1Bangladesh-1-150x150.png",
         "group": "Back channel",
-        "name": "Channel 1_479",
-        "url": "https://iptvlive-beta.vercel.app/channel-1-479/index.m3u8"
+        "name": "Channel 1_430",
+        "url": "https://iptvlive-beta.vercel.app/channel-1-430/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel16-150x150.jpeg",
         "group": "Back channel",
-        "name": "Channel 16_480",
-        "url": "https://iptvlive-beta.vercel.app/channel-16-480/index.m3u8"
+        "name": "Channel 16_431",
+        "url": "https://iptvlive-beta.vercel.app/channel-16-431/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel24-150x150.jpg",
         "group": "Back channel",
-        "name": "Channel 24_481",
-        "url": "https://iptvlive-beta.vercel.app/channel-24-481/index.m3u8"
+        "name": "Channel 24_432",
+        "url": "https://iptvlive-beta.vercel.app/channel-24-432/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ch9-150x150.jpg",
         "group": "Back channel",
-        "name": "Channel 9_482",
-        "url": "https://iptvlive-beta.vercel.app/channel-9-482/index.m3u8"
+        "name": "Channel 9_433",
+        "url": "https://iptvlive-beta.vercel.app/channel-9-433/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channelsukup.jpg",
         "group": "Back channel",
-        "name": "Channel S UK_483",
-        "url": "https://iptvlive-beta.vercel.app/channel-s-uk-483/index.m3u8"
+        "name": "Channel S UK_434",
+        "url": "https://iptvlive-beta.vercel.app/channel-s-uk-434/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news-150x150.jpg",
         "group": "Back channel",
-        "name": "DBC News_484",
-        "url": "https://iptvlive-beta.vercel.app/dbc-news-484/index.m3u8"
+        "name": "DBC News_435",
+        "url": "https://iptvlive-beta.vercel.app/dbc-news-435/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/DESH-TV1-150x150.png",
         "group": "Back channel",
-        "name": "Desh TV_485",
-        "url": "https://iptvlive-beta.vercel.app/desh-tv-485/index.m3u8"
+        "name": "Desh TV_436",
+        "url": "https://iptvlive-beta.vercel.app/desh-tv-436/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/discoverpakistan-150x150.jpg",
         "group": "Back channel",
-        "name": "Discover Pakistan_486",
-        "url": "https://iptvlive-beta.vercel.app/discover-pakistan-486/index.m3u8"
+        "name": "Discover Pakistan_437",
+        "url": "https://iptvlive-beta.vercel.app/discover-pakistan-437/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dwnews-150x150.jpg",
         "group": "Back channel",
-        "name": "DW News_487",
-        "url": "https://iptvlive-beta.vercel.app/dw-news-487/index.m3u8"
+        "name": "DW News_438",
+        "url": "https://iptvlive-beta.vercel.app/dw-news-438/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekattors-150x150.jpg",
         "group": "Back channel",
-        "name": "Ekattor TV_488",
-        "url": "https://iptvlive-beta.vercel.app/ekattor-tv-488/index.m3u8"
+        "name": "Ekattor TV_439",
+        "url": "https://iptvlive-beta.vercel.app/ekattor-tv-439/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekhontv-150x150.jpg",
         "group": "Back channel",
-        "name": "Ekhon TV_489",
-        "url": "https://iptvlive-beta.vercel.app/ekhon-tv-489/index.m3u8"
+        "name": "Ekhon TV_440",
+        "url": "https://iptvlive-beta.vercel.app/ekhon-tv-440/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekusheytv-150x150.jpg",
         "group": "Back channel",
-        "name": "Ekushey TV_490",
-        "url": "https://iptvlive-beta.vercel.app/ekushey-tv-490/index.m3u8"
+        "name": "Ekushey TV_441",
+        "url": "https://iptvlive-beta.vercel.app/ekushey-tv-441/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/green-tv-150x150.jpg",
         "group": "Back channel",
-        "name": "Green TV_491",
-        "url": "https://iptvlive-beta.vercel.app/green-tv-491/index.m3u8"
+        "name": "Green TV_442",
+        "url": "https://iptvlive-beta.vercel.app/green-tv-442/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/inds-150x150.png",
         "group": "Back channel",
-        "name": "Independent TV_492",
-        "url": "https://iptvlive-beta.vercel.app/independent-tv-492/index.m3u8"
+        "name": "Independent TV_443",
+        "url": "https://iptvlive-beta.vercel.app/independent-tv-443/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/iontvuk.jpg",
         "group": "Back channel",
-        "name": "iON TV UK_493",
-        "url": "https://iptvlive-beta.vercel.app/ion-tv-uk-493/index.m3u8"
+        "name": "iON TV UK_444",
+        "url": "https://iptvlive-beta.vercel.app/ion-tv-uk-444/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/Islamictvbd-150x150.jpeg",
         "group": "Back channel",
-        "name": "Islamic TV_494",
-        "url": "https://iptvlive-beta.vercel.app/islamic-tv-494/index.m3u8"
+        "name": "Islamic TV_445",
+        "url": "https://iptvlive-beta.vercel.app/islamic-tv-445/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pran-RFL-150x150.png",
         "group": "Back channel",
-        "name": "Jago News 24_495",
-        "url": "https://iptvlive-beta.vercel.app/jago-news-24-495/index.m3u8"
+        "name": "Jago News 24_446",
+        "url": "https://iptvlive-beta.vercel.app/jago-news-24-446/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jamuna-150x150.jpg",
         "group": "Back channel",
-        "name": "Jamuna TV_496",
-        "url": "https://iptvlive-beta.vercel.app/jamuna-tv-496/index.m3u8"
+        "name": "Jamuna TV_447",
+        "url": "https://iptvlive-beta.vercel.app/jamuna-tv-447/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/MakkahLive-150x150.jpg",
         "group": "Back channel",
-        "name": "Makkah Live_497",
-        "url": "https://iptvlive-beta.vercel.app/makkah-live-497/index.m3u8"
+        "name": "Makkah Live_448",
+        "url": "https://iptvlive-beta.vercel.app/makkah-live-448/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/makkahtv-150x150.jpg",
         "group": "Back channel",
-        "name": "Makkah TV_498",
-        "url": "https://iptvlive-beta.vercel.app/makkah-tv-498/index.m3u8"
+        "name": "Makkah TV_449",
+        "url": "https://iptvlive-beta.vercel.app/makkah-tv-449/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/Medina-Live-150x150.jpg",
         "group": "Back channel",
-        "name": "Medina Live_499",
-        "url": "https://iptvlive-beta.vercel.app/medina-live-499/index.m3u8"
+        "name": "Medina Live_450",
+        "url": "https://iptvlive-beta.vercel.app/medina-live-450/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mohona-150x150.jpg",
         "group": "Back channel",
-        "name": "Mohona TV_500",
-        "url": "https://iptvlive-beta.vercel.app/mohona-tv-500/index.m3u8"
+        "name": "Mohona TV_451",
+        "url": "https://iptvlive-beta.vercel.app/mohona-tv-451/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/moviebangla-150x150.jpg",
         "group": "Back channel",
-        "name": "Movie Bangla_501",
-        "url": "https://iptvlive-beta.vercel.app/movie-bangla-501/index.m3u8"
+        "name": "Movie Bangla_452",
+        "url": "https://iptvlive-beta.vercel.app/movie-bangla-452/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mb-150x150.jpg",
         "group": "Back channel",
-        "name": "Music Bangla_502",
-        "url": "https://iptvlive-beta.vercel.app/music-bangla-502/index.m3u8"
+        "name": "Music Bangla_453",
+        "url": "https://iptvlive-beta.vercel.app/music-bangla-453/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mytv-150x150.jpg",
         "group": "Back channel",
-        "name": "My TV_503",
-        "url": "https://iptvlive-beta.vercel.app/my-tv-503/index.m3u8"
-    },
-    {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/NAN-TV-Logo-02-150x150.png",
-        "group": "Back channel",
-        "name": "NAN TV_504",
-        "url": "https://iptvlive-beta.vercel.app/nan-tv-504/index.m3u8"
+        "name": "My TV_454",
+        "url": "https://iptvlive-beta.vercel.app/my-tv-454/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nexustv-150x150.png",
         "group": "Back channel",
-        "name": "Nexus TV_505",
-        "url": "https://iptvlive-beta.vercel.app/nexus-tv-505/index.m3u8"
+        "name": "Nexus TV_455",
+        "url": "https://iptvlive-beta.vercel.app/nexus-tv-455/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntveurope-150x150.jpg",
         "group": "Back channel",
-        "name": "Ntv Europe_506",
-        "url": "https://iptvlive-beta.vercel.app/ntv-europe-506/index.m3u8"
+        "name": "Ntv Europe_456",
+        "url": "https://iptvlive-beta.vercel.app/ntv-europe-456/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/logo_50-150x150.png",
         "group": "Back channel",
-        "name": "Peace TV Bangla_507",
-        "url": "https://iptvlive-beta.vercel.app/peace-tv-bangla-507/index.m3u8"
+        "name": "Peace TV Bangla_457",
+        "url": "https://iptvlive-beta.vercel.app/peace-tv-bangla-457/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rtvbd-150x150.jpg",
         "group": "Back channel",
-        "name": "RTV_508",
-        "url": "https://iptvlive-beta.vercel.app/rtv-508/index.m3u8"
+        "name": "RTV_458",
+        "url": "https://iptvlive-beta.vercel.app/rtv-458/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/satvs-150x150.jpg",
         "group": "Back channel",
-        "name": "SA TV_509",
-        "url": "https://iptvlive-beta.vercel.app/sa-tv-509/index.m3u8"
+        "name": "SA TV_459",
+        "url": "https://iptvlive-beta.vercel.app/sa-tv-459/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images-150x150.jpeg",
         "group": "Back channel",
-        "name": "Star News_510",
-        "url": "https://iptvlive-beta.vercel.app/star-news-510/index.m3u8"
+        "name": "Star News_460",
+        "url": "https://iptvlive-beta.vercel.app/star-news-460/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/BTV.HD.png",
@@ -11451,13 +10851,13 @@
         "logo": "https://198.195.239.50/img/channels/SONIC.png",
         "group": "Kids",
         "name": "SONIC",
-        "url": "https://iptvlive-beta.vercel.app/sonic-2/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/sonic-1/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/SONY%20YAY.png",
         "group": "Kids",
         "name": "SONY YAY",
-        "url": "https://iptvlive-beta.vercel.app/sony-yay-3/index.m3u8"
+        "url": "https://iptvlive-beta.vercel.app/sony-yay-2/index.m3u8"
     },
     {
         "logo": "https://198.195.239.50/img/channels/DISCOVERY%20KIDS.png",
