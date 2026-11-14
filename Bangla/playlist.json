@@ -5142,7 +5142,7 @@
         "url": "https://iptvlive-beta.vercel.app/rupashi-bangla-tv/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shikor-tv-canada-ac43f0fa9e.png",
+        "logo": "",
         "group": "Bnagla",
         "name": "Shikor TV Canada",
         "url": "https://iptvlive-beta.vercel.app/shikor-tv-canada/index.m3u8"
@@ -5286,7 +5286,7 @@
         "url": "https://iptvlive-beta.vercel.app/tara-tv/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ten-tv-prime-ac43f0fa9e.png",
+        "logo": "",
         "group": "Sports",
         "name": "Ten TV Prime",
         "url": "https://iptvlive-beta.vercel.app/ten-tv-prime/index.m3u8"
@@ -6006,7 +6006,7 @@
         "url": "https://iptvlive-beta.vercel.app/colors-gujarati/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nvisionbd-verified-colors-3cfc323d7c.png",
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-3cfc323d7c.png",
         "group": "Indian entertainment",
         "name": "Colors HD",
         "url": "https://iptvlive-beta.vercel.app/colors-hd/index.m3u8"
@@ -7542,7 +7542,7 @@
         "url": "https://iptvlive-beta.vercel.app/peace-tv-urdu/index.m3u8"
     },
     {
-        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tv-one-uk-ac43f0fa9e.png",
+        "logo": "",
         "group": "Islami",
         "name": "TV One UK",
         "url": "https://iptvlive-beta.vercel.app/tv-one-uk/index.m3u8"
@@ -8340,6 +8340,48 @@
         "url": "https://iptvlive-beta.vercel.app/movies-now-hd-576p/index.m3u8"
     },
     {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nickelodeon-india.png",
+        "group": "Kids",
+        "name": "Nickelodeon (India) (576p)",
+        "url": "https://iptvlive-beta.vercel.app/nickelodeon-india-576p/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nick-jr-india.png",
+        "group": "Kids",
+        "name": "Nick Jr. (India) (576p)",
+        "url": "https://iptvlive-beta.vercel.app/nick-jr-india-576p/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cvr-health.png",
+        "group": "Bnagla",
+        "name": "CVR Health (576p)",
+        "url": "https://iptvlive-beta.vercel.app/cvr-health-576p/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/disha-tv.png",
+        "group": "Bnagla",
+        "name": "Disha TV (396p)",
+        "url": "https://iptvlive-beta.vercel.app/disha-tv-396p/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mbc-tv.png",
+        "group": "Bnagla",
+        "name": "MBC TV (576p)",
+        "url": "https://iptvlive-beta.vercel.app/mbc-tv-576p/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/the-q-india.svg",
+        "group": "Bnagla",
+        "name": "The Q India (576p)",
+        "url": "https://iptvlive-beta.vercel.app/the-q-india-576p/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tv-100-india.png",
+        "group": "Bnagla",
+        "name": "TV 100 (India) (576p)",
+        "url": "https://iptvlive-beta.vercel.app/tv-100-india-576p/index.m3u8"
+    },
+    {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/all-time-movies.png",
         "group": "Bnagla",
         "name": "All Time Movies (576p)",
@@ -8392,6 +8434,18 @@
         "group": "Bnagla",
         "name": "Vendhar TV (576p)",
         "url": "https://iptvlive-beta.vercel.app/vendhar-tv-576p/index.m3u8"
+    },
+    {
+        "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pogo.png",
+        "group": "Kids",
+        "name": "Pogo (576p)",
+        "url": "https://iptvlive-beta.vercel.app/pogo-576p/index.m3u8"
+    },
+    {
+        "logo": "",
+        "group": "Bnagla",
+        "name": "Jaihind TV (576p)",
+        "url": "https://iptvlive-beta.vercel.app/jaihind-tv-576p/index.m3u8"
     },
     {
         "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asian-tv.png",
